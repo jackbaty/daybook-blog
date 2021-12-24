@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+<title>Jack Baty Daily</title>
+<link>https://daily.baty.net</link>
+<description>Daily notes by Jack Baty</description>
+	<item>
+<title>Friday, December 24, 2021</title>
+<link>posts/2021/12/24.html</link>
+<description><![CDATA[
+
+
+
+<div class="postNoTitle">
+
+
+<span class="permalinkHash"><a href="posts/2021/12/24/Almost-done-with-the-reb.html">#</a></span> <p>Good morning, it's 4:26 am. Day two of the blog/Tinderbox rebuild. </p> 
+
+</div>
+
+
+
+
+    ]]></description>
+<guid>https://daily.baty.net/posts/2021/12/24.html</guid>
+</item>
+<item>
+<title>Thursday, December 23, 2021</title>
+<link>posts/2021/12/23.html</link>
+<description><![CDATA[
+
+
+
+<div class="postNoTitle">
+
+
+	<img src="https://daily.baty.net/img/small/tinderboxicon.png" alt="Again with Tinderbox" class="sideImage">
+
+<span class="permalinkHash"><a href="posts/2021/12/23/Again-with-Tinderbox.html">#</a></span> <p>Funny that Alex mentions Tinderbox, since I’ve been keeping up with my Tinderbox Daybook for a week or so. And I also posted again to notes.baty.net, which is built using Tinderbox, just for fun. The scary part is that I started thinking about combining the notes blog and my daybook into one giant Tinderbox document for 2022. How cool would it be to have all my stuff in one place (that’s not Emacs)? It solves the related problem of public vs private notes. Using Tinderbox makes it easy to publish only what I want, where I want. I can also pull in parts of private outlines and notes into the published areas. Hmmm.</p>
+
+<p>That does it. I’m creating a brand new Tinderbox document with the intention of combining my Daybook and Blog documents for 2022. This will work nicely as a way to avoid doing anything actually useful today.</p> 
+
+</div>
+
+
+
+
+
+
+<div class="postNoTitle">
+
+
+<span class="permalinkHash"><a href="posts/2021/12/23/Chris-Locke-1947-2021-.html">#</a></span> <p>We lost Chris Locke this week. I cut my blogging teeth wanting to be <a href="http://www.rageboy.com">Rageboy</a>. <a href="https://blogs.harvard.edu/doc/2021/12/21/rage-in-peace/">Here's Doc Searls</a>.</p> 
+
+</div>
+
+
+
+
+
+
+<div class="postNoTitle">
+
+<figure>
+		<img src="https://daily.baty.net/img/2021/leica-m10-r.jpg" alt="Leica M10-R" class="postimage">
+</figure>
+
+
+<span class="permalinkHash"><a href="posts/2021/12/23/Thinking-about-cameras.html">#</a></span> <p>I'm still feeling guilty about buying the M10-R. </p> 
+
+</div>
+
+
+
+
+
+
+<div class="postNoTitle">
+
+
+<span class="permalinkHash"><a href="posts/2021/12/23/New-note-taking-tool---t.html">#</a></span> <p>This looks worth a look: <a href="https://www.tatatap.com">https://www.tatatap.com</a></p>
+ 
+
+</div>
+
+
+
+
+    ]]></description>
+<guid>https://daily.baty.net/posts/2021/12/23.html</guid>
+</item>
+<item>
+<title>Wednesday, December 22, 2021</title>
+<link>posts/2021/12/22.html</link>
+<description><![CDATA[
+
+
+
+<div class="postNoTitle">
+
+<figure>
+		<img src="https://daily.baty.net/img//2021/caddygrille.jpg" alt="" class="postimage">
+</figure>
+
+
+<span class="permalinkHash"><a href="posts/2021/12/22/Caddy-Grille.html">#</a></span> <p>Do cars get any cooler than this?</p>
+ 
+
+</div>
+
+
+
+
+
+
+<div class="postNoTitle">
+
+
+<span class="permalinkHash"><a href="posts/2021/12/22/More-project.html">#</a></span> <p>I’m still planning to spend at least a few hours each day this week on my little Rails project. So far it’s not clicking for me. I’m in the must-look-up-every-single-thing phase and it’s exhausting.</p> 
+
+</div>
+
+
+
+
+
+
+<div class="postNoTitle">
+
+
+<span class="permalinkHash"><a href="posts/2021/12/22/Futzing-with-Roon-metada.html">#</a></span> <p>For someone who’s recently claimed that “owning” and managing music was no longer interesting, I’m sure spending a lot of time today editing metadata of my local library in Roon.</p> 
+
+</div>
+
+
+
+
+    ]]></description>
+<guid>https://daily.baty.net/posts/2021/12/22.html</guid>
+</item>
+<item>
+<title>Wednesday, December 8, 2021</title>
+<link>posts/2021/12/08.html</link>
+<description><![CDATA[
+
+
+
+<div class="postNoTitle">
+
+
+<span class="permalinkHash"><a href="posts/2021/12/08/Remember-this-.html">#</a></span> <p>Alex reminded me about this blog, so I just had to open Tinderbox and play with it. I don't know if it will go anywhere, since I'm in the middle of another "where do I post stuff!?" crisis. This, though, remains an option.</p>
+<p>Is it funny that I don't even remember where this site is hosted? Maybe not "funny" so much as symptomatic of the entire problem. Update: It's using <a href="https://pages.cloudflare.com">Cloudflare Pages</a>.</p> 
+
+</div>
+
+
+
+
+    ]]></description>
+<guid>https://daily.baty.net/posts/2021/12/08.html</guid>
+</item>
+<item>
+<title>Tuesday, November 23, 2021</title>
+<link>posts/2021/11/24.html</link>
+<description><![CDATA[
+
+
+
+<div class="postNoTitle">
+
+
+<span class="permalinkHash"><a href="posts/2021/11/24/Today.html">#</a></span> <p>There are several ways to approach images in ox-hugo. I’m trying three of them in this post :). First, I drag and drop an image into the buffer and it’s automatically, via org-attach, moved into ./attach/XX/UUIDfilename.jpg. A link is inserted and when rendering markdown, it uses Hugo’s “figure” short code. This is the easiest option to do, but has the most moving parts. I don’t like that I don’t have control over the precise path. Second, I just link to the URL of an image in SmugMug. Super easy, but I do have to upload the image then grab the “share” link. Not bad. The third option is to generate a local file link like [[img/foo.jpg]]. This feels the most self-contained and tidy, but means exporting a specifically-sized image, naming it something, copying that name, and moving it into the static/img/etc. folder. I’ll probably try all three ways for a bit to see which feels best.</p>
+<p>I’ve been having a lot of fun in the darkroom lately.</p>
+
+<p>Blogging with Drummer feels like using someone else’s bathroom. I really have to go, and it’s a nice bathroom, but it’s not mine and I can’t really relax, ya know</p> 
+
+</div>
+
+
+
+
+    ]]></description>
+<guid>https://daily.baty.net/posts/2021/11/24.html</guid>
+</item>
+<item>
+<title>Friday, November 19, 2021</title>
+<link>posts/2021/11/19.html</link>
+<description><![CDATA[
+
+
+
+<div class="postNoTitle">
+
+
+<span class="permalinkHash"><a href="posts/2021/11/19/I-ll-come-back-to-this-l.html">#</a></span> <p>I was all over rebuilding this blog yesterday. This morning I planned to gut the HTML/CSS and try to clean things up a bit myself rather than <strike>stealing</strike> borrowing Dave's legacy markup. It wasn't long before I ran into the road block called "Modern Web Development" and lost my mojo. Maybe it's that I feel like crap from the Moderna booster vaccine yesterday, but I think I'll let this idle for a bit.</p> 
+
+</div>
+
+
+
+
+
+
+
+	<h3><a href="posts/2021/11/19/I-went-to-a-bookstore-ye.html">I went to a bookstore yesterday</a></h3>
+
+<section>
+
+
+	<p>Have you ever been to a bookstore? I have, and they are wonderful.</p>
+<p>I needed to run some errands yesterday and happened to drive by <a href="https://www.schulerbooks.com/">Schuler Books</a>, an independent store based in Michigan and one I've been going to for decades.</p>
+<p>It's been a couple of years since I've been inside a bookstore and oh my goodness what a feeling. Am I the only one that feels a certain calming wonder upon entering any bookstore? Maybe not the giant chain stores because they feel a little yucky to me and it takes the fun out of it, but the local(ish) stores that have been in the neighborhood forever. Mmmm.</p>
+<p>Shopping for books by walking around amongst the shelves is an immeasurably better experience than endlessly clicking on the computer. The only reviews to be had are a few hand-written notes in front of some books. One per book. No aggregated score. No algorithm. No ads.</p>
+<p>I bought the <a href="https://bookshop.org/books/termination-shock-9780063028050/9780063028050">new Neal Stephenson book</a> (which is honestly why I was there in the first place). But I also bought <a href="https://bookshop.org/books/the-ten-thousand-doors-of-january-9780316421997/9780316421973">The Ten Thousand Doors of January</a> and a <a href="https://bookshop.org/books/the-selected-poetry-of-rainer-maria-rilke-bilingual-edition/9780679722014">book of poetry by Rilke</a>. During checkout, they said that they loved the Rilke book and how it included the original German-language versions. They then inserted a bookmark in each book, and packed them all into a crisp paper bag and said, "Enjoy!"</p>
+
+<p>Bookstores are the best.</p>
+	
+</section>
+
+
+
+
+    ]]></description>
+<guid>https://daily.baty.net/posts/2021/11/19.html</guid>
+</item>
+<item>
+<title>Thursday, November 18, 2021</title>
+<link>posts/2021/11/18.html</link>
+<description><![CDATA[
+
+
+
+<div class="postNoTitle">
+
+
+<span class="permalinkHash"><a href="posts/2021/11/18/No-news-is-good-news.html">#</a></span> <p>I have been avoiding news sites, mostly successfully, for a while now. Life is better without knowing about things I neither care nor can do anything about. The Economist once a week is enough. When I do accidentally dip into NYT or similar, I am reminded that the Bad Guys really are winning and it depresses me to no end.</p> 
+
+</div>
+
+
+
+
+
+
+<div class="postNoTitle">
+
+
+<span class="permalinkHash"><a href="posts/2021/11/18/About-that-M10-Monochrom.html">#</a></span> <p>I've been thinking a lot lately about getting a Leica M10 Monochrom. I know, I know, it's a bad idea. I had the Leica Q2 Monochrom and sold it. But but but! The idea is that if I consider myself a primarily black and white photographer, and I do, there's nothing better than the M10M. Except it's way too expensive for something so limited. Then I had a genius idea. What about an M10-P again? But, and here's the genius part, set up Lightroom to convert raw images to black and white on import! That way I never have to actually see each image in color and decide if I should convert it to black and white. It's darn close to shooting B&W right in the camera. Later, if I do happen to get curious, I can peek at the original color version, just in case. Ha? Ya?</p> 
+
+</div>
+
+
+
+
+
+
+<div class="postNoTitle">
+
+
+<span class="permalinkHash"><a href="posts/2021/11/18/Social-features.html">#</a></span> <p>Adding social or collaborative features to an app invariably makes that app worse. (Unless of course that's what the app is <i>for</i>)</p> 
+
+</div>
+
+
+
+
+
+
+<div class="postNoTitle">
+
+
+<span class="permalinkHash"><a href="posts/2021/11/18/Three-years-at-the-Lathe.html">#</a></span> <p>I've been writing in my wiki at <a href="https://rudimentarylathe.wiki">rudimentarylathe.wiki</a> for over three years. It now contains 2766 "tiddlers". That's the longest I've stuck with any platform in as long as I can remember. I often think about moving to something newer or prettier or whatever, but in short order I'm back in TiddlyWiki. It's comfortable.</p> 
+
+</div>
+
+
+
+
+    ]]></description>
+<guid>https://daily.baty.net/posts/2021/11/18.html</guid>
+</item>
+<item>
+<title>Wednesday, November 17, 2021 </title>
+<link>posts/2021/11/17.html</link>
+<description><![CDATA[
+
+
+
+<div class="postNoTitle">
+
+
+<span class="permalinkHash"><a href="posts/2021/11/17/This-has-no-title.html">#</a></span> <p>And what if it worked the same way? For example, this post has no title. I <a href="  https://rudimentarylathe.wiki/#Tinderbox%20Drummer%20blog">wrote up some notes</a>.</p> 
+
+</div>
+
+
+
+
+
+
+<div class="postNoTitle">
+
+<figure>
+		<img src="https://daily.baty.net/img/2021/drummer-tinderbox.png" alt="" class="postimage">
+</figure>
+
+
+<span class="permalinkHash"><a href="posts/2021/11/17/What-if-I-built-Drummer-.html">#</a></span> <p>I've been mentally hedging my bets around <a href="http://drummer.scripting.com">Drummer</a> and wondering how difficult it would be to morph this Tinderbox-generated blog into something much more Drummer like. They're both based on outlines, after all. I'd just need to change the export templates to group by day and deal with individual vs titled notes. There's probably a lot more to it, but let's noodle on it, shall we?</p>
+
+<p>:2 hours later:</p>
+
+<p>I did it. You're soaking in it. I <a href="  https://rudimentarylathe.wiki/#Tinderbox%20Drummer%20blog">wrote up some notes in the wiki</a>.</p>
+
+ 
+
+</div>
+
+
+
+
+    ]]></description>
+<guid>https://daily.baty.net/posts/2021/11/17.html</guid>
+</item>
+<item>
+<title>Sunday, November 14, 2021</title>
+<link>posts/2021/11/14.html</link>
+<description><![CDATA[
+
+
+
+<div class="postNoTitle">
+
+
+	<img src="https://daily.baty.net/img/small/mime-trapped.jpg" alt="I don't worry too much about "Lock-In"" class="sideImage">
+
+<span class="permalinkHash"><a href="posts/2021/11/14/I-don-t-worry-too-much-a.html">#</a></span> <p><a href="https://youneedastereo.com/#Ton%20Zijlstra%20is%20careful%20about%20using%20notetaking%20app%20features">Phil asks</a>:</p>
+		<blockquote>In short, are the short-term gains from using whatever fancy, proprietary features in a tool worth the cost of spending time worrying about lock-in, and the lost time or lost search results when you can't query all of your notes at once? </blockquote>
+<p>Again, I think this comes down to how and when the notes are most useful. For things like my Daybook, I'm convinced that simple text files (<a href="https://orgmode.org/">Org mode</a>, in my case) are best. They're mostly for searching later. Sometimes <i>much</i> later. No other features are necessary to get value from my notes.</p>
+<p>But for, say, notes about an active project, features such as transclusion and backlinking and spatial presentation can be very useful and totally worth the trade-off of (maybe) being "broken" some day in the future. I have notes from many defunct apps that can still search in a pinch. Voodoopad, Circus Ponies, etc. I just made sure to export them as best I could when it became obvious the software was going away. Spotlight almost always finds what I was looking for. It's not ideal, but it's not a big problem, either. Sure, I lost the fancy bits in translation, but I no longer need those features for those notes. As long as the fancy stuff is just layered over extractable plain text, it's probably never going to be an issue. Stop wasting time hand-wringing and get on with it, I say 😁.</p>
+<p>What about my "Second Brain" or "Digital Garden" or "Zettelkastan" or whatever the Productivity Bloggers are labeling their random pile of notes these days? This falls somewhere between needing to be useful now and remaining useful forever, so it muddies things a little. I'm convinced that if one is trying to (lord help me) "synthesize knowledge" from their notes, the extra organization or presentation features are in every way superior <b>today</b> to a wall of plain text notes. Why not take advantage of it all?</p>
+<p>(Of course, I use plain text Org files for nearly all my personal notes, but that's not because I fear lock-in. It's because I love Org mode so much.)</p> 
+
+</div>
+
+
+
+
+    ]]></description>
+<guid>https://daily.baty.net/posts/2021/11/14.html</guid>
+</item>
+<item>
+<title>Saturday, November 6, 2021</title>
+<link>posts/2021/11/06.html</link>
+<description><![CDATA[
+
+
+
+<div class="postNoTitle">
+
+
+<span class="permalinkHash"><a href="posts/2021/11/06/It-s-about-where-I-like-.html">#</a></span> <p>For years, I'd tell you that typing in a native Mac app is by far the best way to write <i>anything</i>. That was when web apps were still pretty basic and terrible. Today, though, browsers are pretty good at, well, everything. I still mostly prefer native apps, but the gap has closed considerably.</p>
+<p>It also depends on where the text is to end up. If it's for, say, a blog post, why not just write in a browser, since one could argue that for web publishing, editing in a browser <i>is</i> using a native app.</p> 
+
+</div>
+
+
+
+
+
+
+<div class="postNoTitle">
+
+<figure>
+		<img src="https://daily.baty.net/img/2021/toes.jpg" alt="" class="postimage">
+</figure>
+
+
+<span class="permalinkHash"><a href="posts/2021/11/06/Image-Test.html">#</a></span> <p>If I want a "Featured Image" on a post here, I just paste the URL in the "Image" attribute of the post and the template puts it where it belongs. I'd almost forgotten I did that. Can you imagine how great things would be if I focused my time and attention on just one or two things for months or years rather than just dipping my toes in?</p> 
+
+</div>
+
+
+
+
+    ]]></description>
+<guid>https://daily.baty.net/posts/2021/11/06.html</guid>
+</item>
+
+</channel>
+
+</rss>
