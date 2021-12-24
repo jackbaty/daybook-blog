@@ -71,9 +71,7 @@ article h2 {
 	font-family: Oswald;
 	margin-bottom: 0px; }
 
-article h2.dayHeader {
-	font-family: Oswald;
-	margin-bottom: 2.625rem; }
+
 
 article {
 	font-family: Ubuntu, sans-serif;}
@@ -90,8 +88,11 @@ font-size:0.8em;
 text-align: center;
 }
 
-.post-date {color: var(--muted-color); font-size:0.8em}
+.post-meta {color: var(--muted-color); font-size:0.8em}
 
+figure img {
+	display: block;
+	margin: 10px auto; }
 
 figure figcaption {
 	font-size: 0.8em;
