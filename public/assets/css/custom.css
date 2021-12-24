@@ -67,7 +67,12 @@ nav {
 	justify-content: center; }
 
 article h2 {
-	font-family: Oswald; }
+	font-family: Oswald;
+	margin-bottom: 0px; }
+
+article h2.dayHeader {
+	font-family: Oswald;
+	margin-bottom: 2.625rem; }
 
 article {
 	font-family: Ubuntu, sans-serif;}
