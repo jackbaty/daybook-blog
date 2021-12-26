@@ -6,6 +6,45 @@
 <link>https://daily.baty.net</link>
 <description>Daily notes by Jack Baty</description>
 	<item>
+<title>Sunday, December 26, 2021</title>
+<link>posts/2021/12/26.html</link>
+<description><![CDATA[
+
+
+
+<div class="postNoTitle">
+
+
+<span class="permalinkHash"><a href="posts/2021/12/26/Dave-Rogers-on-distracti.html">#</a></span> <blockquote class="quoteback" darkmode="" data-title="Distraction" data-author="" cite="https://nice-marmot.net/">
+<p>Somehow, some part of their attention is directed toward the possibility that their application environment isn't "ideal." They have this notion there's some perfect writing environment that will make them more productive or better writers by eliminating this thing called "distraction." There's some anxiety about the tool they're using.</p>
+<footer><cite> <a href="https://nice-marmot.net/">https://nice-marmot.net/</a></cite></footer>
+</blockquote><script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
+<p>Dave's right. However, I shall exclude myself from the "they" in his post, even though I've gone through many iterations around "distraction-free" writing myself. I don't do it because I feel the writing environment is holding me back. I do it because it's fun to twiddle with tools. Same with cameras. My cameras outclassed my abilities <i>years</i> ago, but I still keep trying new cameras because I love cameras.</p>
+<p>Oh, and specifically with Tinderbox, I wrote about distraction-free writing in Tinderbox in 2012 :). <a href="https://archive.baty.net/2012/tinderbox-as-a-minimalist-writing-environment/">Tinderbox as a Minimalist Writing Environment</a>. (Unfortunately, all of my blogs images from 2012 were lost during one of many platform migrations.)</p>
+ 
+
+</div>
+
+
+
+
+
+
+<div class="postNoTitle">
+
+
+<span class="permalinkHash"><a href="posts/2021/12/26/Speaking-of-distractions.html">#</a></span> <p>This week started out with the intention of building a Rails app, but ended with the creation of an entirely new Tinderbox Daybook and blogging system. You're soaking in it. I'm still considering moving the whole enterprise to baty.blog and just living with that for a while. However, I still wonder about returning it to rudimentarylathe.org or maybe even replacing the photography domain copingmechanism.com. </p>
+ 
+
+</div>
+
+
+
+
+    ]]></description>
+<guid>https://daily.baty.net/posts/2021/12/26.html</guid>
+</item>
+<item>
 <title>Saturday, December 25, 2021</title>
 <link>posts/2021/12/25.html</link>
 <description><![CDATA[
@@ -30,12 +69,12 @@
 <section>
 
 <figure>
-		<img src="https://daily.baty.net/img/2021/20211225-TapScreenshot.png" alt="" class="postimage">
+		<img src="https://daily.baty.net/img//img/2021/20211225-TapScreenshot.png" alt="" class="postimage">
 </figure>
 
 
 	<p>I learned about a new note-taking app, <a href="https://www.tatatap.com">/tap</a>, so of course I gave it a spin.  /tap is about creating short, "smart" notes. "Bite-size notes with special stuff."</p>
-<p>Most of the interaction with /tap is done via typing. So you can put a note in the "to-read" folder by starting the note with "/to-read". There's #tagging also. It gets fun when adding "events" and "beans". An event tracks things that happen each day. Good for tracking, say, meditation or workouts. Beans are simple counters. Add beans with "+mybean:10", for example. Events and Beans are tracked separately and can be seen in special views by date or by account. </p>
+<p>Most of the interaction with /tap is done via typing. So you can put a note in the "to-read" folder by starting the note with "<code>/to-read</code>". There's <code>#tagging</code> also. It gets fun when adding "events" and "beans". An event tracks things that happen each day. Good for tracking, say, meditation or workouts. Beans are simple counters. Add beans with "<code>+mybean:10</code>", for example. Events and Beans are tracked separately and can be seen in special views by date or by account. </p>
 <p>/tap is a simple but clever app with some fun ideas. I love its simple, sparse design. /tap is a web app and costs $7/month. This comes with the usual concerns about privacy and longevity, but for some it might be just the ticket.</p>
 	
 </section>
@@ -49,6 +88,34 @@
 
 
 <span class="permalinkHash"><a href="posts/2021/12/25/Should-this-site-be-at-b.html">#</a></span> <p>I'm still working through the differences between this site and the blog at baty.blog. So much for my dream of maintaining just one site for everything. And Coping Mechanism is still out there, even though I've had a TODO in my inbox for a which which says, "Delete the <a href="https://baty.blog">Copingmechanism.com</a> instance." The idea was to use this site instead of the wiki for daily notes, and baty.blog for everything else. But then just this morning I wrote what could be considered a "real" blog post with <a href="posts/2021/12/25/Trying-a-new-app-tap.html">Trying a new app, /tap</a>. Shouldn't that go on the blog? Probably, but I was already here, if you know what I mean. Sigh. Still noodlin'.</p> 
+
+</div>
+
+
+
+
+
+
+<div class="postNoTitle">
+
+
+<span class="permalinkHash"><a href="posts/2021/12/25/Added-a-ChangeLog.html">#</a></span> <p>I've added a <a href="changelog.html">ChangeLog</a> to record structural changes I'm making here.</p> 
+
+</div>
+
+
+
+
+
+
+<div class="postNoTitle">
+
+<figure>
+		<img src="https://daily.baty.net/img/https://photos.smugmug.com/Blog-Photos/i-pVLdCjG/0/f9ec6008/X2/20211222-L1000677-X2.jpg" alt="" class="postimage">
+</figure>
+
+
+<span class="permalinkHash"><a href="posts/2021/12/25/Testing-external-images.html">#</a></span> <p>Bringing the little Polaroid today.</p> 
 
 </div>
 
@@ -94,7 +161,7 @@
 <div class="postNoTitle">
 
 <figure>
-		<img src="https://daily.baty.net/img/2021/20211224-johndies.png" alt="" class="postimage">
+		<img src="https://daily.baty.net/img//img/2021/20211224-johndies.png" alt="" class="postimage">
 </figure>
 
 
@@ -110,7 +177,7 @@
 <div class="postNoTitle">
 
 <figure>
-		<img src="https://daily.baty.net/img/2021/river.png" alt="Found Negative" class="postimage">
+		<img src="https://daily.baty.net/img//img/2021/river.png" alt="Found Negative" class="postimage">
 </figure>
 
 
@@ -154,7 +221,7 @@
 <div class="postNoTitle">
 
 <figure>
-		<img src="https://daily.baty.net/img/2021/20211224-outside.jpg" alt="Collage: der Freitag, Material: Getty Images, Unsplash, Imago Images, Friends of American Art Collection/AIC" class="postimage">
+		<img src="https://daily.baty.net/img//img/2021/20211224-outside.jpg" alt="Collage: der Freitag, Material: Getty Images, Unsplash, Imago Images, Friends of American Art Collection/AIC" class="postimage">
 </figure>
 
 
@@ -206,7 +273,7 @@
 <div class="postNoTitle">
 
 <figure>
-		<img src="https://daily.baty.net/img/2021/leica-m10-r.jpg" alt="Leica M10-R" class="postimage">
+		<img src="https://daily.baty.net/img//img/2021/leica-m10-r.jpg" alt="Leica M10-R" class="postimage">
 </figure>
 
 
@@ -243,7 +310,7 @@
 <div class="postNoTitle">
 
 <figure>
-		<img src="https://daily.baty.net/img//2021/caddygrille.jpg" alt="" class="postimage">
+		<img src="https://daily.baty.net/img//img/2021/caddygrille.jpg" alt="" class="postimage">
 </figure>
 
 
@@ -464,33 +531,6 @@
 
     ]]></description>
 <guid>https://daily.baty.net/posts/2021/11/17.html</guid>
-</item>
-<item>
-<title>Sunday, November 14, 2021</title>
-<link>posts/2021/11/14.html</link>
-<description><![CDATA[
-
-
-
-<div class="postNoTitle">
-
-
-	<img src="https://daily.baty.net/img/small/mime-trapped.jpg" alt="I don't worry too much about "Lock-In"" class="sideImage">
-
-<span class="permalinkHash"><a href="posts/2021/11/14/I-don-t-worry-too-much-a.html">#</a></span> <p><a href="https://youneedastereo.com/#Ton%20Zijlstra%20is%20careful%20about%20using%20notetaking%20app%20features">Phil asks</a>:</p>
-		<blockquote>In short, are the short-term gains from using whatever fancy, proprietary features in a tool worth the cost of spending time worrying about lock-in, and the lost time or lost search results when you can't query all of your notes at once? </blockquote>
-<p>Again, I think this comes down to how and when the notes are most useful. For things like my Daybook, I'm convinced that simple text files (<a href="https://orgmode.org/">Org mode</a>, in my case) are best. They're mostly for searching later. Sometimes <i>much</i> later. No other features are necessary to get value from my notes.</p>
-<p>But for, say, notes about an active project, features such as transclusion and backlinking and spatial presentation can be very useful and totally worth the trade-off of (maybe) being "broken" some day in the future. I have notes from many defunct apps that can still search in a pinch. Voodoopad, Circus Ponies, etc. I just made sure to export them as best I could when it became obvious the software was going away. Spotlight almost always finds what I was looking for. It's not ideal, but it's not a big problem, either. Sure, I lost the fancy bits in translation, but I no longer need those features for those notes. As long as the fancy stuff is just layered over extractable plain text, it's probably never going to be an issue. Stop wasting time hand-wringing and get on with it, I say 😁.</p>
-<p>What about my "Second Brain" or "Digital Garden" or "Zettelkastan" or whatever the Productivity Bloggers are labeling their random pile of notes these days? This falls somewhere between needing to be useful now and remaining useful forever, so it muddies things a little. I'm convinced that if one is trying to (lord help me) "synthesize knowledge" from their notes, the extra organization or presentation features are in every way superior <b>today</b> to a wall of plain text notes. Why not take advantage of it all?</p>
-<p>(Of course, I use plain text Org files for nearly all my personal notes, but that's not because I fear lock-in. It's because I love Org mode so much.)</p> 
-
-</div>
-
-
-
-
-    ]]></description>
-<guid>https://daily.baty.net/posts/2021/11/14.html</guid>
 </item>
 
 </channel>
