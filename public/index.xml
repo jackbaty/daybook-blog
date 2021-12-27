@@ -6,6 +6,26 @@
 <link>https://daily.baty.net</link>
 <description>Daily notes by Jack Baty</description>
 	<item>
+<title>Monday, December 27, 2021</title>
+<link>posts/2021/12/27.html</link>
+<description><![CDATA[
+
+
+
+<div class="postNoTitle">
+
+
+<span class="permalinkHash"><a href="posts/2021/12/27/I-like-sitting-here-and-.html">#</a></span> <p>At times, I feel embarrassed about sitting here and writing for so much time every day. There are so many other, more "productive" things I could (should?) be doing. But I love doing this. I love writing and sharing the things I'm thinking about. I love sitting in front of this beautiful monitor with this amazing keyboard attached to the best computer I've ever owned, and just typing.</p> 
+
+</div>
+
+
+
+
+    ]]></description>
+<guid>https://daily.baty.net/posts/2021/12/27.html</guid>
+</item>
+<item>
 <title>Sunday, December 26, 2021</title>
 <link>posts/2021/12/26.html</link>
 <description><![CDATA[
@@ -62,7 +82,7 @@
 <div class="postNoTitle">
 
 
-<span class="permalinkHash"><a href="posts/2021/12/26/Note-icons-on-the-archiv.html">#</a></span> <p>Tinderbox does this cool thing in outlines where the icon changes based on the age and size of each note. I'm working on mimicking that feature here. I'm a little lost when it comes to the new "functions" features in Tinderbox 9.1 so I fell back to adding some Action code as an Edict. Like this...</p>
+<span class="permalinkHash"><a href="posts/2021/12/26/Note-icons-on-the-archiv.html">#</a></span> <p>Tinderbox does this cool thing in outlines where the icon changes based on the age and size of each note. I'm working on mimicking that feature on the <a href="archives.html">Archives</a> page here. I'm a little lost when it comes to the new "functions" features in Tinderbox 9.1 so I fell back to adding some Action code as an Edict. Like this...</p>
 
 <pre>
 if ($TextLength>500) {
@@ -572,48 +592,6 @@ if ($Image) {$NoteIcon = "cam.png"};
 
     ]]></description>
 <guid>https://daily.baty.net/posts/2021/11/18.html</guid>
-</item>
-<item>
-<title>Wednesday, November 17, 2021 </title>
-<link>posts/2021/11/17.html</link>
-<description><![CDATA[
-
-
-
-<div class="postNoTitle">
-
-
-<span class="permalinkHash"><a href="posts/2021/11/17/This-has-no-title.html">#</a></span> <p>And what if it worked the same way? For example, this post has no title. I <a href="  https://rudimentarylathe.wiki/#Tinderbox%20Drummer%20blog">wrote up some notes</a>.</p> 
-
-</div>
-
-
-
-
-
-
-<div class="postNoTitle">
-
-<figure>
-		<img src="https://daily.baty.net2021/drummer-tinderbox.png" alt="" class="postimage">
-</figure>
-
-
-<span class="permalinkHash"><a href="posts/2021/11/17/What-if-I-built-Drummer-.html">#</a></span> <p>I've been mentally hedging my bets around <a href="http://drummer.scripting.com">Drummer</a> and wondering how difficult it would be to morph this Tinderbox-generated blog into something much more Drummer like. They're both based on outlines, after all. I'd just need to change the export templates to group by day and deal with individual vs titled notes. There's probably a lot more to it, but let's noodle on it, shall we?</p>
-
-<p>:2 hours later:</p>
-
-<p>I did it. You're soaking in it. I <a href="  https://rudimentarylathe.wiki/#Tinderbox%20Drummer%20blog">wrote up some notes in the wiki</a>.</p>
-
- 
-
-</div>
-
-
-
-
-    ]]></description>
-<guid>https://daily.baty.net/posts/2021/11/17.html</guid>
 </item>
 
 </channel>
