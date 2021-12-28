@@ -80,6 +80,10 @@ article {
 article h3 {
 	margin-bottom: 0.5em;}
 
+article>header {
+	margin-bottom: 2em;
+}
+
 footer {
 	text-align: center;
 }
