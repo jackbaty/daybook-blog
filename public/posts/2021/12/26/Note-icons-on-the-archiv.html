@@ -37,28 +37,8 @@
 		<article class="singlePost">
 <header>
 	<h2>Note icons on the archives page</h2>
-	 <div class="post-meta"> Sunday, 26 December 2021 </div>
-</header>
-<section>
-
-
-	<p>Tinderbox does this cool thing in outlines where the icon changes based on the age and size of each note. I'm working on mimicking that feature on the <a href="../../../../archives.html">Archives</a> page here. I'm a little lost when it comes to the new "functions" features in Tinderbox 9.1 so I fell back to adding some Action code as an Edict. Like this...</p>
-
-<pre>
-if ($TextLength>500) {
-    	$NoteIcon="long.png";
-}
-if ($TextLength>50 & $TextLength<=500) {
-    	$NoteIcon ="medium.png";
-}
-if ($TextLength<50) {
-	$NoteIcon ="small.png";
-}
-if ($Image) {$NoteIcon = "cam.png"};
-</pre>
-	
-</section>
-</article>
+	<div class="post-meta"> Sunday, 26 December 2021 		
+		
 
     </main>
 	<!--  Tinderbox: ^title -->

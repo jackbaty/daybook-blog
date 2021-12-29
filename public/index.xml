@@ -8,6 +8,7 @@
 	<item>
 <title>Wednesday, December 29, 2021</title>
 <link>posts/2021/12/29.html</link>
+<pubDate>12/29/21, 4:23 AM</pubDate>
 <description><![CDATA[
 
 
@@ -15,7 +16,33 @@
 <div class="postNoTitle">
 
 
-<span class="permalinkHash"><a href="posts/2021/12/29/Good-morning.html">#</a></span> <p>Good morning. It's 4:25 am and let's try and not waste an entire day. <i>Another</i> entire day.</p> 
+<span class="permalinkHash"><a href="posts/2021/12/29/Good-morning.html">#</a></span> <p>Year: ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░ 99%</p>
+
+<p>Good morning. It's 4:25 am and let's try and not waste an entire day. <i>Another</i> entire day.</p> 
+
+</div>
+
+
+
+
+
+
+<div class="postNoTitle">
+
+
+<span class="permalinkHash"><a href="posts/2021/12/29/Tinderbox-Watch-Folders.html">#</a></span> <p><a href="https://eastgate.com/Tinderbox">Tinderbox</a> has a feature that watches a folder in the Finder, Apple Notes, <a href="https://www.devontechnologies.com/apps/devonthink">DEVONthink</a>, and even <a href="https://tot.rocks">Tot</a>. It doesn't sync both ways, but it will import new notes from within those watched places and make new notes in a Tinderbox outline. This makes it easy to add notes to my Tinderbox file from a phone or iPad. It wouldn't be too much trouble to just copy and paste, but watched folders make it even easier.</p> 
+
+</div>
+
+
+
+
+
+
+<div class="postNoTitle">
+
+
+<span class="permalinkHash"><a href="posts/2021/12/29/Today-agent-in-Tinderbox.html">#</a></span> <p>I have a top-level Agent in my Tinderbox daybook named "Today". All it does is collect notes using a <code>$Date=date(today);</code> query.  Given that I'm putting both blog content and personal logging into the document, the Today container is a handy way to see everything going on today. I'll probably modify it to use a date attribute so I can easily jump to any day and see what I wrote then. Neat.</p> 
 
 </div>
 
@@ -28,6 +55,7 @@
 <item>
 <title>Tuesday, December 28, 2021</title>
 <link>posts/2021/12/28.html</link>
+<pubDate>12/28/21, 4:34 AM</pubDate>
 <description><![CDATA[
 
 
@@ -151,6 +179,7 @@
 <item>
 <title>Monday, December 27, 2021</title>
 <link>posts/2021/12/27.html</link>
+<pubDate>12/27/21, 5:15 AM</pubDate>
 <description><![CDATA[
 
 
@@ -260,6 +289,7 @@
 <item>
 <title>Sunday, December 26, 2021</title>
 <link>posts/2021/12/26.html</link>
+<pubDate>12/26/21, 7:23 AM</pubDate>
 <description><![CDATA[
 
 
@@ -382,6 +412,7 @@ if ($Image) {$NoteIcon = "cam.png"};
 <item>
 <title>Saturday, December 25, 2021</title>
 <link>posts/2021/12/25.html</link>
+<pubDate>12/25/21, 4:30 AM</pubDate>
 <description><![CDATA[
 
 
@@ -463,6 +494,7 @@ if ($Image) {$NoteIcon = "cam.png"};
 <item>
 <title>Friday, December 24, 2021</title>
 <link>posts/2021/12/24.html</link>
+<pubDate>12/24/21, 4:22 AM</pubDate>
 <description><![CDATA[
 
 
@@ -573,6 +605,7 @@ if ($Image) {$NoteIcon = "cam.png"};
 <item>
 <title>Thursday, December 23, 2021</title>
 <link>posts/2021/12/23.html</link>
+<pubDate>12/23/21, 10:44 AM</pubDate>
 <description><![CDATA[
 
 
@@ -638,6 +671,7 @@ if ($Image) {$NoteIcon = "cam.png"};
 <item>
 <title>Wednesday, December 22, 2021</title>
 <link>posts/2021/12/22.html</link>
+<pubDate>12/22/21, 12:07 PM</pubDate>
 <description><![CDATA[
 
 
@@ -687,6 +721,7 @@ if ($Image) {$NoteIcon = "cam.png"};
 <item>
 <title>Wednesday, December 8, 2021</title>
 <link>posts/2021/12/08.html</link>
+<pubDate>12/8/21, 1:57 PM</pubDate>
 <description><![CDATA[
 
 
@@ -708,6 +743,7 @@ if ($Image) {$NoteIcon = "cam.png"};
 <item>
 <title>Tuesday, November 23, 2021</title>
 <link>posts/2021/11/24.html</link>
+<pubDate>11/23/21, 5:34 AM</pubDate>
 <description><![CDATA[
 
 
