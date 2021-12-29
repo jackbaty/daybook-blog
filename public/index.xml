@@ -91,9 +91,36 @@
 
 	<img src="https://daily.baty.net/img/small/tinderboxicon.png" alt="Tinderbox or go to a play" class="sideImage">
 
-<span class="permalinkHash"><a href="posts/2021/12/29/Tinderbox-or-go-to-a-pla.html">#</a></span> <p><a href="https://eastgate.com/Tinderbox">Tinderbox</a> is an expensive piece of software, no doubt. You know how people dismiss spending $5 for an app, since "it costs the same as a Starbucks coffee."? Well, I like to think of Tinderbox as no more expensive than buying tickets to a play...a really good play that performs continually all day, every day, and helps me get stuff done and stay organized and publish a blog and...and...and. It's actually cheap, when you think of it that way. 😀</p> 
+<span class="permalinkHash"><a href="posts/2021/12/29/Tinderbox-or-go-to-a-pla.html">#</a></span> <p><a href="https://eastgate.com/Tinderbox">Tinderbox</a> is an expensive piece of software, no doubt. You know how people dismiss spending $5 for an app, since "it costs the same as a Starbucks coffee."? Well, I like to think of Tinderbox as no more expensive than buying tickets to a play...a really good play that performs continually all day, every day, and helps me get stuff done and stay organized and publish a blog and...and...and. It's actually cheap, when you think of it that way. 😀 <a href="https://fondoftea.com/#2021-12-29%20-%20Wednesday">Alex's note</a> made me think of this.</p> 
 
 </div>
+
+
+
+
+
+
+
+	<h3><a href="posts/2021/12/29/The-beginnings-of-my-Tin.html">The beginnings of my Tinderbox 2022 Dashboard</a></h3>
+
+<section>
+
+<figure>
+		<img src="https://daily.baty.net/img/2021/20211229-dash.png" alt="" class="postimage">
+</figure>
+
+
+	<p>I'm rebuilding my Tinderbox "Dashboard" for the new year. I neglected the whole Daybook last year but I'm determined to not let that happen this year.</p>
+<p>The dashboard is a Tinderbox "Map" view littered with agents showing various summary and aggregate information from the entire document.</p>
+<p>Last year I just showed the a number in the "Days remaining this year" note, but I'd forgotten that the map view of notes can plot the values of various attributes. The note's edict (like a rule, but runs less frequently) sets its "Subtitle" to the number of days remaining, like so:</p>
+<p><code>$Subtitle=days(date("today"),date("12/31/2021 6:00 PM"))</code></p>
+<p>I cheated in the screenshot using "42" because with only 2 days left this year, it doesn't make for a great demo. The inspector for that note looks like this:</p>
+<img src="/img/2021/20211229-inspector.png">
+<p>The note uses the built-in "Dashboard" prototype to make things prettier.</p>
+<p>The note's $DisplayExpression is simply <code>$Name + ": " + $Subtitle</p>
+</code><p>Neat, eh?</p>
+	
+</section>
 
 
 
