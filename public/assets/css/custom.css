@@ -24,13 +24,13 @@
 }
 @media (min-width: 992px) {
   .container {
-    max-width: 700px;
+    max-width: 920;
 	 --font-size: 17px;
   }
 }
 @media (min-width: 1200px) {
   .container {
-    max-width: 700px;
+    max-width: 920px;
 	 --font-size: 18px;
   }
 }
