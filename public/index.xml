@@ -37,6 +37,46 @@
 
 
 
+
+
+
+	<h3><a href="posts/2021/12/30/Weight-logging-with-Tind.html">Weight logging with Tinderbox</a></h3>
+
+<section>
+
+
+	<img src="https://daily.baty.net/img/small/tinderboxicon.png" alt="Weight logging with Tinderbox" class="sideImage">
+
+	<p><i>Note: This was originally posted over at copingmechanism.com but I thought it belonged here instead</i>.</p>
+<p>I kept a “daybook” using Tinderbox for years. I drifted away from Tinderbox for a few years after I became infatuated with Linux or iOS or other “cross-platform” systems. Right now, I’m back with a vengeance.</p>
+<p>While rebuilding my Daybook, I wanted to make logging my weight easier. It’s not like it was difficult, but I wanted to tweak it.</p>
+<p>Tinderbox is an outliner, so my weight entries are collected under a “Weight Log” node. It looked like this (I obviously wasn’t consistent with tracking last year).</p>
+<img src="/img/2021/20211230-weight-log.png">
+<p>The weight is stored in a numeric User Attribute called, surprisingly, “Weight”. The outline shows a custom “DisplayFormat” so that it reads nicely:</p>
+<p><code>$Weight + " pounds on " + format($StartDate,"MM D")</code></p>
+<p>To enter a new weight, I’d select an existing item in the outline, hit Return to create a new note, type in the weight, hit Return to save the note, then use the mouse to click the “Weight” attribute and re-enter the weight there. So much clicking!  😀.</p>
+<p>What I wanted to do was to type the weight once in the note’s Name and have the Weight attribute populated automatically. Tinderbox notes can have “Rules” which are commands that run periodically and can update a note’s attributes based on just about any criteria. I could have created a rule that set the Weight based on the Name, but that seemed like overkill since this only ever needs to happen once per note.</p>
+<p>With some help from Michael Becker, I think I’ve got it. (You should check out his video series on Mastering Tinderbox for all sorts of great Tinderbox content.)</p>
+<p>There’s an OnAdd action which sets the Prototype, Date, and Name of the note. (Setting the Name of the new note to “Enter Weight” is a nice touch.)</p>
+<p><code>$Prototype="pWeightLogEntry";$Date|=date(today);if($Name=="untitled"){$Name="Enter Weight"};</code></p>
+<p>Then, the new note gets a Rule (via the pWeightLogEntry Prototype) which sets the Weight attribute based on the value of Name:</p>
+
+<code><pre>
+$Weight|=$Name;
+if($Weight>0){
+$Name=$Date("l");
+$RuleDisabled=true};</pre></code>
+
+<p>The trick here is setting $RuleDisabled=true. What this does is force the Rule to run only once, which is all I need. I wasn’t aware of the $RuleDisabled attribute, so thanks to Michael for that tip.</p>
+<p>Now, to add a new Weight Log entry, I hit Return, type my weight, and hit Return again. Couldn’t be any easier! On my Daybooks “Dashboard” I can graph my weight over time, like so…</p>
+<img src="/img/2021/20211230-weight.png">
+<p>For those of you unfamiliar with Tinderbox, I’m sorry if I made too many assumptions here. Explaining Tinderbox can be an entire job in itself!</p>
+	
+</section>
+
+
+
+
     ]]></description>
 <guid>https://daily.baty.net/posts/2021/12/30.html</guid>
 </item>
