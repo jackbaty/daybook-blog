@@ -6,6 +6,39 @@
 <link>https://daily.baty.net</link>
 <description>Daily notes by Jack Baty</description>
 	<item>
+<title>Thursday, December 30, 2021</title>
+<link>posts/2021/12/30.html</link>
+<pubDate>Thu, 30 Dec 2021 04:24:55 -0500</pubDate>
+<description><![CDATA[
+
+
+
+<div class="postNoTitle">
+
+
+<span class="permalinkHash"><a href="posts/2021/12/30/Good-morning.html">#</a></span> <p>Good morning. It's 4:30 am. What a lovely walk through the fresh snow this morning.</p> 
+
+</div>
+
+
+
+
+
+
+<div class="postNoTitle">
+
+
+<span class="permalinkHash"><a href="posts/2021/12/30/Yep-still-have-2-blogs.html">#</a></span> <p>I hate the fact that I still have two (active) blogs. Moving <a href="http://copingmechanism.com">copingmechanism.com</a> to a more blog-friendly template made things confusing. And now this Tinderbox blog is getting so nice that the problem is even worse. They're now both very similar. Too similar.  I think I have to put <a href="http://copingmechanism.com">copingmechanism.com</a> back as a photography-focused blog with an overwrought template, just to differentiate it from this one. I'm also considering moving this blog to baty.blog and eliminating the Ghost instance running there.</p> 
+
+</div>
+
+
+
+
+    ]]></description>
+<guid>https://daily.baty.net/posts/2021/12/30.html</guid>
+</item>
+<item>
 <title>Wednesday, December 29, 2021</title>
 <link>posts/2021/12/29.html</link>
 <pubDate>Wed, 29 Dec 2021 04:23:06 -0500</pubDate>
@@ -50,6 +83,11 @@
 
 
 	<p>I have a top-level Agent in my Tinderbox daybook named "Today". All it does is collect notes using a <code>$Date=date(today);</code> query.  Given that I'm putting both blog content and personal logging into the document, the Today container is a handy way to see everything going on today. I'll probably modify it to use a date attribute so I can easily jump to any day and see what I wrote then. Neat.</p>
+<p><b>Update</b>: I did change the agent query to use my $Date attribute, like this:</p>
+<p><code>$Date=$Date(agent);</code></p>
+<p>I also changed the agent's $DisplayExpression to reflect the day: </p>
+<p><code>"Created " + if($Date==date(today)){"Today"} else {$Date.format("l");}</code></p>
+<p>So now I just set the $Date attribute of the "Today" agent to any date and it collects all the dated content created that day.</p>
 	
 </section>
 
@@ -117,8 +155,8 @@
 <p>I cheated in the screenshot using "42" because with only 2 days left this year, it doesn't make for a great demo. The inspector for that note looks like this:</p>
 <img src="/img/2021/20211229-inspector.png">
 <p>The note uses the built-in "Dashboard" prototype to make things prettier.</p>
-<p>The note's $DisplayExpression is simply <code>$Name + ": " + $Subtitle</p>
-</code><p>Neat, eh?</p>
+<p>The note's $DisplayExpression is simply <code>$Name + ": " + $Subtitle</code></p>
+<p>Neat, eh?</p>
 	
 </section>
 
@@ -815,30 +853,6 @@ if ($Image) {$NoteIcon = "cam.png"};
 
     ]]></description>
 <guid>https://daily.baty.net/posts/2021/12/08.html</guid>
-</item>
-<item>
-<title>Tuesday, November 23, 2021</title>
-<link>posts/2021/11/24.html</link>
-<pubDate>Tue, 23 Nov 2021 05:34:24 -0500</pubDate>
-<description><![CDATA[
-
-
-
-<div class="postNoTitle">
-
-
-<span class="permalinkHash"><a href="posts/2021/11/24/Today.html">#</a></span> <p>There are several ways to approach images in ox-hugo. I’m trying three of them in this post :). First, I drag and drop an image into the buffer and it’s automatically, via org-attach, moved into ./attach/XX/UUIDfilename.jpg. A link is inserted and when rendering markdown, it uses Hugo’s “figure” short code. This is the easiest option to do, but has the most moving parts. I don’t like that I don’t have control over the precise path. Second, I just link to the URL of an image in SmugMug. Super easy, but I do have to upload the image then grab the “share” link. Not bad. The third option is to generate a local file link like [[img/foo.jpg]]. This feels the most self-contained and tidy, but means exporting a specifically-sized image, naming it something, copying that name, and moving it into the static/img/etc. folder. I’ll probably try all three ways for a bit to see which feels best.</p>
-<p>I’ve been having a lot of fun in the darkroom lately.</p>
-
-<p>Blogging with Drummer feels like using someone else’s bathroom. I really have to go, and it’s a nice bathroom, but it’s not mine and I can’t really relax, ya know</p> 
-
-</div>
-
-
-
-
-    ]]></description>
-<guid>https://daily.baty.net/posts/2021/11/24.html</guid>
 </item>
 
 </channel>

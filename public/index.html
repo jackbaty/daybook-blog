@@ -37,6 +37,38 @@
       <article>
 
 <header>
+<h2 class="dayHeader">🗓 <a href="posts/2021/12/30.html">Thursday, December 30, 2021</a></h2>
+</header>
+	
+
+
+<div class="postNoTitle">
+
+
+<span class="permalinkHash"><a href="posts/2021/12/30/Good-morning.html">#</a></span> <p>Good morning. It's 4:30 am. What a lovely walk through the fresh snow this morning.</p> 
+
+</div>
+
+
+
+
+
+
+<div class="postNoTitle">
+
+
+<span class="permalinkHash"><a href="posts/2021/12/30/Yep-still-have-2-blogs.html">#</a></span> <p>I hate the fact that I still have two (active) blogs. Moving <a href="http://copingmechanism.com">copingmechanism.com</a> to a more blog-friendly template made things confusing. And now this Tinderbox blog is getting so nice that the problem is even worse. They're now both very similar. Too similar.  I think I have to put <a href="http://copingmechanism.com">copingmechanism.com</a> back as a photography-focused blog with an overwrought template, just to differentiate it from this one. I'm also considering moving this blog to baty.blog and eliminating the Ghost instance running there.</p> 
+
+</div>
+
+
+
+
+
+</article>
+<article>
+
+<header>
 <h2 class="dayHeader">🗓 <a href="posts/2021/12/29.html">Wednesday, December 29, 2021</a></h2>
 </header>
 	
@@ -79,6 +111,11 @@
 
 
 	<p>I have a top-level Agent in my Tinderbox daybook named "Today". All it does is collect notes using a <code>$Date=date(today);</code> query.  Given that I'm putting both blog content and personal logging into the document, the Today container is a handy way to see everything going on today. I'll probably modify it to use a date attribute so I can easily jump to any day and see what I wrote then. Neat.</p>
+<p><b>Update</b>: I did change the agent query to use my $Date attribute, like this:</p>
+<p><code>$Date=$Date(agent);</code></p>
+<p>I also changed the agent's $DisplayExpression to reflect the day: </p>
+<p><code>"Created " + if($Date==date(today)){"Today"} else {$Date.format("l");}</code></p>
+<p>So now I just set the $Date attribute of the "Today" agent to any date and it collects all the dated content created that day.</p>
 	
 </section>
 
@@ -147,8 +184,8 @@
 <p>I cheated in the screenshot using "42" because with only 2 days left this year, it doesn't make for a great demo. The inspector for that note looks like this:</p>
 <img src="/img/2021/20211229-inspector.png">
 <p>The note uses the built-in "Dashboard" prototype to make things prettier.</p>
-<p>The note's $DisplayExpression is simply <code>$Name + ": " + $Subtitle</p>
-</code><p>Neat, eh?</p>
+<p>The note's $DisplayExpression is simply <code>$Name + ": " + $Subtitle</code></p>
+<p>Neat, eh?</p>
 	
 </section>
 
@@ -703,72 +740,6 @@ if ($Image) {$NoteIcon = "cam.png"};
 
 
 <span class="permalinkHash"><a href="posts/2021/12/24/How-I-feel-in-the-pandem.html">#</a></span>  
-
-</div>
-
-
-
-
-
-</article>
-<article>
-
-<header>
-<h2 class="dayHeader">🗓 <a href="posts/2021/12/23.html">Thursday, December 23, 2021</a></h2>
-</header>
-	
-
-
-<div class="postNoTitle">
-
-
-	<img src="..//img/small/tinderboxicon.png" alt="Again with Tinderbox" class="sideImage">
-
-<span class="permalinkHash"><a href="posts/2021/12/23/Again-with-Tinderbox.html">#</a></span> <p>Funny that Alex mentions Tinderbox, since I’ve been keeping up with my Tinderbox Daybook for a week or so. And I also posted again to notes.baty.net, which is built using Tinderbox, just for fun. The scary part is that I started thinking about combining the notes blog and my daybook into one giant Tinderbox document for 2022. How cool would it be to have all my stuff in one place (that’s not Emacs)? It solves the related problem of public vs private notes. Using Tinderbox makes it easy to publish only what I want, where I want. I can also pull in parts of private outlines and notes into the published areas. Hmmm.</p>
-
-<p>That does it. I’m creating a brand new Tinderbox document with the intention of combining my Daybook and Blog documents for 2022. This will work nicely as a way to avoid doing anything actually useful today.</p> 
-
-</div>
-
-
-
-
-
-
-<div class="postNoTitle">
-
-
-<span class="permalinkHash"><a href="posts/2021/12/23/Chris-Locke-1947-2021-.html">#</a></span> <p>We lost Chris Locke this week. I cut my blogging teeth wanting to be <a href="http://www.rageboy.com">Rageboy</a>. <a href="https://blogs.harvard.edu/doc/2021/12/21/rage-in-peace/">Here's Doc Searls</a>.</p> 
-
-</div>
-
-
-
-
-
-
-<div class="postNoTitle">
-
-<figure>
-		<img src="/img/2021/leica-m10-r.jpg" alt="Thinking about cameras" class="postimage">
-<figcaption>Leica M10-R</figcaption>
-</figure>
-
-
-<span class="permalinkHash"><a href="posts/2021/12/23/Thinking-about-cameras.html">#</a></span> <p>I'm still feeling guilty about buying the M10-R. </p> 
-
-</div>
-
-
-
-
-
-
-<div class="postNoTitle">
-
-
-<span class="permalinkHash"><a href="posts/2021/12/23/New-note-taking-tool---t.html">#</a></span> <p>This looks worth a look: <a href="https://www.tatatap.com">https://www.tatatap.com</a></p>
- 
 
 </div>
 
