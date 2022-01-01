@@ -39,6 +39,30 @@
 
 
 
+
+
+<div class="postNoTitle">
+
+
+<span class="permalinkHash"><a href="posts/2022/01/01/NIfty-File-Lists.html">#</a></span> <p><a href="https://www.publicspace.net/NiftyFileLists/index.html">Nifty File Lists</a> looks like it could be handy, especially in a <a href="https://forum.eastgate.com/t/moving-file-names-and-metadata-into-tinderbox/5330">Tinderbox context</a>.</p> 
+
+</div>
+
+
+
+
+
+
+<div class="postNoTitle">
+
+
+<span class="permalinkHash"><a href="posts/2022/01/01/Some-site-changes-today.html">#</a></span> <p>I made a few small changes around here this morning: <a href="changelog/Don-t-include-partial-im.html">Don't include partial image paths in templates</a>, <a href="changelog/Added-link-to-Movie-temp.html">Added link to Movie template</a>, and <a href="changelog/Don-t-include-partial-im.html">Don't include partial image paths in templates</a>.</p> 
+
+</div>
+
+
+
+
     ]]></description>
 <guid>https://daily.baty.net/posts/2022/01/01.html</guid>
 </item>
@@ -72,7 +96,7 @@
 </figure>
 
 
-	<img src="https://daily.baty.net/img/small/leica.png" alt="My Leica Camera Timeline" class="sideImage">
+	<img src="https://daily.baty.net/img/small//img/small/leica.png" alt="My Leica Camera Timeline" class="sideImage">
 
 	<p>I bought my first Leica, an M6 TTL in 2004. I've bought and sold a number of them since then. I currently own an M3, M6, MP, Q2 Monochrom, and SL2-S. In the above timeline, film cameras are green and digital cameras are yellow. Can you spot which type I tend to keep longer? The dates should be mostly accurate. There are some conflicting notes on my old blog, but they occur in 2012 which is the year I really messed things up during a platform change, so I've used my Lightroom catalog and Flickr data when in doubt. I also have some notes suggesting that I've owned two Leica M7s but I don't remember that at all.</p>
 <p>The future for me probably holds a beat-up original M10 at some point after the M11 is released. Prices should get more reasonable then. I'll probably end up selling the M6 to fund it or something like it. Or maybe I'll sell the MP one day, although the thought makes me shudder. I've had friends say to me, "Never sell a Leica. You always regret selling a Leica." I should probably heed their advice.</p>
@@ -142,9 +166,9 @@
 <div class="postNoTitle">
 
 
-	<img src="https://daily.baty.net/img/small/olympia-tracing.jpg" alt="Yep, still have 2 blogs" class="sideImage">
+	<img src="https://daily.baty.net/img/small//img/small/olympia-tracing.jpg" alt="Yep, still have 2 blogs" class="sideImage">
 
-<span class="permalinkHash"><a href="posts/2021/12/30/Yep-still-have-2-blogs.html">#</a></span> <p>I hate the fact that I still have two (active) blogs. Moving <a href="http://copingmechanism.com">copingmechanism.com</a> to a more blog-friendly template made things confusing. And now this Tinderbox blog is getting so nice that the problem is even worse. They're now both very similar. Too similar.  I think I have to put <a href="http://copingmechanism.com">copingmechanism.com</a> back as a photography-focused blog with an overwrought template, just to differentiate it from this one. I'm also considering moving this blog to baty.blog and eliminating the Ghost instance running there. And I kind of want to bring back the rudimentarylathe.org domain. The elephant in the room, of course, is that you just know I'll change things again in a week or a month or a year. Then what? Broken links, RSS noise, confusion, etc. Anyone reading care to chime in?</p> 
+<span class="permalinkHash"><a href="posts/2021/12/30/Yep-still-have-2-blogs.html">#</a></span> <p>I hate the fact that I still have two (active) blogs. Moving <a href="http://copingmechanism.com">copingmechanism.com</a> to a more blog-friendly template made things confusing. And now this Tinderbox blog is getting so nice that the problem is even worse. They're now both very similar. Too similar.  I think I have to put <a href="http://copingmechanism.com">copingmechanism.com</a> back as a photography-focused blog with an overwrought template, just to differentiate it from this one. I'm also considering moving this blog to baty.blog and eliminating the Ghost instance running there. And I kind of want to bring back the <a href="http://rudimentarylathe.org">rudimentarylathe.org</a> domain. The elephant in the room, of course, is that you just know I'll change things again in a week or a month or a year. Then what? Broken links, RSS noise, confusion, etc. Anyone reading care to chime in?</p> 
 
 </div>
 
@@ -159,7 +183,7 @@
 <section>
 
 
-	<img src="https://daily.baty.net/img/small/tinderboxicon.png" alt="Weight logging with Tinderbox" class="sideImage">
+	<img src="https://daily.baty.net/img/small//img/small/tinderboxicon.png" alt="Weight logging with Tinderbox" class="sideImage">
 
 	<p><i>Note: This was originally posted over at <a href="http://copingmechanism.com">copingmechanism.com</a> but I thought it belonged here instead</i>.</p>
 <p>I kept a “daybook” using <a href="http://www.eastgate.com/Tinderbox/">Tinderbox</a> for years. I drifted away from Tinderbox for a while after becoming infatuated with Linux or iOS or other “cross-platform” systems. Right now, I’m back with a vengeance.</p>
@@ -196,7 +220,7 @@ $RuleDisabled=true};</pre></code>
 <div class="postNoTitle">
 
 
-	<img src="https://daily.baty.net/img/small/leica.png" alt="Shot 2 rolls of film" class="sideImage">
+	<img src="https://daily.baty.net/img/small//img/small/leica.png" alt="Shot 2 rolls of film" class="sideImage">
 
 <span class="permalinkHash"><a href="posts/2021/12/30/Shot-2-rolls-of-film.html">#</a></span> <p>I'm reviewing my lens situation. The Leica 35mm Summilux-M ASPH is a pricey lens, so I'm rethinking it. I bought the Summilux for the M10-R, which I've now sold. I figured this was fine, since I could still use it on both the film Ms and the SL2-S. On the other hand, I've really been missing that APO Summicron-SL 35 . I've been considering trading the Summilux M for the Summicron SL. That would leave a 35mm gap in my M kit. Since it's film, I can get away with a Zeiss or Voigtlander, right? So I shot a roll with the 50mm Summilux-M and then with the 35 to see how they feel on film. Well, they're both terrific. So now I don't know what to do. For now, I'm just going to shoot more and ignore the entire problem.</p> 
 
@@ -297,7 +321,7 @@ $RuleDisabled=true};</pre></code>
 <div class="postNoTitle">
 
 
-	<img src="https://daily.baty.net/img/small/tinderboxicon.png" alt="Tinderbox or go to a play" class="sideImage">
+	<img src="https://daily.baty.net/img/small//img/small/tinderboxicon.png" alt="Tinderbox or go to a play" class="sideImage">
 
 <span class="permalinkHash"><a href="posts/2021/12/29/Tinderbox-or-go-to-a-pla.html">#</a></span> <p><a href="https://eastgate.com/Tinderbox">Tinderbox</a> is an expensive piece of software, no doubt. You know how people dismiss spending $5 for an app, since "it costs the same as a Starbucks coffee."? Well, I like to think of Tinderbox as no more expensive than buying tickets to a play...a really good play that performs continually all day, every day, and helps me get stuff done and stay organized and publish a blog and...and...and. It's actually cheap, when you think of it that way. 😀 <a href="https://fondoftea.com/#2021-12-29%20-%20Wednesday">Alex's note</a> made me think of this.</p> 
 
@@ -798,7 +822,7 @@ if ($Image) {$NoteIcon = "cam.png"};
 <div class="postNoTitle">
 
 
-	<img src="https://daily.baty.net/img/small/megaphone.png" alt="We are live!" class="sideImage">
+	<img src="https://daily.baty.net/img/small//img/small/megaphone.png" alt="We are live!" class="sideImage">
 
 <span class="permalinkHash"><a href="posts/2021/12/24/We-are-live-.html">#</a></span> <p>If you're reading this, the site is now managed using my Tinderbox Daybook document and rendered to static files hosted on my Digital Ocean instance. Huzzah! Please let me know if you run into any significant issues. And sorry about any RSS noise this might cause. I haven't decided how much of the old content to bring over.</p> 
 
@@ -897,7 +921,7 @@ if ($Image) {$NoteIcon = "cam.png"};
 <div class="postNoTitle">
 
 
-	<img src="https://daily.baty.net/img/small/tinderboxicon.png" alt="Again with Tinderbox" class="sideImage">
+	<img src="https://daily.baty.net/img/small//img/small/tinderboxicon.png" alt="Again with Tinderbox" class="sideImage">
 
 <span class="permalinkHash"><a href="posts/2021/12/23/Again-with-Tinderbox.html">#</a></span> <p>Funny that Alex mentions Tinderbox, since I’ve been keeping up with my Tinderbox Daybook for a week or so. And I also posted again to notes.baty.net, which is built using Tinderbox, just for fun. The scary part is that I started thinking about combining the notes blog and my daybook into one giant Tinderbox document for 2022. How cool would it be to have all my stuff in one place (that’s not Emacs)? It solves the related problem of public vs private notes. Using Tinderbox makes it easy to publish only what I want, where I want. I can also pull in parts of private outlines and notes into the published areas. Hmmm.</p>
 
