@@ -6,6 +6,27 @@
 <link>https://daily.baty.net</link>
 <description>Daily notes by Jack Baty</description>
 	<item>
+<title>Saturday, January 1, 2022</title>
+<link>posts/2022/01/01.html</link>
+<pubDate>Sat, 1 Jan 2022 05:42:43 -0500</pubDate>
+<description><![CDATA[
+
+
+
+<div class="postNoTitle">
+
+
+<span class="permalinkHash"><a href="posts/2022/01/01/Good-morning-2022.html">#</a></span> <p>Good morning. It's 5:45 am on the first day of 2022. Or, as I like to call it, "New Folders Day".</p> 
+
+</div>
+
+
+
+
+    ]]></description>
+<guid>https://daily.baty.net/posts/2022/01/01.html</guid>
+</item>
+<item>
 <title>Friday, December 31, 2021</title>
 <link>posts/2021/12/31.html</link>
 <pubDate>Fri, 31 Dec 2021 04:43:31 -0500</pubDate>
@@ -914,56 +935,6 @@ if ($Image) {$NoteIcon = "cam.png"};
 
     ]]></description>
 <guid>https://daily.baty.net/posts/2021/12/23.html</guid>
-</item>
-<item>
-<title>Wednesday, December 22, 2021</title>
-<link>posts/2021/12/22.html</link>
-<pubDate>Wed, 22 Dec 2021 12:07:00 -0500</pubDate>
-<description><![CDATA[
-
-
-
-<div class="postNoTitle">
-
-<figure>
-		<img src="https://daily.baty.net/img/2021/caddygrille.jpg" alt="" class="postimage">
-</figure>
-
-
-<span class="permalinkHash"><a href="posts/2021/12/22/Caddy-Grille.html">#</a></span> <p>Do cars get any cooler than this?</p>
- 
-
-</div>
-
-
-
-
-
-
-<div class="postNoTitle">
-
-
-<span class="permalinkHash"><a href="posts/2021/12/22/More-project.html">#</a></span> <p>I’m still planning to spend at least a few hours each day this week on my little Rails project. So far it’s not clicking for me. I’m in the must-look-up-every-single-thing phase and it’s exhausting.</p> 
-
-</div>
-
-
-
-
-
-
-<div class="postNoTitle">
-
-
-<span class="permalinkHash"><a href="posts/2021/12/22/Futzing-with-Roon-metada.html">#</a></span> <p>For someone who’s recently claimed that “owning” and managing music was no longer interesting, I’m sure spending a lot of time today editing metadata of my local library in Roon.</p> 
-
-</div>
-
-
-
-
-    ]]></description>
-<guid>https://daily.baty.net/posts/2021/12/22.html</guid>
 </item>
 
 </channel>
