@@ -38,7 +38,7 @@
 
 
 .hero-image {
-  background-image: url("/img/headers/computers-1920.jpg");
+  /* background-image: url("/img/headers/computers-1920.jpg"); */
   background-color: var(--primary);
   height: 250px;
   background-position: center;
