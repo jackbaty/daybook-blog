@@ -8,11 +8,11 @@
 	 <link href="//fonts.googleapis.com/css?family=Ubuntu:400,500i,700" rel="stylesheet">
 	 <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@600&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://unpkg.com/@picocss/pico@latest/css/pico.min.css">
-	 <link rel="stylesheet" href="../../../../../assets/css/custom.css">
+	 <link rel="stylesheet" href="../../assets/css/custom.css">
 	<script defer data-domain="daily.baty.net" src="https://plausible.io/js/plausible.js"></script>
 
 
-    <title>What's up guys... - Jack Baty Daily</title>
+    <title>Movie list uses a custom template - Jack Baty Daily</title>
   </head>
   <body>
 	<div class="hero-image">
@@ -23,11 +23,11 @@
 </div>
 <nav>
 <ul>
-	<li><a href="../../../../../index.html">Home</a></li>
-	<li><a href="../../../../../about.html">About</a></li>
-	<li><a href="../../../../../archives.html">Archives</a></li>
+	<li><a href="../../index.html">Home</a></li>
+	<li><a href="../../about.html">About</a></li>
+	<li><a href="../../archives.html">Archives</a></li>
 	<li><a href="https://baty.net/">Baty.net</a></li>
-	<li><a class="icon-font" href="../../../../../index.xml"><svg class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16">
+	<li><a class="icon-font" href="../../index.xml"><svg class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16">
   <path d="M819.157333 1024C819.157333 574.592 449.408 204.8 0 204.8V0c561.706667 0 1024 462.293333 1024 1024h-204.842667zM140.416 743.04a140.8 140.8 0 0 1 140.501333 140.586667A140.928 140.928 0 0 1 140.074667 1024C62.72 1024 0 961.109333 0 883.626667s62.933333-140.544 140.416-140.586667zM678.784 1024h-199.04c0-263.210667-216.533333-479.786667-479.744-479.786667V345.173333c372.352 0 678.784 306.517333 678.784 678.826667z"></path>
 </svg></a></li>
 </ul>
@@ -36,17 +36,16 @@
 
 		<article class="singlePost">
 <header>
-<h2>What's up guys...</h2>
-	<div class="post-meta"><a href="../02.html">Sunday, 2 January 2022</a> 		
+<h2>Movie list uses a custom template</h2>
+	<div class="post-meta"><a href="../posts/2022/01/03.html">Monday, 3 January 2022</a> 		
 		
 	</div>
 </header>
 <section>
 
 
-	<p>Whatever I end up doing next, It's not going to be what Eric Floberg is making excellent fun of in this video:</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HHsMHHKJ8Us" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<p>yeesh.</p>
+	<p>The <a href="../movies.html">Movies</a> page was using an export template displaying each note's $DisplayName. I wanted the listing to be a table instead, so I created a new template "movie item". The problem here was that I didn't also want to create a new parent template. My solution was to add a conditional to the parent template so that it chooses the list template based on the first child's prototype. This makes some assumptions an I'm not sure it's ideal, but it works.</p>
+<p>So:  <code>if($Prototype(child[0])=="pMovie")</code></p>
 	
 </section>
 </article>

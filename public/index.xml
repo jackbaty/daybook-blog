@@ -6,6 +6,27 @@
 <link>https://daily.baty.net</link>
 <description>Daily notes by Jack Baty</description>
 	<item>
+<title>Monday, January 3, 2022</title>
+<link>posts/2022/01/03.html</link>
+<pubDate>Mon, 3 Jan 2022 04:35:56 -0500</pubDate>
+<description><![CDATA[
+
+
+
+<div class="postNoTitle">
+
+
+<span class="permalinkHash"><a href="posts/2022/01/03/Good-morning-.html">#</a></span> <p>Good morning. It's 4:40 am the first Monday of the year. If I had a job, that would probably have more significance. Still thinking about weekly projects but my Rails app from a couple weeks ago seems to have been a failure and that is discouraging me.</p> 
+
+</div>
+
+
+
+
+    ]]></description>
+<guid>https://daily.baty.net/posts/2022/01/03.html</guid>
+</item>
+<item>
 <title>Sunday, January 2, 2022</title>
 <link>posts/2022/01/02.html</link>
 <pubDate>Sun, 2 Jan 2022 07:29:16 -0500</pubDate>
@@ -57,7 +78,8 @@
 
 
 <span class="permalinkHash"><a href="posts/2022/01/02/What-s-up-guys-.html">#</a></span> <p>Whatever I end up doing next, It's not going to be what Eric Floberg is making excellent fun of in this video:</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HHsMHHKJ8Us" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HHsMHHKJ8Us" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p>yeesh.</p> 
 
 </div>
 
@@ -905,117 +927,6 @@ if ($Image) {$NoteIcon = "cam.png"};
 
     ]]></description>
 <guid>https://daily.baty.net/posts/2021/12/25.html</guid>
-</item>
-<item>
-<title>Friday, December 24, 2021</title>
-<link>posts/2021/12/24.html</link>
-<pubDate>Fri, 24 Dec 2021 04:22:13 -0500</pubDate>
-<description><![CDATA[
-
-
-
-<div class="postNoTitle">
-
-
-<span class="permalinkHash"><a href="posts/2021/12/24/Almost-done-with-the-reb.html">#</a></span> <p>Good morning, it's 4:26 am. Day two of the blog/Tinderbox rebuild. </p> 
-
-</div>
-
-
-
-
-
-
-<div class="postNoTitle">
-
-
-	<img src="https://daily.baty.net/img/small//img/small/megaphone.png" alt="We are live!" class="sideImage">
-
-<span class="permalinkHash"><a href="posts/2021/12/24/We-are-live-.html">#</a></span> <p>If you're reading this, the site is now managed using my Tinderbox Daybook document and rendered to static files hosted on my Digital Ocean instance. Huzzah! Please let me know if you run into any significant issues. And sorry about any RSS noise this might cause. I haven't decided how much of the old content to bring over.</p> 
-
-</div>
-
-
-
-
-
-
-<div class="postNoTitle">
-
-<figure>
-		<img src="https://daily.baty.net/img/2021/20211224-johndies.png" alt="" class="postimage">
-</figure>
-
-
-<span class="permalinkHash"><a href="posts/2021/12/24/David-Wong-Quote.html">#</a></span>  
-
-</div>
-
-
-
-
-
-
-<div class="postNoTitle">
-
-<figure>
-		<img src="https://daily.baty.net/img/2021/river.png" alt="Found Negative" class="postimage">
-</figure>
-
-
-<span class="permalinkHash"><a href="posts/2021/12/24/River.html">#</a></span> <p>I love this image so much. It's from a pile of negatives I bought from someone on Craigslist like 15 years ago. The photographer(s) are unknown, but most of the images were taken in and around Grand Rapids, MI sometime during the first couple of decades of the 20th century. Just look at all the fun happening in this image. The kid on the rope swing. The young woman about to dive into the river. The gathering of boys on the bank, watching. The bicycle. I just love it!</p> 
-
-</div>
-
-
-
-
-
-
-<div class="postNoTitle">
-
-
-<span class="permalinkHash"><a href="posts/2021/12/24/John-Gruber-Quote.html">#</a></span> <blockquote class="quoteback" darkmode="" data-title="‘Mac OS 9: OStalgia Edition’" data-author="@daringfireball" cite="https://daringfireball.net/linked/2021/12/22/mac-os-9-ostalgia">
-<p>I miss this style of UI design very much — not the exact look, per se, but the spirit of emphasizing clarity above all else, where content fields are clearly content fields, input focus is clear, and buttons look like buttons.</p>
-<footer>@daringfireball<cite> <a href="https://daringfireball.net/linked/2021/12/22/mac-os-9-ostalgia">https://daringfireball.net/linked/2021/12/22/mac-os-9-ostalgia</a></cite></footer>
-</blockquote><script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
-<p>Me too, John.</p> 
-
-</div>
-
-
-
-
-
-
-<div class="postNoTitle">
-
-
-<span class="permalinkHash"><a href="posts/2021/12/24/Datasette-and-TiddlyWiki.html">#</a></span> <p>Woah. Totally trying this: <a href="https://github.com/simonw/datasette-tiddlywiki">Run TiddlyWiki in Datasette and save Tiddlers to a SQLite database</a>.</p> 
-
-</div>
-
-
-
-
-
-
-<div class="postNoTitle">
-
-<figure>
-		<img src="https://daily.baty.net/img/2021/20211224-outside.jpg" alt="Collage: der Freitag, Material: Getty Images, Unsplash, Imago Images, Friends of American Art Collection/AIC" class="postimage">
-</figure>
-
-
-<span class="permalinkHash"><a href="posts/2021/12/24/How-I-feel-in-the-pandem.html">#</a></span>  
-
-</div>
-
-
-
-
-    ]]></description>
-<guid>https://daily.baty.net/posts/2021/12/24.html</guid>
 </item>
 
 </channel>
