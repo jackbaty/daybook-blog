@@ -130,3 +130,7 @@ svg.icon {
 
 article img {
 	margin-bottom: 10px;}
+
+img.icon {
+	margin: 0px;
+}
