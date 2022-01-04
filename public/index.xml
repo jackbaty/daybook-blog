@@ -6,6 +6,27 @@
 <link>https://daily.baty.net</link>
 <description>Daily notes by Jack Baty</description>
 	<item>
+<title>Tuesday, January 4, 2022</title>
+<link>posts/2022/01/04.html</link>
+<pubDate>Tue, 4 Jan 2022 06:35:54 -0500</pubDate>
+<description><![CDATA[
+
+
+
+<div class="postNoTitle">
+
+
+<span class="permalinkHash"><a href="posts/2022/01/04/Meditation-and-Metta.html">#</a></span> <p>I have been trying a meditation practice using Sam Harris' "<a href="https://wakingup.com">Waking Up</a>" course. Today, he had us try "Metta" which means "loving-kindness". What he had me do was wordlessly wish someone I care about, "May you be happy. May you be peaceful. May you be free from suffering." I am amazed at how good that made me feel. I might like this meditation stuff.</p> 
+
+</div>
+
+
+
+
+    ]]></description>
+<guid>https://daily.baty.net/posts/2022/01/04.html</guid>
+</item>
+<item>
 <title>Monday, January 3, 2022</title>
 <link>posts/2022/01/03.html</link>
 <pubDate>Mon, 3 Jan 2022 04:35:56 -0500</pubDate>
@@ -909,88 +930,6 @@ if ($Image) {$NoteIcon = "cam.png"};
 
     ]]></description>
 <guid>https://daily.baty.net/posts/2021/12/26.html</guid>
-</item>
-<item>
-<title>Saturday, December 25, 2021</title>
-<link>posts/2021/12/25.html</link>
-<pubDate>Sat, 25 Dec 2021 04:30:51 -0500</pubDate>
-<description><![CDATA[
-
-
-
-<div class="postNoTitle">
-
-
-<span class="permalinkHash"><a href="posts/2021/12/25/It-s-Christmas.html">#</a></span> <p>Good morning. It's 4:35 am on Christmas morning. It'll be nice just hanging out with the family today, but with no young children around, Christmas doesn't have the magic it once did. I'm not a religious person, so Christmas is not much more than a thinly-veiled celebration of consumerism. The lights are pretty, and the food is good, though. Everyone will be up and around before long and I'll get into the swing of things soon enough.</p> 
-
-</div>
-
-
-
-
-
-
-
-	<h3><a href="posts/2021/12/25/Trying-a-new-app-tap.html">Trying a new app, /tap</a></h3>
-
-<section>
-
-<figure>
-		<img src="https://daily.baty.net/img/2021/20211225-TapScreenshot.png" alt="" class="postimage">
-</figure>
-
-
-	<p>I learned about a new note-taking app, <a href="https://www.tatatap.com">/tap</a>, so of course I gave it a spin.  /tap is about creating short, "smart" notes. "Bite-size notes with special stuff."</p>
-<p>Most of the interaction with /tap is done via typing. So you can put a note in the "to-read" folder by starting the note with "<code>/to-read</code>". There's <code>#tagging</code> also. It gets fun when adding "events" and "beans". An event tracks things that happen each day. Good for tracking, say, meditation or workouts. Beans are simple counters. Add beans with "<code>+mybean:10</code>", for example. Events and Beans are tracked separately and can be seen in special views by date or by account. </p>
-<p>/tap is a simple but clever app with some fun ideas. I love its simple, sparse design. /tap is a web app and costs $7/month. This comes with the usual concerns about privacy and longevity, but for some it might be just the ticket.</p>
-	
-</section>
-
-
-
-
-
-
-<div class="postNoTitle">
-
-
-<span class="permalinkHash"><a href="posts/2021/12/25/Should-this-site-be-at-b.html">#</a></span> <p>I'm still working through the differences between this site and the blog at baty.blog. So much for my dream of maintaining just one site for everything. And Coping Mechanism is still out there, even though I've had a TODO in my inbox for a which which says, "Delete the <a href="https://baty.blog">Copingmechanism.com</a> instance." The idea was to use this site instead of the wiki for daily notes, and baty.blog for everything else. But then just this morning I wrote what could be considered a "real" blog post with <a href="posts/2021/12/25/Trying-a-new-app-tap.html">Trying a new app, /tap</a>. Shouldn't that go on the blog? Probably, but I was already here, if you know what I mean. Sigh. Still noodlin'.</p> 
-
-</div>
-
-
-
-
-
-
-<div class="postNoTitle">
-
-
-<span class="permalinkHash"><a href="posts/2021/12/25/Added-a-ChangeLog.html">#</a></span> <p>I've added a <a href="changelog.html">ChangeLog</a> to record structural changes I'm making here.</p> 
-
-</div>
-
-
-
-
-
-
-<div class="postNoTitle">
-
-<figure>
-		<img src="https://daily.baty.nethttps://photos.smugmug.com/Blog-Photos/i-pVLdCjG/0/f9ec6008/X2/20211222-L1000677-X2.jpg" alt="" class="postimage">
-</figure>
-
-
-<span class="permalinkHash"><a href="posts/2021/12/25/Testing-external-images.html">#</a></span> <p>Bringing the little Polaroid today.</p> 
-
-</div>
-
-
-
-
-    ]]></description>
-<guid>https://daily.baty.net/posts/2021/12/25.html</guid>
 </item>
 
 </channel>
