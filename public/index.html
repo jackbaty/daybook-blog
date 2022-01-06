@@ -37,6 +37,41 @@
       <article>
 
 <header>
+<h2 class="dayHeader">🗓 <a href="posts/2022/01/06.html">Thursday, January 6, 2022</a></h2>
+</header>
+	
+
+
+<div class="postNoTitle">
+
+
+<span class="permalinkHash"><a href="posts/2022/01/06/Good-morning.html">#</a></span> <p>Good morning, it's 5:45 am. Our walk today was through a fresh 8-10 inches of snow. It was lovely.</p>
+ 
+
+</div>
+
+
+
+
+
+
+<div class="postNoTitle">
+
+
+	<img src="/img/small/captureone.png" alt="Capture One Pro" class="sideImage">
+
+<span class="permalinkHash"><a href="posts/2022/01/06/Capture-One-Pro.html">#</a></span> <p>Yesterday, at about this time, I said that I wanted to <a href="posts/2022/01/05/Good-morning.html">move my photo editing back to Capture One Pro</a>. I later spent a few hours doing just that. Yes, yes, I know, I do this all the time and always end up back in Lightroom Classic. That may happen again this time, but what I'm always reminded of is that I get photos I like better out of C1 faster and more easily than I do with LrC. And when I want to get fancy, C1 does a better job also (layers!). I almost never drop into Photoshop, but I suppose if I do more "real" portraits, I'll need it for retouching. C1 is just nicer. It's also better when switching between the big and little screens because the layouts are so customizable. I have a custom layout for both screens. Tethering from the Leicas works like butter in C1, too. So, Lightroom has "easier" going for it, but C1 wins at just about everything else.</p> 
+
+</div>
+
+
+
+
+
+</article>
+<article>
+
+<header>
 <h2 class="dayHeader">🗓 <a href="posts/2022/01/05.html">Wednesday, January 5, 2022</a></h2>
 </header>
 	
@@ -539,94 +574,6 @@
 
 
 <span class="permalinkHash"><a href="posts/2021/12/31/Automattic-vs-Ghost---it.html">#</a></span> <p>I prefer creating content in Ghost to WordPress. It's faster, simpler, and generally cleaner. However, I don't love the people behind Ghost. Their goals don't align with mine. Most of the time, who cares? But sometimes I <i>do</i> care. Then I saw <a href="https://initialcharge.net/2021/12/mullenweg-protocol/">Mike Rockwell's post</a> with quotes from Matt Mullenweg and it reminded me that I much prefer Automattic's <i>attitude</i> which is one reason I've reverted <a href="http://copingmechanism.com">copingmechanism.com</a> to WordPress.</p> 
-
-</div>
-
-
-
-
-
-</article>
-<article>
-
-<header>
-<h2 class="dayHeader">🗓 <a href="posts/2021/12/30.html">Thursday, December 30, 2021</a></h2>
-</header>
-	
-
-
-<div class="postNoTitle">
-
-
-<span class="permalinkHash"><a href="posts/2021/12/30/Good-morning.html">#</a></span> <p>Good morning. It's 4:30 am. What a lovely walk through the fresh snow this morning.</p> 
-
-</div>
-
-
-
-
-
-
-<div class="postNoTitle">
-
-
-	<img src="/img/small/olympia-tracing.jpg" alt="Yep, still have 2 blogs" class="sideImage">
-
-<span class="permalinkHash"><a href="posts/2021/12/30/Yep-still-have-2-blogs.html">#</a></span> <p>I hate the fact that I still have two (active) blogs. Moving <a href="http://copingmechanism.com">copingmechanism.com</a> to a more blog-friendly template made things confusing. And now this Tinderbox blog is getting so nice that the problem is even worse. They're now both very similar. Too similar.  I think I have to put <a href="http://copingmechanism.com">copingmechanism.com</a> back as a photography-focused blog with an overwrought template, just to differentiate it from this one. I'm also considering moving this blog to baty.blog and eliminating the Ghost instance running there. And I kind of want to bring back the <a href="http://rudimentarylathe.org">rudimentarylathe.org</a> domain. The elephant in the room, of course, is that you just know I'll change things again in a week or a month or a year. Then what? Broken links, RSS noise, confusion, etc. Anyone reading care to chime in?</p> 
-
-</div>
-
-
-
-
-
-
-
-	<h3><a href="posts/2021/12/30/Weight-logging-with-Tind.html">Weight logging with Tinderbox</a></h3>
-
-<section>
-
-
-	<img src="/img/small/tinderboxicon.png" alt="Weight logging with Tinderbox" class="sideImage">
-
-	<p><i>Note: This was originally posted over at <a href="http://copingmechanism.com">copingmechanism.com</a> but I thought it belonged here instead</i>.</p>
-<p>I kept a “daybook” using <a href="http://www.eastgate.com/Tinderbox/">Tinderbox</a> for years. I drifted away from Tinderbox for a while after becoming infatuated with Linux or iOS or other “cross-platform” systems. Right now, I’m back with a vengeance.</p>
-<p>While rebuilding my Daybook, I wanted to make logging my weight easier. It’s not like it was difficult, but I wanted to tweak it.</p>
-<p>Tinderbox is an outliner, so my weight entries are collected under a “Weight Log” node. It looked like this (I obviously wasn’t consistent with tracking last year).</p>
-<img src="/img/2021/20211230-weight-log.png">
-<p>The weight is stored in a numeric User Attribute called, surprisingly, “Weight”. The outline shows a custom “DisplayFormat” so that it reads nicely:</p>
-<p><code>$Weight + " pounds on " + format($StartDate,"MM D")</code></p>
-<p>To enter a new weight, I’d select an existing item in the outline, hit Return to create a new note, type in the weight, hit Return to save the note, then use the mouse to click the “Weight” attribute and re-enter the weight there. So much clicking!  😀.</p>
-<p>What I wanted to do was to type the weight once in the note’s Name and have the Weight attribute populated automatically. Tinderbox notes can have “Rules” which are commands that run periodically and can update a note’s attributes based on just about any criteria. I could have created a rule that set the Weight based on the Name, but that seemed like overkill since this only ever needs to happen once per note.</p>
-<p>With some help from Michael Becker, I think I’ve got it. (You should check out his <a href="https://www.youtube.com/watch?v=AQCp8tVRJSg&list=PL6MVDtSfcKxd2XLpenMAd9H4VknDyn6oz">video series on Mastering Tinderbox</a> for all sorts of great Tinderbox content.)</p>
-<p>There’s an OnAdd action which sets the Prototype, Date, and Name of the note. (Setting the Name of the new note to “Enter Weight” is a nice touch.)</p>
-<p><code>$Prototype="pWeightLogEntry";$Date|=date(today);if($Name=="untitled"){$Name="Enter Weight"};</code></p>
-<p>Then, the new note gets a Rule (via the pWeightLogEntry Prototype) which sets the Weight attribute based on the value of Name:</p>
-
-<code><pre>
-$Weight|=$Name;
-if($Weight>0){
-$Name=$Date("l");
-$RuleDisabled=true};</pre></code>
-
-<p>The trick here is setting $RuleDisabled=true. What this does is force the Rule to run only once, which is all I need. I wasn’t aware of the $RuleDisabled attribute, so thanks to Michael for that tip.</p>
-<p>Now, to add a new Weight Log entry, I hit Return, type my weight, and hit Return again. Couldn’t be any easier! On my Daybooks “Dashboard” I can graph my weight over time, like so…</p>
-<img src="/img/2021/20211230-weight.png">
-<p>For those of you unfamiliar with Tinderbox, I’m sorry if I made too many assumptions here. Explaining Tinderbox can be an entire job in itself!</p>
-	
-</section>
-
-
-
-
-
-
-<div class="postNoTitle">
-
-
-	<img src="/img/small/leica.png" alt="Shot 2 rolls of film" class="sideImage">
-
-<span class="permalinkHash"><a href="posts/2021/12/30/Shot-2-rolls-of-film.html">#</a></span> <p>I'm reviewing my lens situation. The Leica 35mm Summilux-M ASPH is a pricey lens, so I'm rethinking it. I bought the Summilux for the M10-R, which I've now sold. I figured this was fine, since I could still use it on both the film Ms and the SL2-S. On the other hand, I've really been missing that APO Summicron-SL 35 . I've been considering trading the Summilux M for the Summicron SL. That would leave a 35mm gap in my M kit. Since it's film, I can get away with a Zeiss or Voigtlander, right? So I shot a roll with the 50mm Summilux-M and then with the 35 to see how they feel on film. Well, they're both terrific. So now I don't know what to do. For now, I'm just going to shoot more and ignore the entire problem.</p> 
 
 </div>
 
