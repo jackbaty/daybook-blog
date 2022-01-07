@@ -2,7 +2,7 @@
 <rss version="2.0">
 
 <channel>
-<title>Jack Baty Daily</title>
+<title>Jack Baty</title>
 <link>https://daily.baty.net</link>
 <description>Daily notes by Jack Baty</description>
 	<item>
@@ -31,6 +31,21 @@
 	<img src="https://daily.baty.net/img/small//img/small/photomechanic.png" alt="Photo Mechanic catalog" class="sideImage">
 
 <span class="permalinkHash"><a href="posts/2022/01/07/Photo-Mechanic-catalog.html">#</a></span> <p>Now that I've once again switched to Capture One Pro for raw processing and editing, I've rebuilt my <a href="https://home.camerabits.com/tour-photo-mechanic/">Photo Mechanic</a> catalog of all my photos. C1's catalog is meh, and I am still infatuated with the idea of keeping my library and my editing tool separate. (At least until the whole thing starts to feel over-complicated again and I jump back into Lightroom 😀.) I wish PM's UI for browsing the catalog was prettier, even if that meant it was less powerful.</p> 
+
+</div>
+
+
+
+
+
+
+<div class="postNoTitle">
+
+
+<span class="permalinkHash"><a href="posts/2022/01/07/Some-housekeeping.html">#</a></span> <p>I made some structural changes here this morning;</p>
+<ul><li> Title is now "Jack Baty" instead of "Jack Baty Daily" because who needs that kind of pressure?</li>
+<li> I've <a href="changelog/Refactored-page-html-and.html">Refactored page html and moved HEAD to an include</a></li>
+<li> <a href="changelog/Reduced-header-height.html">Reduced header height</a> since I'm no longer using a background image</li></ul> 
 
 </div>
 
