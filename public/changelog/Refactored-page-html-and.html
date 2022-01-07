@@ -1,6 +1,6 @@
 <!doctype html>
 <html lang="en">
-  <head>
+	<head>
 	<meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="preconnect" href="https://fonts.googleapis.com"> 
@@ -10,10 +10,10 @@
 <link rel="stylesheet" href="https://unpkg.com/@picocss/pico@latest/css/pico.min.css">
 <link rel="stylesheet" href="../../assets/css/custom.css">
 
-<title>The Truffle Hunters - Jack Baty Daily</title>
+<title>Refactored page html and moved HEAD to an include - Jack Baty Daily</title>
 
 <script defer data-domain="daily.baty.net" src="https://plausible.io/js/plausible.js"></script>
-  </head>
+	</head>
   <body>
 	<div class="hero-image">
   <div class="hero-text">
@@ -34,26 +34,21 @@
 </nav>
     <main class="container">
 
-<article class="singlePost">
+		<article class="singlePost">
 <header>
-	<h2>Movie: The Truffle Hunters (2020)</h2>
-	 <div class="post-meta">
-		Link: <a href="https://letterboxd.com/film/the-truffle-hunters/">https://letterboxd.com/film/the-truffle-hunters/</a>
-		<br>Directed By: Gregory Kershaw
-		<br>Watched On: 1/2/22
-		<br>My Rating: ★★★★
+<h2>Refactored page html and moved HEAD to an include</h2>
+	<div class="post-meta"><a href="../posts/2022/01/07.html">Friday, 7 January 2022</a> 		
+		
 	</div>
 </header>
 <section>
 
 
-	<img src="https://a.ltrbxd.com/resized/film-poster/5/7/9/2/4/5/579245-the-truffle-hunters-0-230-0-345-crop.jpg?k=e3edae5afe" alt="The Truffle Hunters" class="sideImage">
-
-	<p>This movie made me feel good.</p>
+	<p>I'm slowly trying to reduce copy/paste redundancy in my templates. I've added /Templates/Partials/Head which has the boilerplate for the HTML head element. This includes the Title, which needed to be changed to "title(current)" so it grabbed to correct thing. In some cases I want to override the page title. On those, I just add another title tag before the template. Seems to work, but probably not ideal.</p>
+	
 </section>
-
 </article>
-<div style="text-align:center;">🍿<a href="../../movies.html">All movies I've watched</a></div>
+
     </main>
 	<!--  Tinderbox: ^title -->
 <footer>
