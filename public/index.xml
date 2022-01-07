@@ -25,25 +25,45 @@
 
 
 
+
+	<h3><a href="posts/2022/01/07/Photo-processing-workflo.html">Photo processing workflow update, Jan 2022</a></h3>
+
+<section>
+
+
+	<img src="https://daily.baty.net/img/small//img/small/photomechanic.png" alt="Photo processing workflow update, Jan 2022" class="sideImage">
+
+	<p>TL;DR: I'm back to a combination of Capture One Pro and Photo Mechanic, with a dash of Apple Photos.</p>
+<p>I continue to waffle on which app to use for which portion of my photography workflow. Most recently, I'd considered <a href="posts/2022/01/03/Apple-Photos-vs-Lightroo.html">Apple Photos vs Lightroom Classic as photo library</a>. This was fueled by my desire to keep my library and my editing tool separate. LrC is probably the best all-around solution, and is the closest thing we have to an "industry standard". But, I prefer Capture One Pro for RAW processing. </p>
+<p>Capture One's catalog is mediocre, so I've built a new catalog of all my photos using <a href="https://home.camerabits.com/tour-photo-mechanic/">Photo Mechanic</a> (Plus). This lets me work with "Sessions" in C1, which I much prefer. I wish PM's UI for browsing its catalog was prettier, even if that meant it was less powerful. Still, it's quite fast and powerful.</p>
+<p>Apple Photos is great for sharing and just having with me on all devices, so I've added "Export to Apple Photos" as a final step.</p>
+<p>Here's my current workflow for digital camera images.</p>
+<p>In Capture One:</p>
+<ul><li> Import from card into Capture One session</li>
+<li> Delete anything I don't like (ruthlessly)</li>
+<li> Make any initial edits</li>
+<li> Export a finished JPEG into the same folder as the original image</li></ul>
+<p>In Photo Mechanic</p>
+<ul><li> Open the import folder in Photo Mechanic</li>
+<li> Rate, keyword, and caption each image</li>
+<li> Move all images into dated folders and add to PM catalog</li>
+<li> Export full-size version of any starred images to Apple Photos</li>
+<li> Share and upload as needed</li></ul>
+<p>This means I spend only enough time in Capture One to edit select images and "burn" JPEG copies. Then it's off to Photo Mechanic for metadata and organization. Then out to Apple Photos for sharing with family and any other apps.</p>
+
+	
+</section>
+
+
+
+
+
+
 <div class="postNoTitle">
 
 
-	<img src="https://daily.baty.net/img/small//img/small/photomechanic.png" alt="Photo Mechanic catalog" class="sideImage">
-
-<span class="permalinkHash"><a href="posts/2022/01/07/Photo-Mechanic-catalog.html">#</a></span> <p>Now that I've once again switched to Capture One Pro for raw processing and editing, I've rebuilt my <a href="https://home.camerabits.com/tour-photo-mechanic/">Photo Mechanic</a> catalog of all my photos. C1's catalog is meh, and I am still infatuated with the idea of keeping my library and my editing tool separate. (At least until the whole thing starts to feel over-complicated again and I jump back into Lightroom 😀.) I wish PM's UI for browsing the catalog was prettier, even if that meant it was less powerful.</p> 
-
-</div>
-
-
-
-
-
-
-<div class="postNoTitle">
-
-
-<span class="permalinkHash"><a href="posts/2022/01/07/Some-housekeeping.html">#</a></span> <p>I made some structural changes here this morning;</p>
-<ul><li> Title is now "Jack Baty" instead of "Jack Baty Daily" because who needs that kind of pressure?</li>
+<span class="permalinkHash"><a href="posts/2022/01/07/Some-housekeeping.html">#</a></span> <p>I made some structural and content changes here this morning;</p>
+<ul><li> The site title is now "Jack Baty" instead of "Jack Baty Daily" because who needs that kind of pressure?</li>
 <li> I've <a href="changelog/Refactored-page-html-and.html">Refactored page html and moved HEAD to an include</a></li>
 <li> <a href="changelog/Reduced-header-height.html">Reduced header height</a> since I'm no longer using a background image</li>
 <li> Oh, and I changed the portrait on the <a href="about.html">About</a> page</li></ul> 
