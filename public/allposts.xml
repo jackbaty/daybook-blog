@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 
 <channel>
 <title>Jack Baty</title>
 <link>https://baty.blog</link>
 <description>Jack Baty's Weblog</description>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<item>
 <title></title>
 <link>https://baty.blogposts/2022/01/08/Moxie-s-first-impression.html</link>
