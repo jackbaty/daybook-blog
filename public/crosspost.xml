@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+<title>Jack Baty</title>
+<link>https://daily.baty.net</link>
+<description>Daily notes by Jack Baty</description>
+	<item>
+<title>Shooting film when I'm in the mood</title>
+<link>https://daily.baty.netposts/2022/01/08/Shooting-film-when-I-m-i.html</link>
+<pubDate>never</pubDate>
+<description><![CDATA[
+
+
+
+
+
+
+	<h3><a href="https://daily.baty.net/posts/2022/01/08/Shooting-film-when-I-m-i.html">Shooting film when I'm in the mood</a></h3>
+
+<section>
+
+
+	<p>Over the past several years, my interest in shooting film has regularly ebbed and flowed. This fluctuation wouldn't be a problem if the frequency and amplitude weren't so high. My brain does this thing where it decides, usually after a successful roll or inspiring blog post, that I'm now going to "shoot only film from now on!" This is immediately followed by the purchase of supporting cameras or other gear.</p>
+<p>A short time later, I tire of waiting to finish a roll, even though when I'm in film mode I claim that "waiting is a feature". The digital cameras come out and I start wondering why I bother with the hassle of film, when digital is "better", faster, and cheaper. I should sell off most of the film gear, shutter the darkroom, and just learn how to make decent inkjet prints instead.</p>
+<p>And then, I finally finish that roll, process it, scan it, and make a couple of darkroom prints. Wow! This is so cool and fun and I love the images and I love having the negatives neatly organized in binders on my shelves for future generations of scholars and historians. (ha!).</p>
+<p>So, what I'm saying is that I enjoy both film and digital. I should learn that about myself. I should build processes around both, as needed, and stop trying to decide which I want to do exclusively and realize that it all depends upon my mood.</p>
+	
+</section>
+
+
+
+
+
+
+
+    ]]></description>
+<guid>https://daily.baty.net/posts/2022/01/08/Shooting-film-when-I-m-i.html</guid>
+</item>
+<item>
+<title>Photo processing workflow update, Jan 2022</title>
+<link>https://daily.baty.netposts/2022/01/07/Photo-processing-workflo.html</link>
+<pubDate>never</pubDate>
+<description><![CDATA[
+
+
+
+
+
+
+	<h3><a href="https://daily.baty.net/posts/2022/01/07/Photo-processing-workflo.html">Photo processing workflow update, Jan 2022</a></h3>
+
+<section>
+
+
+	<img src="https://daily.baty.net/img/small/photomechanic.png" alt="Photo processing workflow update, Jan 2022" class="sideImage">
+
+	<p>TL;DR: I'm back to a combination of <a href="https://www.captureone.com/en">Capture One Pro</a> and <a href="https://home.camerabits.com/tour-photo-mechanic/">Photo Mechanic Plus</a>, with a dash of Apple Photos.</p>
+<p>I continue to waffle on which app to use for which portion of my photography workflow. Most recently, I'd considered <a href="posts/2022/01/03/Apple-Photos-vs-Lightroo.html">Apple Photos vs Lightroom Classic as photo library</a>. This was fueled by my desire to keep my library and my editing tool separate. LrC is probably the best all-around solution, and is the closest thing we have to an "industry standard". But, I prefer Capture One Pro for RAW processing. </p>
+<p>Capture One's catalog is mediocre, so I've built a new catalog of all my photos using  Photo Mechanic (Plus). This lets me work with "Sessions" in C1, which I much prefer. I wish PM's UI for browsing its catalog was prettier, even if that meant it was less powerful. Still, it's quite fast and powerful.</p>
+<p>Apple Photos is great for sharing and just having my photos with me on all devices, so I've added "Export to Apple Photos" as a final step.</p>
+<p>Here's my current workflow for digital camera images.</p>
+<p>In Capture One:</p>
+<ul><li> Import from card into Capture One session's Import folder</li>
+<li> Delete anything I don't like (ruthlessly)</li>
+<li> Edit any keepers</li>
+<li> Export a finished JPEG into the same folder as original image</li></ul>
+<p>In Photo Mechanic</p>
+<ul><li> View the import folder in Photo Mechanic</li>
+<li> Rate, keyword, and caption each image</li>
+<li> Move all images into dated folders and add to PM catalog</li>
+<li> Export full-size version of any starred images to Apple Photos</li>
+<li> Share and upload as needed</li></ul>
+<p>This means I spend only enough time in Capture One to edit select images and "burn" JPEG copies. Then it's off to Photo Mechanic for metadata and organization. Then out to Apple Photos for sharing with family and any other apps. The "big catalog" is Photo Mechanic.</p>
+
+	
+</section>
+
+
+
+
+
+
+
+    ]]></description>
+<guid>https://daily.baty.net/posts/2022/01/07/Photo-processing-workflo.html</guid>
+</item>
+<item>
+<title>Moxie's first impressions of Web3</title>
+<link>https://daily.baty.netposts/2022/01/08/Moxie-s-first-impression.html</link>
+<pubDate>Sat, 8 Jan 2022 12:10:14 -0500</pubDate>
+<description><![CDATA[
+
+
+
+
+
+<div class="postNoTitle">
+
+
+<span class="permalinkHash"><a href="https://daily.baty.net/posts/2022/01/08/Moxie-s-first-impression.html">#</a></span> <p>What a great post by Moxie Marlinspike. I could quote 1,000 words but thought this little bit was funny:</p>
+<blockquote class="quoteback" darkmode="" data-title="My first impressions of web3" data-author="@moxie" cite="https://moxie.org/2022/01/07/web3-first-impressions.html">
+<p>...visualizing this financial structure would resemble something similar to a pyramid shape</p>
+<footer>@moxie<cite> <a href="https://moxie.org/2022/01/07/web3-first-impressions.html">https://moxie.org/2022/01/07/web3-first-impressions.html</a></cite></footer>
+</blockquote><script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
+<p>I'll happily live out my life in web1, thank you. You kids have fun, though!</p> 
+
+</div>
+
+
+
+
+
+
+
+    ]]></description>
+<guid>https://daily.baty.net/posts/2022/01/08/Moxie-s-first-impression.html</guid>
+</item>
+
+</channel>
+
+</rss>

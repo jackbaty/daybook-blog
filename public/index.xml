@@ -5,18 +5,53 @@
 <title>Jack Baty</title>
 <link>https://daily.baty.net</link>
 <description>Daily notes by Jack Baty</description>
-	<item>
-<title>Saturday, January 8, 2022</title>
-<link>https://daily.baty.netposts/2022/01/08.html</link>
-<pubDate>Sat, 8 Jan 2022 14:57:00 -0500</pubDate>
-<description><![CDATA[
+	<!doctype html>
+<html lang="en">
+  <head>
+	<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="preconnect" href="https://fonts.googleapis.com"> 
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> 
+<link href="//fonts.googleapis.com/css?family=Ubuntu:400,500i,700" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://unpkg.com/@picocss/pico@latest/css/pico.min.css">
+<link rel="stylesheet" href="../assets/css/custom.css">
 
+<title>RSS - Jack Baty</title>
+
+<script defer data-domain="daily.baty.net" src="https://plausible.io/js/plausible.js"></script>
+  </head>
+  <body>
+	<div class="hero-image">
+  <div class="hero-text">
+    <h1><a href="/">Jack Baty</a></h1>
+    <h3>Director of Unspecified Services</h3>
+  </div>
+</div>
+<nav>
+<ul>
+	<li><a href="../index.html">Home</a></li>
+	<li><a href="../about.html">About</a></li>
+	<li><a href="../archives.html">Archives</a></li>
+	<li><a href="https://baty.net/">Baty.net</a></li>
+	<li><a class="icon-font" href="../index.xml"><svg class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16">
+  <path d="M819.157333 1024C819.157333 574.592 449.408 204.8 0 204.8V0c561.706667 0 1024 462.293333 1024 1024h-204.842667zM140.416 743.04a140.8 140.8 0 0 1 140.501333 140.586667A140.928 140.928 0 0 1 140.074667 1024C62.72 1024 0 961.109333 0 883.626667s62.933333-140.544 140.416-140.586667zM678.784 1024h-199.04c0-263.210667-216.533333-479.786667-479.744-479.786667V345.173333c372.352 0 678.784 306.517333 678.784 678.826667z"></path>
+</svg></a></li>
+</ul>
+</nav>
+    <main class="container">
+		<article>
+<header>
+     <h2 class="dayHeader">Saturday, January 8, 2022</h2>
+<div class="post-meta">☀️ Clear +8°F</div>
+		</header>
+	
 
 
 <div class="postNoTitle">
 
 
-<span class="permalinkHash"><a href="https://daily.baty.net/posts/2022/01/08/Stop-changing.html">#</a></span> <p>They say as you get older that you want things to stop changing (Do they say that?) and I'm starting to believe them.</p> 
+<span class="permalinkHash"><a href="posts/2022/01/08/Stop-changing.html">#</a></span> <p>They say as you get older that you want things to stop changing (Do they say that?) and I'm starting to believe them.</p> 
 
 </div>
 
@@ -26,7 +61,7 @@
 
 
 
-	<h3><a href="https://daily.baty.net/posts/2022/01/08/Shooting-film-when-I-m-i.html">Shooting film when I'm in the mood</a></h3>
+	<h3><a href="posts/2022/01/08/Shooting-film-when-I-m-i.html">Shooting film when I'm in the mood</a></h3>
 
 <section>
 
@@ -46,7 +81,7 @@
 <div class="postNoTitle">
 
 
-<span class="permalinkHash"><a href="https://daily.baty.net/posts/2022/01/08/Leica-M11-speculation.html">#</a></span> <p>Given that the <a href="https://hmeye.files.wordpress.com/2022/01/open-leica_m11_technical_data_en.pdf">spec sheet of the new Leica M11</a> has been leaked a week early, I thought I'd check out the Leica forums. I recently sold my M10-R, so of course I'm interested in what's next for Leica. My god, how I hate speculation. The discussions are boring and useless and I'm going to stop reading them. The good news is that, based on the specs, I see no pressing need for owning an M11. </p> 
+<span class="permalinkHash"><a href="posts/2022/01/08/Leica-M11-speculation.html">#</a></span> <p>Given that the <a href="https://hmeye.files.wordpress.com/2022/01/open-leica_m11_technical_data_en.pdf">spec sheet of the new Leica M11</a> has been leaked a week early, I thought I'd check out the Leica forums. I recently sold my M10-R, so of course I'm interested in what's next for Leica. My god, how I hate speculation. The discussions are boring and useless and I'm going to stop reading them. The good news is that, based on the specs, I see no pressing need for owning an M11. </p> 
 
 </div>
 
@@ -58,7 +93,7 @@
 <div class="postNoTitle">
 
 
-<span class="permalinkHash"><a href="https://daily.baty.net/posts/2022/01/08/Moxie-s-first-impression.html">#</a></span> <p>What a great post by Moxie Marlinspike. I could quote 1,000 words but thought this little bit was funny:</p>
+<span class="permalinkHash"><a href="posts/2022/01/08/Moxie-s-first-impression.html">#</a></span> <p>What a great post by Moxie Marlinspike. I could quote 1,000 words but thought this little bit was funny:</p>
 <blockquote class="quoteback" darkmode="" data-title="My first impressions of web3" data-author="@moxie" cite="https://moxie.org/2022/01/07/web3-first-impressions.html">
 <p>...visualizing this financial structure would resemble something similar to a pyramid shape</p>
 <footer>@moxie<cite> <a href="https://moxie.org/2022/01/07/web3-first-impressions.html">https://moxie.org/2022/01/07/web3-first-impressions.html</a></cite></footer>
@@ -75,28 +110,68 @@
 <div class="postNoTitle">
 
 
-<span class="permalinkHash"><a href="https://daily.baty.net/posts/2022/01/08/I-fixed-the-URLs-in-the-.html">#</a></span> <p>The URLs in this site's RSS feed were broken, sorry. Fixed. Building links in Tinderbox is a fancy-but-confusing-to-me process.</p> 
+<span class="permalinkHash"><a href="posts/2022/01/08/I-fixed-the-URLs-in-the-.html">#</a></span> <p>The URLs in this site's RSS feed were broken, sorry. Fixed. Building links in Tinderbox is a fancy-but-confusing-to-me process.</p> 
 
 </div>
 
 
 
 
-    ]]></description>
-<guid>https://daily.baty.net/posts/2022/01/08.html</guid>
-</item>
-<item>
-<title>Friday, January 7, 2022</title>
-<link>https://daily.baty.netposts/2022/01/07.html</link>
-<pubDate>Fri, 7 Jan 2022 04:56:49 -0500</pubDate>
-<description><![CDATA[
+      </article>
+    </main>
+	<!--  Tinderbox: ^title -->
+<footer>
+	<span>© Jack Baty 2013-2022</span> | 
+	<span>Made with ♥ using <a href="http://www.eastgate.com/Tinderbox/">Tinderbox</a></span>
+</footer>
+  </body>
+</html><!doctype html>
+<html lang="en">
+  <head>
+	<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="preconnect" href="https://fonts.googleapis.com"> 
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> 
+<link href="//fonts.googleapis.com/css?family=Ubuntu:400,500i,700" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://unpkg.com/@picocss/pico@latest/css/pico.min.css">
+<link rel="stylesheet" href="../assets/css/custom.css">
 
+<title>RSS - Jack Baty</title>
+
+<script defer data-domain="daily.baty.net" src="https://plausible.io/js/plausible.js"></script>
+  </head>
+  <body>
+	<div class="hero-image">
+  <div class="hero-text">
+    <h1><a href="/">Jack Baty</a></h1>
+    <h3>Director of Unspecified Services</h3>
+  </div>
+</div>
+<nav>
+<ul>
+	<li><a href="../index.html">Home</a></li>
+	<li><a href="../about.html">About</a></li>
+	<li><a href="../archives.html">Archives</a></li>
+	<li><a href="https://baty.net/">Baty.net</a></li>
+	<li><a class="icon-font" href="../index.xml"><svg class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16">
+  <path d="M819.157333 1024C819.157333 574.592 449.408 204.8 0 204.8V0c561.706667 0 1024 462.293333 1024 1024h-204.842667zM140.416 743.04a140.8 140.8 0 0 1 140.501333 140.586667A140.928 140.928 0 0 1 140.074667 1024C62.72 1024 0 961.109333 0 883.626667s62.933333-140.544 140.416-140.586667zM678.784 1024h-199.04c0-263.210667-216.533333-479.786667-479.744-479.786667V345.173333c372.352 0 678.784 306.517333 678.784 678.826667z"></path>
+</svg></a></li>
+</ul>
+</nav>
+    <main class="container">
+		<article>
+<header>
+     <h2 class="dayHeader">Friday, January 7, 2022</h2>
+<div class="post-meta">☁️ Overcast +3°F</div>
+		</header>
+	
 
 
 <div class="postNoTitle">
 
 
-<span class="permalinkHash"><a href="https://daily.baty.net/posts/2022/01/07/Good-morning.html">#</a></span> <p>Good morning, it's 5:00 am and I'm freezing my nads off. Coffee is helping.</p> 
+<span class="permalinkHash"><a href="posts/2022/01/07/Good-morning.html">#</a></span> <p>Good morning, it's 5:00 am and I'm freezing my nads off. Coffee is helping.</p> 
 
 </div>
 
@@ -106,12 +181,12 @@
 
 
 
-	<h3><a href="https://daily.baty.net/posts/2022/01/07/Photo-processing-workflo.html">Photo processing workflow update, Jan 2022</a></h3>
+	<h3><a href="posts/2022/01/07/Photo-processing-workflo.html">Photo processing workflow update, Jan 2022</a></h3>
 
 <section>
 
 
-	<img src="https://daily.baty.net/img/small/photomechanic.png" alt="Photo processing workflow update, Jan 2022" class="sideImage">
+	<img src="/img/small/photomechanic.png" alt="Photo processing workflow update, Jan 2022" class="sideImage">
 
 	<p>TL;DR: I'm back to a combination of <a href="https://www.captureone.com/en">Capture One Pro</a> and <a href="https://home.camerabits.com/tour-photo-mechanic/">Photo Mechanic Plus</a>, with a dash of Apple Photos.</p>
 <p>I continue to waffle on which app to use for which portion of my photography workflow. Most recently, I'd considered <a href="posts/2022/01/03/Apple-Photos-vs-Lightroo.html">Apple Photos vs Lightroom Classic as photo library</a>. This was fueled by my desire to keep my library and my editing tool separate. LrC is probably the best all-around solution, and is the closest thing we have to an "industry standard". But, I prefer Capture One Pro for RAW processing. </p>
@@ -137,21 +212,61 @@
 
 
 
-    ]]></description>
-<guid>https://daily.baty.net/posts/2022/01/07.html</guid>
-</item>
-<item>
-<title>Thursday, January 6, 2022</title>
-<link>https://daily.baty.netposts/2022/01/06.html</link>
-<pubDate>Thu, 6 Jan 2022 05:41:04 -0500</pubDate>
-<description><![CDATA[
+      </article>
+    </main>
+	<!--  Tinderbox: ^title -->
+<footer>
+	<span>© Jack Baty 2013-2022</span> | 
+	<span>Made with ♥ using <a href="http://www.eastgate.com/Tinderbox/">Tinderbox</a></span>
+</footer>
+  </body>
+</html><!doctype html>
+<html lang="en">
+  <head>
+	<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="preconnect" href="https://fonts.googleapis.com"> 
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> 
+<link href="//fonts.googleapis.com/css?family=Ubuntu:400,500i,700" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://unpkg.com/@picocss/pico@latest/css/pico.min.css">
+<link rel="stylesheet" href="../assets/css/custom.css">
 
+<title>RSS - Jack Baty</title>
+
+<script defer data-domain="daily.baty.net" src="https://plausible.io/js/plausible.js"></script>
+  </head>
+  <body>
+	<div class="hero-image">
+  <div class="hero-text">
+    <h1><a href="/">Jack Baty</a></h1>
+    <h3>Director of Unspecified Services</h3>
+  </div>
+</div>
+<nav>
+<ul>
+	<li><a href="../index.html">Home</a></li>
+	<li><a href="../about.html">About</a></li>
+	<li><a href="../archives.html">Archives</a></li>
+	<li><a href="https://baty.net/">Baty.net</a></li>
+	<li><a class="icon-font" href="../index.xml"><svg class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16">
+  <path d="M819.157333 1024C819.157333 574.592 449.408 204.8 0 204.8V0c561.706667 0 1024 462.293333 1024 1024h-204.842667zM140.416 743.04a140.8 140.8 0 0 1 140.501333 140.586667A140.928 140.928 0 0 1 140.074667 1024C62.72 1024 0 961.109333 0 883.626667s62.933333-140.544 140.416-140.586667zM678.784 1024h-199.04c0-263.210667-216.533333-479.786667-479.744-479.786667V345.173333c372.352 0 678.784 306.517333 678.784 678.826667z"></path>
+</svg></a></li>
+</ul>
+</nav>
+    <main class="container">
+		<article>
+<header>
+     <h2 class="dayHeader">Thursday, January 6, 2022</h2>
+<div class="post-meta">🌨  Light snow, mist +23°F</div>
+		</header>
+	
 
 
 <div class="postNoTitle">
 
 
-<span class="permalinkHash"><a href="https://daily.baty.net/posts/2022/01/06/Good-morning.html">#</a></span> <p>Good morning, it's 5:45 am. Our walk today was through a fresh 8-10 inches of snow. It was lovely.</p>
+<span class="permalinkHash"><a href="posts/2022/01/06/Good-morning.html">#</a></span> <p>Good morning, it's 5:45 am. Our walk today was through a fresh 8-10 inches of snow. It was lovely.</p>
  
 
 </div>
@@ -164,21 +279,9 @@
 <div class="postNoTitle">
 
 
-	<img src="https://daily.baty.net/img/small//img/small/captureone.png" alt="Capture One Pro" class="sideImage">
+	<img src="/img/small/captureone.png" alt="Capture One Pro" class="sideImage">
 
-<span class="permalinkHash"><a href="https://daily.baty.net/posts/2022/01/06/Capture-One-Pro.html">#</a></span> <p>Yesterday, at about this time, I said that I wanted to <a href="posts/2022/01/05/Good-morning.html">move my photo editing back to Capture One Pro</a>. I later spent a few hours doing just that. Yes, yes, I know, I do this all the time and always end up back in Lightroom Classic. That may happen again this time, but what I'm always reminded of is that I get photos I like better out of C1 faster and more easily than I do with LrC. And when I want to get fancy, C1 does a better job also (layers!). I almost never drop into Photoshop, but I suppose if I do more "real" portraits, I'll need it for retouching. C1 is just nicer. It's also better when switching between the big and little screens because the layouts are so customizable. I have a custom layout for both screens. Tethering from the Leicas works like butter in C1, too. So, Lightroom has "easier" going for it, but C1 wins at just about everything else.</p> 
-
-</div>
-
-
-
-
-
-
-<div class="postNoTitle">
-
-
-<span class="permalinkHash"><a href="https://daily.baty.net/posts/2022/01/06/I-get-bored.html">#</a></span> <p><a href="https://copingmechanism.com/2022/i-get-bored/">I get bored...</a></p> 
+<span class="permalinkHash"><a href="posts/2022/01/06/Capture-One-Pro.html">#</a></span> <p>Yesterday, at about this time, I said that I wanted to <a href="posts/2022/01/05/Good-morning.html">move my photo editing back to Capture One Pro</a>. I later spent a few hours doing just that. Yes, yes, I know, I do this all the time and always end up back in Lightroom Classic. That may happen again this time, but what I'm always reminded of is that I get photos I like better out of C1 faster and more easily than I do with LrC. And when I want to get fancy, C1 does a better job also (layers!). I almost never drop into Photoshop, but I suppose if I do more "real" portraits, I'll need it for retouching. C1 is just nicer. It's also better when switching between the big and little screens because the layouts are so customizable. I have a custom layout for both screens. Tethering from the Leicas works like butter in C1, too. So, Lightroom has "easier" going for it, but C1 wins at just about everything else.</p> 
 
 </div>
 
@@ -190,7 +293,19 @@
 <div class="postNoTitle">
 
 
-<span class="permalinkHash"><a href="https://daily.baty.net/posts/2022/01/06/Wordle-is-stupid.html">#</a></span> <p><a href="https://www.powerlanguage.co.uk/wordle/">Wordle</a> is stupid.</p>
+<span class="permalinkHash"><a href="posts/2022/01/06/I-get-bored.html">#</a></span> <p><a href="https://copingmechanism.com/2022/i-get-bored/">I get bored...</a></p> 
+
+</div>
+
+
+
+
+
+
+<div class="postNoTitle">
+
+
+<span class="permalinkHash"><a href="posts/2022/01/06/Wordle-is-stupid.html">#</a></span> <p><a href="https://www.powerlanguage.co.uk/wordle/">Wordle</a> is stupid.</p>
 <pre>
 ⬜⬜🟨⬜⬜
 ⬜⬜🟨⬜⬜
@@ -210,7 +325,7 @@
 <div class="postNoTitle">
 
 
-<span class="permalinkHash"><a href="https://daily.baty.net/posts/2022/01/06/Quote-Become-a-cabbage.html">#</a></span> <blockquote class="quoteback" darkmode="" data-title="The Art Of Disappearing" data-author="Naomi Shihab Nye" cite="https://www.poemhunter.com/poem/the-art-of-disappearing/">
+<span class="permalinkHash"><a href="posts/2022/01/06/Quote-Become-a-cabbage.html">#</a></span> <blockquote class="quoteback" darkmode="" data-title="The Art Of Disappearing" data-author="Naomi Shihab Nye" cite="https://www.poemhunter.com/poem/the-art-of-disappearing/">
 <p>When someone recognizes you in a grocery store</p>
 <p>nod briefly and become a cabbage.</p>
 <footer><cite> <a href="https://www.poemhunter.com/poem/the-art-of-disappearing/">https://www.poemhunter.com/poem/the-art-of-disappearing/</a></cite></footer>
@@ -224,7 +339,7 @@
 
 
 
-	<h3><a href="https://daily.baty.net/posts/2022/01/06/750-Words.html">750 Words</a></h3>
+	<h3><a href="posts/2022/01/06/750-Words.html">750 Words</a></h3>
 
 <section>
 
@@ -236,21 +351,61 @@
 
 
 
-    ]]></description>
-<guid>https://daily.baty.net/posts/2022/01/06.html</guid>
-</item>
-<item>
-<title>Wednesday, January 5, 2022</title>
-<link>https://daily.baty.netposts/2022/01/05.html</link>
-<pubDate>Wed, 5 Jan 2022 04:29:33 -0500</pubDate>
-<description><![CDATA[
+      </article>
+    </main>
+	<!--  Tinderbox: ^title -->
+<footer>
+	<span>© Jack Baty 2013-2022</span> | 
+	<span>Made with ♥ using <a href="http://www.eastgate.com/Tinderbox/">Tinderbox</a></span>
+</footer>
+  </body>
+</html><!doctype html>
+<html lang="en">
+  <head>
+	<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="preconnect" href="https://fonts.googleapis.com"> 
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> 
+<link href="//fonts.googleapis.com/css?family=Ubuntu:400,500i,700" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://unpkg.com/@picocss/pico@latest/css/pico.min.css">
+<link rel="stylesheet" href="../assets/css/custom.css">
 
+<title>RSS - Jack Baty</title>
+
+<script defer data-domain="daily.baty.net" src="https://plausible.io/js/plausible.js"></script>
+  </head>
+  <body>
+	<div class="hero-image">
+  <div class="hero-text">
+    <h1><a href="/">Jack Baty</a></h1>
+    <h3>Director of Unspecified Services</h3>
+  </div>
+</div>
+<nav>
+<ul>
+	<li><a href="../index.html">Home</a></li>
+	<li><a href="../about.html">About</a></li>
+	<li><a href="../archives.html">Archives</a></li>
+	<li><a href="https://baty.net/">Baty.net</a></li>
+	<li><a class="icon-font" href="../index.xml"><svg class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16">
+  <path d="M819.157333 1024C819.157333 574.592 449.408 204.8 0 204.8V0c561.706667 0 1024 462.293333 1024 1024h-204.842667zM140.416 743.04a140.8 140.8 0 0 1 140.501333 140.586667A140.928 140.928 0 0 1 140.074667 1024C62.72 1024 0 961.109333 0 883.626667s62.933333-140.544 140.416-140.586667zM678.784 1024h-199.04c0-263.210667-216.533333-479.786667-479.744-479.786667V345.173333c372.352 0 678.784 306.517333 678.784 678.826667z"></path>
+</svg></a></li>
+</ul>
+</nav>
+    <main class="container">
+		<article>
+<header>
+     <h2 class="dayHeader">Wednesday, January 5, 2022</h2>
+<div class="post-meta">☁️ Overcast +33°F</div>
+		</header>
+	
 
 
 <div class="postNoTitle">
 
 
-<span class="permalinkHash"><a href="https://daily.baty.net/posts/2022/01/05/Good-morning.html">#</a></span> <p>Good morning. It's 4:30 am and I want to move my photo editing back into <a href="https://www.captureone.com/">Capture One Pro</a>.</p> 
+<span class="permalinkHash"><a href="posts/2022/01/05/Good-morning.html">#</a></span> <p>Good morning. It's 4:30 am and I want to move my photo editing back into <a href="https://www.captureone.com/">Capture One Pro</a>.</p> 
 
 </div>
 
@@ -262,11 +417,12 @@
 <div class="postNoTitle">
 
 <figure>
-		<img src="https://daily.baty.net/img/2022/20220105-WhyWeWork.png" alt="" class="postimage">
+		<img src="/img/2022/20220105-WhyWeWork.png" alt="Quote: Why We Work" class="postimage">
+
 </figure>
 
 
-<span class="permalinkHash"><a href="https://daily.baty.net/posts/2022/01/05/Quote-Why-We-Work.html">#</a></span>  
+<span class="permalinkHash"><a href="posts/2022/01/05/Quote-Why-We-Work.html">#</a></span>  
 
 </div>
 
@@ -278,11 +434,12 @@
 <div class="postNoTitle">
 
 <figure>
-		<img src="https://daily.baty.nethttps://photos.smugmug.com/People/i-qLBJZHR/0/0e983f3f/X2/20220105-Q1000077-X2.jpg" alt="Self-portrait. Leica Q2 Monochrom." class="postimage">
+		<img src="https://photos.smugmug.com/People/i-qLBJZHR/0/0e983f3f/X2/20220105-Q1000077-X2.jpg" alt="Self-portrait" class="postimage">
+<figcaption>Self-portrait. Leica Q2 Monochrom.</figcaption>
 </figure>
 
 
-<span class="permalinkHash"><a href="https://daily.baty.net/posts/2022/01/05/Self-portrait.html">#</a></span> <p>I'm trying to improve my use of lighting. This is two strobes. Front left with softbox and low rear for background. Definitely need to iron that backdrop. Also, I think this would make a decent profile photo.</p> 
+<span class="permalinkHash"><a href="posts/2022/01/05/Self-portrait.html">#</a></span> <p>I'm trying to improve my use of lighting. This is two strobes. Front left with softbox and low rear for background. Definitely need to iron that backdrop. Also, I think this would make a decent profile photo.</p> 
 
 </div>
 
@@ -294,44 +451,102 @@
 <div class="postNoTitle">
 
 
-<span class="permalinkHash"><a href="https://daily.baty.net/posts/2022/01/05/Talking-about-social-med.html">#</a></span> <p>I feel it's time for me to stop talking about social media. I mean, what remains to be said? It's become a contest to see who can come up with the most pithy and clever way to tell everyone else that social media is bad. We already <i>know</i> it's bad. Duh. It's so bad in fact that I'm talking about it yet again and I'm smack dab in the middle of a post about not doing that. Ok?</p> 
+<span class="permalinkHash"><a href="posts/2022/01/05/Talking-about-social-med.html">#</a></span> <p>I feel it's time for me to stop talking about social media. I mean, what remains to be said? It's become a contest to see who can come up with the most pithy and clever way to tell everyone else that social media is bad. We already <i>know</i> it's bad. Duh. It's so bad in fact that I'm talking about it yet again and I'm smack dab in the middle of a post about not doing that. Ok?</p> 
 
 </div>
 
 
 
 
-    ]]></description>
-<guid>https://daily.baty.net/posts/2022/01/05.html</guid>
-</item>
-<item>
-<title>Tuesday, January 4, 2022</title>
-<link>https://daily.baty.netposts/2022/01/04.html</link>
-<pubDate>Tue, 4 Jan 2022 06:35:54 -0500</pubDate>
-<description><![CDATA[
+      </article>
+    </main>
+	<!--  Tinderbox: ^title -->
+<footer>
+	<span>© Jack Baty 2013-2022</span> | 
+	<span>Made with ♥ using <a href="http://www.eastgate.com/Tinderbox/">Tinderbox</a></span>
+</footer>
+  </body>
+</html><!doctype html>
+<html lang="en">
+  <head>
+	<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="preconnect" href="https://fonts.googleapis.com"> 
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> 
+<link href="//fonts.googleapis.com/css?family=Ubuntu:400,500i,700" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://unpkg.com/@picocss/pico@latest/css/pico.min.css">
+<link rel="stylesheet" href="../assets/css/custom.css">
+
+<title>RSS - Jack Baty</title>
+
+<script defer data-domain="daily.baty.net" src="https://plausible.io/js/plausible.js"></script>
+  </head>
+  <body>
+	<div class="hero-image">
+  <div class="hero-text">
+    <h1><a href="/">Jack Baty</a></h1>
+    <h3>Director of Unspecified Services</h3>
+  </div>
+</div>
+<nav>
+<ul>
+	<li><a href="../index.html">Home</a></li>
+	<li><a href="../about.html">About</a></li>
+	<li><a href="../archives.html">Archives</a></li>
+	<li><a href="https://baty.net/">Baty.net</a></li>
+	<li><a class="icon-font" href="../index.xml"><svg class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16">
+  <path d="M819.157333 1024C819.157333 574.592 449.408 204.8 0 204.8V0c561.706667 0 1024 462.293333 1024 1024h-204.842667zM140.416 743.04a140.8 140.8 0 0 1 140.501333 140.586667A140.928 140.928 0 0 1 140.074667 1024C62.72 1024 0 961.109333 0 883.626667s62.933333-140.544 140.416-140.586667zM678.784 1024h-199.04c0-263.210667-216.533333-479.786667-479.744-479.786667V345.173333c372.352 0 678.784 306.517333 678.784 678.826667z"></path>
+</svg></a></li>
+</ul>
+</nav>
+    <main class="container">
+		<article>
+<header>
+     <h2 class="dayHeader">Tuesday, January 4, 2022</h2>
+<div class="post-meta">☀️ Clear +21°F</div>
+		</header>
+	
+
+
+<div class="postNoTitle">
+
+<figure>
+		<img src="/img/2022/20220104-Messy.png" alt="Quote: An unprofessional vagueness" class="postimage">
+
+</figure>
+
+
+<span class="permalinkHash"><a href="posts/2022/01/04/Quote-An-unprofessional-.html">#</a></span>  
+
+</div>
+
+
+
+
+
+
+<div class="postNoTitle">
+
+
+<span class="permalinkHash"><a href="posts/2022/01/04/Meditation-and-Metta.html">#</a></span> <p>I have been trying a meditation practice using Sam Harris' "<a href="https://wakingup.com">Waking Up</a>" course. Today, he had us try "Metta" which means "loving-kindness". What he had me do was wordlessly wish someone I care about, "May you be happy. May you be peaceful. May you be free from suffering." I am amazed at how good that made me feel. I might like this meditation stuff.</p> 
+
+</div>
+
+
+
 
 
 
 <div class="postNoTitle">
 
 <figure>
-		<img src="https://daily.baty.net/img/2022/20220104-Messy.png" alt="" class="postimage">
+		<img src="/img/2022/20220104-R0002003-Edit.jpg" alt="The Leica Family" class="postimage">
+<figcaption>The Family: Leica Q2 Monochrom, MP, and SL2-S. I am very fortunate.</figcaption>
 </figure>
 
 
-<span class="permalinkHash"><a href="https://daily.baty.net/posts/2022/01/04/Quote-An-unprofessional-.html">#</a></span>  
-
-</div>
-
-
-
-
-
-
-<div class="postNoTitle">
-
-
-<span class="permalinkHash"><a href="https://daily.baty.net/posts/2022/01/04/Meditation-and-Metta.html">#</a></span> <p>I have been trying a meditation practice using Sam Harris' "<a href="https://wakingup.com">Waking Up</a>" course. Today, he had us try "Metta" which means "loving-kindness". What he had me do was wordlessly wish someone I care about, "May you be happy. May you be peaceful. May you be free from suffering." I am amazed at how good that made me feel. I might like this meditation stuff.</p> 
+<span class="permalinkHash"><a href="posts/2022/01/04/The-Leica-Family.html">#</a></span>  
 
 </div>
 
@@ -343,27 +558,12 @@
 <div class="postNoTitle">
 
 <figure>
-		<img src="https://daily.baty.net/img/2022/20220104-R0002003-Edit.jpg" alt="The Family: Leica Q2 Monochrom, MP, and SL2-S. I am very fortunate." class="postimage">
+		<img src="/img/2022/20220104-L1000740.jpg" alt="Quote: Jarod Lanier on self-esteem" class="postimage">
+
 </figure>
 
 
-<span class="permalinkHash"><a href="https://daily.baty.net/posts/2022/01/04/The-Leica-Family.html">#</a></span>  
-
-</div>
-
-
-
-
-
-
-<div class="postNoTitle">
-
-<figure>
-		<img src="https://daily.baty.net/img/2022/20220104-L1000740.jpg" alt="" class="postimage">
-</figure>
-
-
-<span class="permalinkHash"><a href="https://daily.baty.net/posts/2022/01/04/Quote-Jarod-Lanier-on-se.html">#</a></span>  
+<span class="permalinkHash"><a href="posts/2022/01/04/Quote-Jarod-Lanier-on-se.html">#</a></span>  
 
 </div>
 
@@ -375,7 +575,7 @@
 <div class="postNoTitle">
 
 
-<span class="permalinkHash"><a href="https://daily.baty.net/posts/2022/01/04/Boring-solutions.html">#</a></span> <p>If the solution you've chosen isn't boring you've probably chosen the wrong thing.</p> 
+<span class="permalinkHash"><a href="posts/2022/01/04/Boring-solutions.html">#</a></span> <p>If the solution you've chosen isn't boring you've probably chosen the wrong thing.</p> 
 
 </div>
 
@@ -385,7 +585,7 @@
 
 
 
-	<h3><a href="https://daily.baty.net/posts/2022/01/04/Big-screens-are-bad-for-.html">Big screens are bad for me</a></h3>
+	<h3><a href="posts/2022/01/04/Big-screens-are-bad-for-.html">Big screens are bad for me</a></h3>
 
 <section>
 
@@ -408,28 +608,68 @@
 <div class="postNoTitle">
 
 
-<span class="permalinkHash"><a href="https://daily.baty.net/posts/2022/01/04/But-what-if-I-need-this-.html">#</a></span> <p>I see <a href="https://youneedastereo.com/#2022-01-04%20Journal">Phil having similar thoughts</a> as me around mobile access to Mac-only information. In recent months, I've come to realize that I almost never need the stuff in my logs when I'm out and about. I <i>worry</i> about needing it, but don't. Most of the things I think I might need are nice-to-haves. There are a few things I do occasionally truly need, so I just keep them in Apple Notes. I think I'm finally learning to tell the difference.</p> 
+<span class="permalinkHash"><a href="posts/2022/01/04/But-what-if-I-need-this-.html">#</a></span> <p>I see <a href="https://youneedastereo.com/#2022-01-04%20Journal">Phil having similar thoughts</a> as me around mobile access to Mac-only information. In recent months, I've come to realize that I almost never need the stuff in my logs when I'm out and about. I <i>worry</i> about needing it, but don't. Most of the things I think I might need are nice-to-haves. There are a few things I do occasionally truly need, so I just keep them in Apple Notes. I think I'm finally learning to tell the difference.</p> 
 
 </div>
 
 
 
 
-    ]]></description>
-<guid>https://daily.baty.net/posts/2022/01/04.html</guid>
-</item>
-<item>
-<title>Monday, January 3, 2022</title>
-<link>https://daily.baty.netposts/2022/01/03.html</link>
-<pubDate>Mon, 3 Jan 2022 04:35:56 -0500</pubDate>
-<description><![CDATA[
+      </article>
+    </main>
+	<!--  Tinderbox: ^title -->
+<footer>
+	<span>© Jack Baty 2013-2022</span> | 
+	<span>Made with ♥ using <a href="http://www.eastgate.com/Tinderbox/">Tinderbox</a></span>
+</footer>
+  </body>
+</html><!doctype html>
+<html lang="en">
+  <head>
+	<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="preconnect" href="https://fonts.googleapis.com"> 
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> 
+<link href="//fonts.googleapis.com/css?family=Ubuntu:400,500i,700" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://unpkg.com/@picocss/pico@latest/css/pico.min.css">
+<link rel="stylesheet" href="../assets/css/custom.css">
 
+<title>RSS - Jack Baty</title>
+
+<script defer data-domain="daily.baty.net" src="https://plausible.io/js/plausible.js"></script>
+  </head>
+  <body>
+	<div class="hero-image">
+  <div class="hero-text">
+    <h1><a href="/">Jack Baty</a></h1>
+    <h3>Director of Unspecified Services</h3>
+  </div>
+</div>
+<nav>
+<ul>
+	<li><a href="../index.html">Home</a></li>
+	<li><a href="../about.html">About</a></li>
+	<li><a href="../archives.html">Archives</a></li>
+	<li><a href="https://baty.net/">Baty.net</a></li>
+	<li><a class="icon-font" href="../index.xml"><svg class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16">
+  <path d="M819.157333 1024C819.157333 574.592 449.408 204.8 0 204.8V0c561.706667 0 1024 462.293333 1024 1024h-204.842667zM140.416 743.04a140.8 140.8 0 0 1 140.501333 140.586667A140.928 140.928 0 0 1 140.074667 1024C62.72 1024 0 961.109333 0 883.626667s62.933333-140.544 140.416-140.586667zM678.784 1024h-199.04c0-263.210667-216.533333-479.786667-479.744-479.786667V345.173333c372.352 0 678.784 306.517333 678.784 678.826667z"></path>
+</svg></a></li>
+</ul>
+</nav>
+    <main class="container">
+		<article>
+<header>
+     <h2 class="dayHeader">Monday, January 3, 2022</h2>
+<div class="post-meta">☁️ Overcast +18°F</div>
+		</header>
+	
 
 
 <div class="postNoTitle">
 
 
-<span class="permalinkHash"><a href="https://daily.baty.net/posts/2022/01/03/Good-morning-.html">#</a></span> <p>Good morning. It's 4:40 am the first Monday of the year. If I had a job, that would probably have more significance. Still thinking about weekly projects but my Rails app from a couple weeks ago seems to have been a failure and that is discouraging me.</p> 
+<span class="permalinkHash"><a href="posts/2022/01/03/Good-morning-.html">#</a></span> <p>Good morning. It's 4:40 am the first Monday of the year. If I had a job, that would probably have more significance. Still thinking about weekly projects but my Rails app from a couple weeks ago seems to have been a failure and that is discouraging me.</p> 
 
 </div>
 
@@ -441,11 +681,12 @@
 <div class="postNoTitle">
 
 <figure>
-		<img src="https://daily.baty.net/img/2022/20220103-stench-of-honolulu.png" alt="" class="postimage">
+		<img src="/img/2022/20220103-stench-of-honolulu.png" alt="Jack Handy Quote about scotch" class="postimage">
+
 </figure>
 
 
-<span class="permalinkHash"><a href="https://daily.baty.net/posts/2022/01/03/Jack-Handy-Quote-about-s.html">#</a></span>  
+<span class="permalinkHash"><a href="posts/2022/01/03/Jack-Handy-Quote-about-s.html">#</a></span>  
 
 </div>
 
@@ -457,7 +698,7 @@
 <div class="postNoTitle">
 
 
-<span class="permalinkHash"><a href="https://daily.baty.net/posts/2022/01/03/Change-to-movies-listing.html">#</a></span> <p>I've updated the <a href="movies.html">Movies</a> listing to use a table rather than a list based on each note's $DisplayExpression. There's now a conditional in the Tinderbox export template for the Movies agent. This feels a little fragile, but it works. I've also added an icon (<img src="/img/icons/note-icon.png" class="icon">) if a movie has a review or notes. This avoids wasted clicks if there's nothing to see.</p> 
+<span class="permalinkHash"><a href="posts/2022/01/03/Change-to-movies-listing.html">#</a></span> <p>I've updated the <a href="movies.html">Movies</a> listing to use a table rather than a list based on each note's $DisplayExpression. There's now a conditional in the Tinderbox export template for the Movies agent. This feels a little fragile, but it works. I've also added an icon (<img src="/img/icons/note-icon.png" class="icon">) if a movie has a review or notes. This avoids wasted clicks if there's nothing to see.</p> 
 
 </div>
 
@@ -469,11 +710,12 @@
 <div class="postNoTitle">
 
 <figure>
-		<img src="https://daily.baty.nethttps://photos.smugmug.com/Blog-Photos/i-6XBHFL6/0/c36af669/XL/20220103-Q1000001-XL.jpg" alt="Mirror self-portrait. First photo with new Leica Q2 Monochrom" class="postimage">
+		<img src="https://photos.smugmug.com/Blog-Photos/i-6XBHFL6/0/c36af669/XL/20220103-Q1000001-XL.jpg" alt="Leica Q2 Monochrom" class="postimage">
+<figcaption>Mirror self-portrait. First photo with new Leica Q2 Monochrom</figcaption>
 </figure>
 
 
-<span class="permalinkHash"><a href="https://daily.baty.net/posts/2022/01/03/Leica-Q2-Monochrom.html">#</a></span>  
+<span class="permalinkHash"><a href="posts/2022/01/03/Leica-Q2-Monochrom.html">#</a></span>  
 
 </div>
 
@@ -483,7 +725,7 @@
 
 
 
-	<h3><a href="https://daily.baty.net/posts/2022/01/03/Apple-Photos-vs-Lightroo.html">Apple Photos vs Lightroom Classic as photo library</a></h3>
+	<h3><a href="posts/2022/01/03/Apple-Photos-vs-Lightroo.html">Apple Photos vs Lightroom Classic as photo library</a></h3>
 
 <section>
 
@@ -500,21 +742,61 @@
 
 
 
-    ]]></description>
-<guid>https://daily.baty.net/posts/2022/01/03.html</guid>
-</item>
-<item>
-<title>Sunday, January 2, 2022</title>
-<link>https://daily.baty.netposts/2022/01/02.html</link>
-<pubDate>Sun, 2 Jan 2022 07:29:16 -0500</pubDate>
-<description><![CDATA[
+      </article>
+    </main>
+	<!--  Tinderbox: ^title -->
+<footer>
+	<span>© Jack Baty 2013-2022</span> | 
+	<span>Made with ♥ using <a href="http://www.eastgate.com/Tinderbox/">Tinderbox</a></span>
+</footer>
+  </body>
+</html><!doctype html>
+<html lang="en">
+  <head>
+	<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="preconnect" href="https://fonts.googleapis.com"> 
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> 
+<link href="//fonts.googleapis.com/css?family=Ubuntu:400,500i,700" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://unpkg.com/@picocss/pico@latest/css/pico.min.css">
+<link rel="stylesheet" href="../assets/css/custom.css">
 
+<title>RSS - Jack Baty</title>
+
+<script defer data-domain="daily.baty.net" src="https://plausible.io/js/plausible.js"></script>
+  </head>
+  <body>
+	<div class="hero-image">
+  <div class="hero-text">
+    <h1><a href="/">Jack Baty</a></h1>
+    <h3>Director of Unspecified Services</h3>
+  </div>
+</div>
+<nav>
+<ul>
+	<li><a href="../index.html">Home</a></li>
+	<li><a href="../about.html">About</a></li>
+	<li><a href="../archives.html">Archives</a></li>
+	<li><a href="https://baty.net/">Baty.net</a></li>
+	<li><a class="icon-font" href="../index.xml"><svg class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16">
+  <path d="M819.157333 1024C819.157333 574.592 449.408 204.8 0 204.8V0c561.706667 0 1024 462.293333 1024 1024h-204.842667zM140.416 743.04a140.8 140.8 0 0 1 140.501333 140.586667A140.928 140.928 0 0 1 140.074667 1024C62.72 1024 0 961.109333 0 883.626667s62.933333-140.544 140.416-140.586667zM678.784 1024h-199.04c0-263.210667-216.533333-479.786667-479.744-479.786667V345.173333c372.352 0 678.784 306.517333 678.784 678.826667z"></path>
+</svg></a></li>
+</ul>
+</nav>
+    <main class="container">
+		<article>
+<header>
+     <h2 class="dayHeader">Sunday, January 2, 2022</h2>
+<div class="post-meta">🌨  Light snow, mist +18°F</div>
+		</header>
+	
 
 
 <div class="postNoTitle">
 
 
-<span class="permalinkHash"><a href="https://daily.baty.net/posts/2022/01/02/Good-morning-What-kind-o.html">#</a></span> <p>Good morning. It's 7:35 am because Alice slept until 6:45. I hardly know what to do with myself after nearly eight ours of sleep. Let's see what kind of day this can be.</p> 
+<span class="permalinkHash"><a href="posts/2022/01/02/Good-morning-What-kind-o.html">#</a></span> <p>Good morning. It's 7:35 am because Alice slept until 6:45. I hardly know what to do with myself after nearly eight ours of sleep. Let's see what kind of day this can be.</p> 
 
 </div>
 
@@ -526,11 +808,12 @@
 <div class="postNoTitle">
 
 <figure>
-		<img src="https://daily.baty.net/img/2022/20211227-R0001993.jpg" alt="A good regular reminder, so I keep it pinned to my bulletin board." class="postimage">
+		<img src="/img/2022/20211227-R0001993.jpg" alt="Thomas Paine quote" class="postimage">
+<figcaption>A good regular reminder, so I keep it pinned to my bulletin board.</figcaption>
 </figure>
 
 
-<span class="permalinkHash"><a href="https://daily.baty.net/posts/2022/01/02/Thomas-Paine-quote.html">#</a></span>  
+<span class="permalinkHash"><a href="posts/2022/01/02/Thomas-Paine-quote.html">#</a></span>  
 
 </div>
 
@@ -542,7 +825,7 @@
 <div class="postNoTitle">
 
 
-<span class="permalinkHash"><a href="https://daily.baty.net/posts/2022/01/02/I-still-miss-the-APO-Sum.html">#</a></span> <p>I took a photo of the dog against a bright background using the Leica SL2-S with the Sigma 24-70 f/2.8. The sigma is a fine lens, but it (literally) pales in comparison with the native Leica primes. Alice was lacking in contrast and sharpness due to the slight flaring and CA that occurs with the Sigma. I've taken nearly identical photos with the APO Summicron-SL 35mm and they were bright, sharp, and contrasty. I miss that lens.</p> 
+<span class="permalinkHash"><a href="posts/2022/01/02/I-still-miss-the-APO-Sum.html">#</a></span> <p>I took a photo of the dog against a bright background using the Leica SL2-S with the Sigma 24-70 f/2.8. The sigma is a fine lens, but it (literally) pales in comparison with the native Leica primes. Alice was lacking in contrast and sharpness due to the slight flaring and CA that occurs with the Sigma. I've taken nearly identical photos with the APO Summicron-SL 35mm and they were bright, sharp, and contrasty. I miss that lens.</p> 
 
 </div>
 
@@ -554,7 +837,7 @@
 <div class="postNoTitle">
 
 
-<span class="permalinkHash"><a href="https://daily.baty.net/posts/2022/01/02/What-s-up-guys-.html">#</a></span> <p>Whatever I end up doing next, It's not going to be what Eric Floberg is making excellent fun of in this video:</p>
+<span class="permalinkHash"><a href="posts/2022/01/02/What-s-up-guys-.html">#</a></span> <p>Whatever I end up doing next, It's not going to be what Eric Floberg is making excellent fun of in this video:</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HHsMHHKJ8Us" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <p>yeesh.</p> 
 
@@ -566,12 +849,12 @@
 
 
 
-	<h3><a href="https://daily.baty.net/posts/2022/01/02/But-is-it-too-complicate.html">But is it too complicated?</a></h3>
+	<h3><a href="posts/2022/01/02/But-is-it-too-complicate.html">But is it too complicated?</a></h3>
 
 <section>
 
 
-	<img src="https://daily.baty.net/img/small/tinderboxicon.png" alt="But is it too complicated?" class="sideImage">
+	<img src="/img/small/tinderboxicon.png" alt="But is it too complicated?" class="sideImage">
 
 	<p>Publishing this blog using <a href="https://eastgate.com/Tinderbox">Tinderbox</a> is certainly complex, but is it also too complicated?</p>
 <p>There are many moving parts: agents, rules, expressions, action code, attributes, and so on. But to simply publish this post, all I do is hit return, type some words, and click a button. Not complicated at all. However, if I decide to change something, or if I change something by accident, all hell might break loose. </p>
@@ -586,16 +869,16 @@
 
 
 
-	<h3><a href="https://daily.baty.net/posts/2022/01/02/Hobonichi-2022.html">Hobonichi 2022</a></h3>
+	<h3><a href="posts/2022/01/02/Hobonichi-2022.html">Hobonichi 2022</a></h3>
 
 <section>
 
 <figure>
-		<img src="https://daily.baty.net/img/2022/20220102-R0001995.jpg" alt="Hobonichis on my journal shelf" class="postimage">
+		<img src="/img/2022/20220102-R0001995.jpg" alt="Hobonichi 2022" class="postimage">
 </figure>
 
 
-	<img src="https://daily.baty.net/img/small/hobonichi.jpg" alt="Hobonichi 2022" class="sideImage">
+	<img src="/img/small/hobonichi.jpg" alt="Hobonichi 2022" class="sideImage">
 
 	<p>I bought my first <a href="https://www.1101.com/store/techo/en/about/">Hobonichi Techo</a> in 2013, and I've used one every year since. One of my favorite things in any new year is copying over events from last year's calendar into the new one. Birthdays, anniversaries, etc. It's a much better feeling than something like waiting for Facebook to tell me when to pay attention to someone.</p>
 <p>Another thing I do every January is plan on going all-in with the Techo. Todos, appointments, notes, lists, everything should go in that lovely book with its wonderful Tomoe River paper. But then I worry about it being too small. With big plans to use analog tools even more this year, will the little Hobonichi be too limiting?</p>
@@ -608,21 +891,61 @@
 
 
 
-    ]]></description>
-<guid>https://daily.baty.net/posts/2022/01/02.html</guid>
-</item>
-<item>
-<title>Saturday, January 1, 2022</title>
-<link>https://daily.baty.netposts/2022/01/01.html</link>
-<pubDate>Sat, 1 Jan 2022 05:42:43 -0500</pubDate>
-<description><![CDATA[
+      </article>
+    </main>
+	<!--  Tinderbox: ^title -->
+<footer>
+	<span>© Jack Baty 2013-2022</span> | 
+	<span>Made with ♥ using <a href="http://www.eastgate.com/Tinderbox/">Tinderbox</a></span>
+</footer>
+  </body>
+</html><!doctype html>
+<html lang="en">
+  <head>
+	<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="preconnect" href="https://fonts.googleapis.com"> 
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> 
+<link href="//fonts.googleapis.com/css?family=Ubuntu:400,500i,700" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://unpkg.com/@picocss/pico@latest/css/pico.min.css">
+<link rel="stylesheet" href="../assets/css/custom.css">
 
+<title>RSS - Jack Baty</title>
+
+<script defer data-domain="daily.baty.net" src="https://plausible.io/js/plausible.js"></script>
+  </head>
+  <body>
+	<div class="hero-image">
+  <div class="hero-text">
+    <h1><a href="/">Jack Baty</a></h1>
+    <h3>Director of Unspecified Services</h3>
+  </div>
+</div>
+<nav>
+<ul>
+	<li><a href="../index.html">Home</a></li>
+	<li><a href="../about.html">About</a></li>
+	<li><a href="../archives.html">Archives</a></li>
+	<li><a href="https://baty.net/">Baty.net</a></li>
+	<li><a class="icon-font" href="../index.xml"><svg class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16">
+  <path d="M819.157333 1024C819.157333 574.592 449.408 204.8 0 204.8V0c561.706667 0 1024 462.293333 1024 1024h-204.842667zM140.416 743.04a140.8 140.8 0 0 1 140.501333 140.586667A140.928 140.928 0 0 1 140.074667 1024C62.72 1024 0 961.109333 0 883.626667s62.933333-140.544 140.416-140.586667zM678.784 1024h-199.04c0-263.210667-216.533333-479.786667-479.744-479.786667V345.173333c372.352 0 678.784 306.517333 678.784 678.826667z"></path>
+</svg></a></li>
+</ul>
+</nav>
+    <main class="container">
+		<article>
+<header>
+     <h2 class="dayHeader">Saturday, January 1, 2022</h2>
+<div class="post-meta">🌫  Mist +34°F</div>
+		</header>
+	
 
 
 <div class="postNoTitle">
 
 
-<span class="permalinkHash"><a href="https://daily.baty.net/posts/2022/01/01/Good-morning-2022.html">#</a></span> <p>Good morning. It's 5:45 am on the first day of 2022. Or, as I like to call it, "New Folders Day".</p> 
+<span class="permalinkHash"><a href="posts/2022/01/01/Good-morning-2022.html">#</a></span> <p>Good morning. It's 5:45 am on the first day of 2022. Or, as I like to call it, "New Folders Day".</p> 
 
 </div>
 
@@ -634,11 +957,12 @@
 <div class="postNoTitle">
 
 <figure>
-		<img src="https://daily.baty.net/img/2022/20220101-RideOutTheClock.png" alt="" class="postimage">
+		<img src="/img/2022/20220101-RideOutTheClock.png" alt="Quote: Riding out the clock" class="postimage">
+
 </figure>
 
 
-<span class="permalinkHash"><a href="https://daily.baty.net/posts/2022/01/01/Quote-Riding-out-the-clo.html">#</a></span> <p>When I think about diving back into the workforce I try to remember that quote.</p> 
+<span class="permalinkHash"><a href="posts/2022/01/01/Quote-Riding-out-the-clo.html">#</a></span> <p>When I think about diving back into the workforce I try to remember that quote.</p> 
 
 </div>
 
@@ -650,7 +974,7 @@
 <div class="postNoTitle">
 
 
-<span class="permalinkHash"><a href="https://daily.baty.net/posts/2022/01/01/NIfty-File-Lists.html">#</a></span> <p><a href="https://www.publicspace.net/NiftyFileLists/index.html">Nifty File Lists</a> looks like it could be handy, especially in a <a href="https://forum.eastgate.com/t/moving-file-names-and-metadata-into-tinderbox/5330">Tinderbox context</a>.</p> 
+<span class="permalinkHash"><a href="posts/2022/01/01/NIfty-File-Lists.html">#</a></span> <p><a href="https://www.publicspace.net/NiftyFileLists/index.html">Nifty File Lists</a> looks like it could be handy, especially in a <a href="https://forum.eastgate.com/t/moving-file-names-and-metadata-into-tinderbox/5330">Tinderbox context</a>.</p> 
 
 </div>
 
@@ -662,28 +986,68 @@
 <div class="postNoTitle">
 
 
-<span class="permalinkHash"><a href="https://daily.baty.net/posts/2022/01/01/Some-site-changes-today.html">#</a></span> <p>I made a few small changes around here this morning: <a href="changelog/Don-t-include-partial-im.html">Don't include partial image paths in templates</a>, <a href="changelog/Added-link-to-Movie-temp.html">Added link to Movie template</a>, and <a href="changelog/Replaced-header-backgrou.html">Replaced header background image with primary theme color</a>.</p> 
+<span class="permalinkHash"><a href="posts/2022/01/01/Some-site-changes-today.html">#</a></span> <p>I made a few small changes around here this morning: <a href="changelog/Don-t-include-partial-im.html">Don't include partial image paths in templates</a>, <a href="changelog/Added-link-to-Movie-temp.html">Added link to Movie template</a>, and <a href="changelog/Replaced-header-backgrou.html">Replaced header background image with primary theme color</a>.</p> 
 
 </div>
 
 
 
 
-    ]]></description>
-<guid>https://daily.baty.net/posts/2022/01/01.html</guid>
-</item>
-<item>
-<title>Friday, December 31, 2021</title>
-<link>https://daily.baty.netposts/2021/12/31.html</link>
-<pubDate>Fri, 31 Dec 2021 04:43:31 -0500</pubDate>
-<description><![CDATA[
+      </article>
+    </main>
+	<!--  Tinderbox: ^title -->
+<footer>
+	<span>© Jack Baty 2013-2022</span> | 
+	<span>Made with ♥ using <a href="http://www.eastgate.com/Tinderbox/">Tinderbox</a></span>
+</footer>
+  </body>
+</html><!doctype html>
+<html lang="en">
+  <head>
+	<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="preconnect" href="https://fonts.googleapis.com"> 
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> 
+<link href="//fonts.googleapis.com/css?family=Ubuntu:400,500i,700" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://unpkg.com/@picocss/pico@latest/css/pico.min.css">
+<link rel="stylesheet" href="../assets/css/custom.css">
 
+<title>RSS - Jack Baty</title>
+
+<script defer data-domain="daily.baty.net" src="https://plausible.io/js/plausible.js"></script>
+  </head>
+  <body>
+	<div class="hero-image">
+  <div class="hero-text">
+    <h1><a href="/">Jack Baty</a></h1>
+    <h3>Director of Unspecified Services</h3>
+  </div>
+</div>
+<nav>
+<ul>
+	<li><a href="../index.html">Home</a></li>
+	<li><a href="../about.html">About</a></li>
+	<li><a href="../archives.html">Archives</a></li>
+	<li><a href="https://baty.net/">Baty.net</a></li>
+	<li><a class="icon-font" href="../index.xml"><svg class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16">
+  <path d="M819.157333 1024C819.157333 574.592 449.408 204.8 0 204.8V0c561.706667 0 1024 462.293333 1024 1024h-204.842667zM140.416 743.04a140.8 140.8 0 0 1 140.501333 140.586667A140.928 140.928 0 0 1 140.074667 1024C62.72 1024 0 961.109333 0 883.626667s62.933333-140.544 140.416-140.586667zM678.784 1024h-199.04c0-263.210667-216.533333-479.786667-479.744-479.786667V345.173333c372.352 0 678.784 306.517333 678.784 678.826667z"></path>
+</svg></a></li>
+</ul>
+</nav>
+    <main class="container">
+		<article>
+<header>
+     <h2 class="dayHeader">Friday, December 31, 2021</h2>
+<div class="post-meta">🌫  Mist +36°F</div>
+		</header>
+	
 
 
 <div class="postNoTitle">
 
 
-<span class="permalinkHash"><a href="https://daily.baty.net/posts/2021/12/31/And-that-was-2021.html">#</a></span> <p>2021 was a year of personal exploration that didn't really end up going anywhere. Maybe I can take what I learned this past year and apply it to something useful in 2022.</p> 
+<span class="permalinkHash"><a href="posts/2021/12/31/And-that-was-2021.html">#</a></span> <p>2021 was a year of personal exploration that didn't really end up going anywhere. Maybe I can take what I learned this past year and apply it to something useful in 2022.</p> 
 
 </div>
 
@@ -693,16 +1057,16 @@
 
 
 
-	<h3><a href="https://daily.baty.net/posts/2021/12/31/My-Leica-Camera-Timeline.html">My Leica Camera Timeline</a></h3>
+	<h3><a href="posts/2021/12/31/My-Leica-Camera-Timeline.html">My Leica Camera Timeline</a></h3>
 
 <section>
 
 <figure>
-		<img src="https://daily.baty.net/img/2021/20211231-LeicaTimeline.png" alt="My Leica Camera Timeline (<a href="https://jackbaty.smugmug.com/Blog-Photos/i-3FPvD8W/A">full size</a>)" class="postimage">
+		<img src="/img/2021/20211231-LeicaTimeline.png" alt="My Leica Camera Timeline" class="postimage">
 </figure>
 
 
-	<img src="https://daily.baty.net/img/small/leica.png" alt="My Leica Camera Timeline" class="sideImage">
+	<img src="/img/small/leica.png" alt="My Leica Camera Timeline" class="sideImage">
 
 	<p>I bought my first Leica, an M6 TTL in 2004. I've bought and sold a number of them since then. I currently own an M3, M6, MP, Q2 Monochrom, and SL2-S. In the above timeline, film cameras are green and digital cameras are yellow. Can you spot which type I tend to keep longer? The dates should be mostly accurate. There are some conflicting notes on my old blog, but they occur in 2012 which is the year I really messed things up during a platform change, so I've used my Lightroom catalog and Flickr data when in doubt. I also have some notes suggesting that I've owned two Leica M7s but I don't remember that at all.</p>
 <figure><img src="/img/2022/florida-13.jpg" alt="Jess and Jack in Florida"><figcaption>First known photo of me with a Leica (Florida, 2004)</figcaption></figure>
@@ -717,12 +1081,12 @@
 
 
 
-	<h3><a href="https://daily.baty.net/posts/2021/12/31/Seeing-my-notes.html">Seeing my notes</a></h3>
+	<h3><a href="posts/2021/12/31/Seeing-my-notes.html">Seeing my notes</a></h3>
 
 <section>
 
 <figure>
-		<img src="https://daily.baty.net/img/2021/map2009.png" alt="Tinderbox project map from 2009" class="postimage">
+		<img src="/img/2021/map2009.png" alt="Seeing my notes" class="postimage">
 </figure>
 
 
@@ -741,42 +1105,82 @@
 <div class="postNoTitle">
 
 
-<span class="permalinkHash"><a href="https://daily.baty.net/posts/2021/12/31/Automattic-vs-Ghost---it.html">#</a></span> <p>I prefer creating content in Ghost to WordPress. It's faster, simpler, and generally cleaner. However, I don't love the people behind Ghost. Their goals don't align with mine. Most of the time, who cares? But sometimes I <i>do</i> care. Then I saw <a href="https://initialcharge.net/2021/12/mullenweg-protocol/">Mike Rockwell's post</a> with quotes from Matt Mullenweg and it reminded me that I much prefer Automattic's <i>attitude</i> which is one reason I've reverted <a href="http://copingmechanism.com">copingmechanism.com</a> to WordPress.</p> 
+<span class="permalinkHash"><a href="posts/2021/12/31/Automattic-vs-Ghost---it.html">#</a></span> <p>I prefer creating content in Ghost to WordPress. It's faster, simpler, and generally cleaner. However, I don't love the people behind Ghost. Their goals don't align with mine. Most of the time, who cares? But sometimes I <i>do</i> care. Then I saw <a href="https://initialcharge.net/2021/12/mullenweg-protocol/">Mike Rockwell's post</a> with quotes from Matt Mullenweg and it reminded me that I much prefer Automattic's <i>attitude</i> which is one reason I've reverted <a href="http://copingmechanism.com">copingmechanism.com</a> to WordPress.</p> 
 
 </div>
 
 
 
 
-    ]]></description>
-<guid>https://daily.baty.net/posts/2021/12/31.html</guid>
-</item>
-<item>
-<title>Thursday, December 30, 2021</title>
-<link>https://daily.baty.netposts/2021/12/30.html</link>
-<pubDate>Thu, 30 Dec 2021 04:24:55 -0500</pubDate>
-<description><![CDATA[
+      </article>
+    </main>
+	<!--  Tinderbox: ^title -->
+<footer>
+	<span>© Jack Baty 2013-2022</span> | 
+	<span>Made with ♥ using <a href="http://www.eastgate.com/Tinderbox/">Tinderbox</a></span>
+</footer>
+  </body>
+</html><!doctype html>
+<html lang="en">
+  <head>
+	<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="preconnect" href="https://fonts.googleapis.com"> 
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> 
+<link href="//fonts.googleapis.com/css?family=Ubuntu:400,500i,700" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://unpkg.com/@picocss/pico@latest/css/pico.min.css">
+<link rel="stylesheet" href="../assets/css/custom.css">
+
+<title>RSS - Jack Baty</title>
+
+<script defer data-domain="daily.baty.net" src="https://plausible.io/js/plausible.js"></script>
+  </head>
+  <body>
+	<div class="hero-image">
+  <div class="hero-text">
+    <h1><a href="/">Jack Baty</a></h1>
+    <h3>Director of Unspecified Services</h3>
+  </div>
+</div>
+<nav>
+<ul>
+	<li><a href="../index.html">Home</a></li>
+	<li><a href="../about.html">About</a></li>
+	<li><a href="../archives.html">Archives</a></li>
+	<li><a href="https://baty.net/">Baty.net</a></li>
+	<li><a class="icon-font" href="../index.xml"><svg class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16">
+  <path d="M819.157333 1024C819.157333 574.592 449.408 204.8 0 204.8V0c561.706667 0 1024 462.293333 1024 1024h-204.842667zM140.416 743.04a140.8 140.8 0 0 1 140.501333 140.586667A140.928 140.928 0 0 1 140.074667 1024C62.72 1024 0 961.109333 0 883.626667s62.933333-140.544 140.416-140.586667zM678.784 1024h-199.04c0-263.210667-216.533333-479.786667-479.744-479.786667V345.173333c372.352 0 678.784 306.517333 678.784 678.826667z"></path>
+</svg></a></li>
+</ul>
+</nav>
+    <main class="container">
+		<article>
+<header>
+     <h2 class="dayHeader">Thursday, December 30, 2021</h2>
+<div class="post-meta">☁️ Overcast +25°F</div>
+		</header>
+	
+
+
+<div class="postNoTitle">
+
+
+<span class="permalinkHash"><a href="posts/2021/12/30/Good-morning.html">#</a></span> <p>Good morning. It's 4:30 am. What a lovely walk through the fresh snow this morning.</p> 
+
+</div>
+
+
+
 
 
 
 <div class="postNoTitle">
 
 
-<span class="permalinkHash"><a href="https://daily.baty.net/posts/2021/12/30/Good-morning.html">#</a></span> <p>Good morning. It's 4:30 am. What a lovely walk through the fresh snow this morning.</p> 
+	<img src="/img/small/olympia-tracing.jpg" alt="Yep, still have 2 blogs" class="sideImage">
 
-</div>
-
-
-
-
-
-
-<div class="postNoTitle">
-
-
-	<img src="https://daily.baty.net/img/small//img/small/olympia-tracing.jpg" alt="Yep, still have 2 blogs" class="sideImage">
-
-<span class="permalinkHash"><a href="https://daily.baty.net/posts/2021/12/30/Yep-still-have-2-blogs.html">#</a></span> <p>I hate the fact that I still have two (active) blogs. Moving <a href="http://copingmechanism.com">copingmechanism.com</a> to a more blog-friendly template made things confusing. And now this Tinderbox blog is getting so nice that the problem is even worse. They're now both very similar. Too similar.  I think I have to put <a href="http://copingmechanism.com">copingmechanism.com</a> back as a photography-focused blog with an overwrought template, just to differentiate it from this one. I'm also considering moving this blog to baty.blog and eliminating the Ghost instance running there. And I kind of want to bring back the <a href="http://rudimentarylathe.org">rudimentarylathe.org</a> domain. The elephant in the room, of course, is that you just know I'll change things again in a week or a month or a year. Then what? Broken links, RSS noise, confusion, etc. Anyone reading care to chime in?</p> 
+<span class="permalinkHash"><a href="posts/2021/12/30/Yep-still-have-2-blogs.html">#</a></span> <p>I hate the fact that I still have two (active) blogs. Moving <a href="http://copingmechanism.com">copingmechanism.com</a> to a more blog-friendly template made things confusing. And now this Tinderbox blog is getting so nice that the problem is even worse. They're now both very similar. Too similar.  I think I have to put <a href="http://copingmechanism.com">copingmechanism.com</a> back as a photography-focused blog with an overwrought template, just to differentiate it from this one. I'm also considering moving this blog to baty.blog and eliminating the Ghost instance running there. And I kind of want to bring back the <a href="http://rudimentarylathe.org">rudimentarylathe.org</a> domain. The elephant in the room, of course, is that you just know I'll change things again in a week or a month or a year. Then what? Broken links, RSS noise, confusion, etc. Anyone reading care to chime in?</p> 
 
 </div>
 
@@ -786,12 +1190,12 @@
 
 
 
-	<h3><a href="https://daily.baty.net/posts/2021/12/30/Weight-logging-with-Tind.html">Weight logging with Tinderbox</a></h3>
+	<h3><a href="posts/2021/12/30/Weight-logging-with-Tind.html">Weight logging with Tinderbox</a></h3>
 
 <section>
 
 
-	<img src="https://daily.baty.net/img/small/tinderboxicon.png" alt="Weight logging with Tinderbox" class="sideImage">
+	<img src="/img/small/tinderboxicon.png" alt="Weight logging with Tinderbox" class="sideImage">
 
 	<p><i>Note: This was originally posted over at <a href="http://copingmechanism.com">copingmechanism.com</a> but I thought it belonged here instead</i>.</p>
 <p>I kept a “daybook” using <a href="http://www.eastgate.com/Tinderbox/">Tinderbox</a> for years. I drifted away from Tinderbox for a while after becoming infatuated with Linux or iOS or other “cross-platform” systems. Right now, I’m back with a vengeance.</p>
@@ -828,19 +1232,24 @@ $RuleDisabled=true};</pre></code>
 <div class="postNoTitle">
 
 
-	<img src="https://daily.baty.net/img/small//img/small/leica.png" alt="Shot 2 rolls of film" class="sideImage">
+	<img src="/img/small/leica.png" alt="Shot 2 rolls of film" class="sideImage">
 
-<span class="permalinkHash"><a href="https://daily.baty.net/posts/2021/12/30/Shot-2-rolls-of-film.html">#</a></span> <p>I'm reviewing my lens situation. The Leica 35mm Summilux-M ASPH is a pricey lens, so I'm rethinking it. I bought the Summilux for the M10-R, which I've now sold. I figured this was fine, since I could still use it on both the film Ms and the SL2-S. On the other hand, I've really been missing that APO Summicron-SL 35 . I've been considering trading the Summilux M for the Summicron SL. That would leave a 35mm gap in my M kit. Since it's film, I can get away with a Zeiss or Voigtlander, right? So I shot a roll with the 50mm Summilux-M and then with the 35 to see how they feel on film. Well, they're both terrific. So now I don't know what to do. For now, I'm just going to shoot more and ignore the entire problem.</p> 
+<span class="permalinkHash"><a href="posts/2021/12/30/Shot-2-rolls-of-film.html">#</a></span> <p>I'm reviewing my lens situation. The Leica 35mm Summilux-M ASPH is a pricey lens, so I'm rethinking it. I bought the Summilux for the M10-R, which I've now sold. I figured this was fine, since I could still use it on both the film Ms and the SL2-S. On the other hand, I've really been missing that APO Summicron-SL 35 . I've been considering trading the Summilux M for the Summicron SL. That would leave a 35mm gap in my M kit. Since it's film, I can get away with a Zeiss or Voigtlander, right? So I shot a roll with the 50mm Summilux-M and then with the 35 to see how they feel on film. Well, they're both terrific. So now I don't know what to do. For now, I'm just going to shoot more and ignore the entire problem.</p> 
 
 </div>
 
 
 
 
-    ]]></description>
-<guid>https://daily.baty.net/posts/2021/12/30.html</guid>
-</item>
-
+      </article>
+    </main>
+	<!--  Tinderbox: ^title -->
+<footer>
+	<span>© Jack Baty 2013-2022</span> | 
+	<span>Made with ♥ using <a href="http://www.eastgate.com/Tinderbox/">Tinderbox</a></span>
+</footer>
+  </body>
+</html>
 </channel>
 
 </rss>
