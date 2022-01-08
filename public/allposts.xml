@@ -6,9 +6,70 @@
 <link>https://daily.baty.net</link>
 <description>Daily notes by Jack Baty</description>
 	<item>
+<title>New RSS feed for all posts</title>
+<link>https://daily.baty.netposts/2022/01/08/New-RSS-feed-for-all-pos.html</link>
+<pubDate>Sat, 8 Jan 2022 16:17:41 -0500</pubDate>
+<description><![CDATA[
+
+
+
+
+
+
+	<h3><a href="https://daily.baty.net/posts/2022/01/08/New-RSS-feed-for-all-pos.html">New RSS feed for all posts</a></h3>
+
+<section>
+
+
+	<p>I built this site's RSS feed so that it only includes the big daily posts. Basically this means one post per day, but it's appended to throughout the day. This feels right for most people. It doesn't work if I want to crosspost anywhere, though, since the first published version is usually only me saying "Good morning".</p>
+<p>I've added a second rss feed, allposts.xml, that includes each individual post throughout the day. I'll use this feed for crossposting. To keep things from being way too noisy, I've added an attribute, "Crosspost" which defaults to false. Only those posts with $Crosspost==true are included in the feed. Clear as mudd?</p>
+	
+</section>
+
+
+
+
+
+
+
+    ]]></description>
+<guid>https://daily.baty.net/posts/2022/01/08/New-RSS-feed-for-all-pos.html</guid>
+</item>
+<item>
+<title>Moxie's first impressions of Web3</title>
+<link>https://daily.baty.netposts/2022/01/08/Moxie-s-first-impression.html</link>
+<pubDate>Sat, 8 Jan 2022 12:10:14 -0500</pubDate>
+<description><![CDATA[
+
+
+
+
+
+<div class="postNoTitle">
+
+
+<span class="permalinkHash"><a href="https://daily.baty.net/posts/2022/01/08/Moxie-s-first-impression.html">#</a></span> <p>What a great post by Moxie Marlinspike. I could quote 1,000 words but thought this little bit was funny:</p>
+<blockquote class="quoteback" darkmode="" data-title="My first impressions of web3" data-author="@moxie" cite="https://moxie.org/2022/01/07/web3-first-impressions.html">
+<p>...visualizing this financial structure would resemble something similar to a pyramid shape</p>
+<footer>@moxie<cite> <a href="https://moxie.org/2022/01/07/web3-first-impressions.html">https://moxie.org/2022/01/07/web3-first-impressions.html</a></cite></footer>
+</blockquote><script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
+<p>I'll happily live out my life in web1, thank you. You kids have fun, though!</p> 
+
+</div>
+
+
+
+
+
+
+
+    ]]></description>
+<guid>https://daily.baty.net/posts/2022/01/08/Moxie-s-first-impression.html</guid>
+</item>
+<item>
 <title>Shooting film when I'm in the mood</title>
 <link>https://daily.baty.netposts/2022/01/08/Shooting-film-when-I-m-i.html</link>
-<pubDate>never</pubDate>
+<pubDate>Sat, 8 Jan 2022 06:16:07 -0500</pubDate>
 <description><![CDATA[
 
 
@@ -40,7 +101,7 @@
 <item>
 <title>Photo processing workflow update, Jan 2022</title>
 <link>https://daily.baty.netposts/2022/01/07/Photo-processing-workflo.html</link>
-<pubDate>never</pubDate>
+<pubDate>Fri, 7 Jan 2022 05:26:13 -0500</pubDate>
 <description><![CDATA[
 
 
@@ -84,37 +145,6 @@
 
     ]]></description>
 <guid>https://daily.baty.net/posts/2022/01/07/Photo-processing-workflo.html</guid>
-</item>
-<item>
-<title>Moxie's first impressions of Web3</title>
-<link>https://daily.baty.netposts/2022/01/08/Moxie-s-first-impression.html</link>
-<pubDate>Sat, 8 Jan 2022 12:10:14 -0500</pubDate>
-<description><![CDATA[
-
-
-
-
-
-<div class="postNoTitle">
-
-
-<span class="permalinkHash"><a href="https://daily.baty.net/posts/2022/01/08/Moxie-s-first-impression.html">#</a></span> <p>What a great post by Moxie Marlinspike. I could quote 1,000 words but thought this little bit was funny:</p>
-<blockquote class="quoteback" darkmode="" data-title="My first impressions of web3" data-author="@moxie" cite="https://moxie.org/2022/01/07/web3-first-impressions.html">
-<p>...visualizing this financial structure would resemble something similar to a pyramid shape</p>
-<footer>@moxie<cite> <a href="https://moxie.org/2022/01/07/web3-first-impressions.html">https://moxie.org/2022/01/07/web3-first-impressions.html</a></cite></footer>
-</blockquote><script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
-<p>I'll happily live out my life in web1, thank you. You kids have fun, though!</p> 
-
-</div>
-
-
-
-
-
-
-
-    ]]></description>
-<guid>https://daily.baty.net/posts/2022/01/08/Moxie-s-first-impression.html</guid>
 </item>
 
 </channel>

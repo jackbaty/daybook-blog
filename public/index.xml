@@ -81,7 +81,7 @@
 <div class="postNoTitle">
 
 
-<span class="permalinkHash"><a href="posts/2022/01/08/Leica-M11-speculation.html">#</a></span> <p>Given that the <a href="https://hmeye.files.wordpress.com/2022/01/open-leica_m11_technical_data_en.pdf">spec sheet of the new Leica M11</a> has been leaked a week early, I thought I'd check out the Leica forums. I recently sold my M10-R, so of course I'm interested in what's next for Leica. My god, how I hate speculation. The discussions are boring and useless and I'm going to stop reading them. The good news is that, based on the specs, I see no pressing need for owning an M11. </p> 
+<span class="permalinkHash"><a href="posts/2022/01/08/Leica-M11-Specs.html">#</a></span> <p>Given that the <a href="https://hmeye.files.wordpress.com/2022/01/open-leica_m11_technical_data_en.pdf">spec sheet of the new Leica M11</a> has been leaked a week early, I thought I'd check out the Leica forums. I recently sold my M10-R, so of course I'm interested in what's next for Leica. My god, how I hate speculation. The discussions are boring and useless and I'm going to stop reading them. The good news is that, based on the specs, I see no pressing need for owning an M11. </p> 
 
 </div>
 
@@ -113,6 +113,22 @@
 <span class="permalinkHash"><a href="posts/2022/01/08/I-fixed-the-URLs-in-the-.html">#</a></span> <p>The URLs in this site's RSS feed were broken, sorry. Fixed. Building links in Tinderbox is a fancy-but-confusing-to-me process.</p> 
 
 </div>
+
+
+
+
+
+
+
+	<h3><a href="posts/2022/01/08/New-RSS-feed-for-all-pos.html">New RSS feed for all posts</a></h3>
+
+<section>
+
+
+	<p>I built this site's RSS feed so that it only includes the big daily posts. Basically this means one post per day, but it's appended to throughout the day. This feels right for most people. It doesn't work if I want to crosspost anywhere, though, since the first published version is usually only me saying "Good morning".</p>
+<p>I've added a second rss feed, allposts.xml, that includes each individual post throughout the day. I'll use this feed for crossposting. To keep things from being way too noisy, I've added an attribute, "Crosspost" which defaults to false. Only those posts with $Crosspost==true are included in the feed. Clear as mudd?</p>
+	
+</section>
 
 
 
