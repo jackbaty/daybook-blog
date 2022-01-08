@@ -3,41 +3,11 @@
 
 <channel>
 <title>Jack Baty</title>
-<link>https://daily.baty.net</link>
+<link>https://baty.blog</link>
 <description>Daily notes by Jack Baty</description>
 	<item>
-<title>New RSS feed for all posts</title>
-<link>https://daily.baty.netposts/2022/01/08/New-RSS-feed-for-all-pos.html</link>
-<pubDate>Sat, 8 Jan 2022 16:17:41 -0500</pubDate>
-<description><![CDATA[
-
-
-
-
-
-
-	<h3><a href="https://daily.baty.net/posts/2022/01/08/New-RSS-feed-for-all-pos.html">New RSS feed for all posts</a></h3>
-
-<section>
-
-
-	<p>I built this site's RSS feed so that it only includes the big daily posts. Basically this means one post per day, but it's appended to throughout the day. This feels right for most people. It doesn't work if I want to crosspost anywhere, though, since the first published version is usually only me saying "Good morning".</p>
-<p>I've added a second rss feed, allposts.xml, that includes each individual post throughout the day. I'll use this feed for crossposting. To keep things from being way too noisy, I've added an attribute, "Crosspost" which defaults to false. Only those posts with $Crosspost==true are included in the feed. Clear as mudd?</p>
-	
-</section>
-
-
-
-
-
-
-
-    ]]></description>
-<guid>https://daily.baty.net/posts/2022/01/08/New-RSS-feed-for-all-pos.html</guid>
-</item>
-<item>
-<title>Moxie's first impressions of Web3</title>
-<link>https://daily.baty.netposts/2022/01/08/Moxie-s-first-impression.html</link>
+<title></title>
+<link>https://baty.blogposts/2022/01/08/Moxie-s-first-impression.html</link>
 <pubDate>Sat, 8 Jan 2022 12:10:14 -0500</pubDate>
 <description><![CDATA[
 
@@ -48,7 +18,7 @@
 <div class="postNoTitle">
 
 
-<span class="permalinkHash"><a href="https://daily.baty.net/posts/2022/01/08/Moxie-s-first-impression.html">#</a></span> <p>What a great post by Moxie Marlinspike. I could quote 1,000 words but thought this little bit was funny:</p>
+<span class="permalinkHash"><a href="https://baty.blog/posts/2022/01/08/Moxie-s-first-impression.html">#</a></span> <p>What a great post by Moxie Marlinspike. I could quote 1,000 words but thought this little bit was funny:</p>
 <blockquote class="quoteback" darkmode="" data-title="My first impressions of web3" data-author="@moxie" cite="https://moxie.org/2022/01/07/web3-first-impressions.html">
 <p>...visualizing this financial structure would resemble something similar to a pyramid shape</p>
 <footer>@moxie<cite> <a href="https://moxie.org/2022/01/07/web3-first-impressions.html">https://moxie.org/2022/01/07/web3-first-impressions.html</a></cite></footer>
@@ -68,7 +38,7 @@
 </item>
 <item>
 <title>Shooting film when I'm in the mood</title>
-<link>https://daily.baty.netposts/2022/01/08/Shooting-film-when-I-m-i.html</link>
+<link>https://baty.blogposts/2022/01/08/Shooting-film-when-I-m-i.html</link>
 <pubDate>Sat, 8 Jan 2022 06:16:07 -0500</pubDate>
 <description><![CDATA[
 
@@ -77,7 +47,7 @@
 
 
 
-	<h3><a href="https://daily.baty.net/posts/2022/01/08/Shooting-film-when-I-m-i.html">Shooting film when I'm in the mood</a></h3>
+	<h3><a href="https://baty.blog/posts/2022/01/08/Shooting-film-when-I-m-i.html">Shooting film when I'm in the mood</a></h3>
 
 <section>
 
@@ -100,7 +70,7 @@
 </item>
 <item>
 <title>Photo processing workflow update, Jan 2022</title>
-<link>https://daily.baty.netposts/2022/01/07/Photo-processing-workflo.html</link>
+<link>https://baty.blogposts/2022/01/07/Photo-processing-workflo.html</link>
 <pubDate>Fri, 7 Jan 2022 05:26:13 -0500</pubDate>
 <description><![CDATA[
 
@@ -109,12 +79,12 @@
 
 
 
-	<h3><a href="https://daily.baty.net/posts/2022/01/07/Photo-processing-workflo.html">Photo processing workflow update, Jan 2022</a></h3>
+	<h3><a href="https://baty.blog/posts/2022/01/07/Photo-processing-workflo.html">Photo processing workflow update, Jan 2022</a></h3>
 
 <section>
 
 
-	<img src="https://daily.baty.net/img/small/photomechanic.png" alt="Photo processing workflow update, Jan 2022" class="sideImage">
+	<img src="https://baty.blog/img/small/photomechanic.png" alt="Photo processing workflow update, Jan 2022" class="sideImage">
 
 	<p>TL;DR: I'm back to a combination of <a href="https://www.captureone.com/en">Capture One Pro</a> and <a href="https://home.camerabits.com/tour-photo-mechanic/">Photo Mechanic Plus</a>, with a dash of Apple Photos.</p>
 <p>I continue to waffle on which app to use for which portion of my photography workflow. Most recently, I'd considered <a href="posts/2022/01/03/Apple-Photos-vs-Lightroo.html">Apple Photos vs Lightroom Classic as photo library</a>. This was fueled by my desire to keep my library and my editing tool separate. LrC is probably the best all-around solution, and is the closest thing we have to an "industry standard". But, I prefer Capture One Pro for RAW processing. </p>
