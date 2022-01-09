@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://daily.baty.net/sitemap.xml

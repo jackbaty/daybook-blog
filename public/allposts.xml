@@ -6,6 +6,30 @@
 <link>https://baty.blog</link>
 <description>Jack Baty's Weblog</description>
 	<item>
+<title>Should I crosspost to Micro.blog?</title>
+<link>https://baty.blog/posts/2022/01/09/Should-I-crosspost-to-Mi.html</link>
+<pubDate>Sun, 9 Jan 2022 06:49:00 -0500</pubDate>
+<guid>https://baty.blog/posts/2022/01/09/Should-I-crosspost-to-Mi.html</guid>
+<description><![CDATA[
+
+
+
+	<h3><a href="https://baty.blog/posts/2022/01/09/Should-I-crosspost-to-Mi.html">Should I crosspost to Micro.blog?</a></h3>
+
+
+
+<p>I find myself missing <a href="https://micro.blog">Micro.blog</a>. The community there is unmatched by any that I've found elsewhere. I sometimes miss the occasional interaction around my posts. </p>
+<p>Living alone on my blog has been a deliberate choice. I wanted to make blogging less performative. After all, I write for myself, first, and if others get something from it, then yay. But that's a side effect.</p>
+<p>Except it gets lonely. Not many people actually visit this site. If I'm being honest, I enjoy sharing things. It's nice to be heard, at least a little.</p>
+<p>So, yesterday I built a new RSS feed here that I think will work for Micro.blog. Now I just need to decide if and when to turn it on.</p>
+
+
+
+
+    ]]></description>
+
+</item>
+<item>
 <title>Programming note: We're now officially at baty.blog</title>
 <link>https://baty.blog/posts/2022/01/09/Programming-note-We-re-n.html</link>
 <pubDate>Sun, 9 Jan 2022 05:02:00 -0500</pubDate>
@@ -20,7 +44,7 @@
 
 	<img src="https://baty.blog/img/small/meta-splat.png" alt="Programming note: We're now officially at baty.blog" class="sideImage">
 
-<p>I'd never intended for the new daily notes site to live at <a href="http://daily.baty.net">daily.baty.net</a>. That was for testing. It stuck around longer than I would have preferred, so I've finally made the move and replaced the Ghost blog with this Tinderbox-managed site at https://baty.blog.</p>
+<p>I'd never intended for the new daily notes site to live at <a href="http://daily.baty.net">daily.baty.net</a>. That was for testing. It stuck around longer than I would have preferred, but I've finally made the move and replaced the Ghost blog with this Tinderbox-managed site at https://baty.blog.</p>
 <p>It's being pushed to both the old and new domains for the time being. At some point over the next few days I'll pull the plug on the old domain.</p>
 
 

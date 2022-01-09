@@ -135,3 +135,17 @@ article img {
 img.icon {
 	margin: 0px;
 }
+
+.quote {
+  margin-bottom: var(--block-spacing-vertical);
+  background: var(--blockquote-border-color);
+  padding: 1em;
+  border-radius: 0.5em;
+}
+.quote figcaption {
+	margin: 0.5em;
+	text-align: right;
+}
+.quote blockquote {
+	margin: 1em;
+}
