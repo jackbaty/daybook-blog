@@ -137,7 +137,7 @@ img.icon {
 }
 
 .quote {
-  margin-bottom: var(--block-spacing-vertical);
+  margin-bottom: 1em;
   background: var(--blockquote-border-color);
   padding: 1em;
   border-radius: 0.5em;
