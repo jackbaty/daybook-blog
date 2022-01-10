@@ -44,6 +44,74 @@
     <main class="container">
 		<article>
 <header>
+     <h2 class="dayHeader">Monday, January 10, 2022</h2>
+<div class="post-meta">☁️ Overcast +15°F</div>
+		</header>
+	
+
+
+<div class="postNoTitle">
+
+<figure>
+		<img src="/img/2022/20220105-Q1000103.jpg" alt="Good morning" class="postimage">
+
+</figure>
+
+
+<span class="permalinkHash"><a href="posts/2022/01/10/Good-morning.html">#</a></span> <p>Good morning. It's 4:30 am and my ears are numb from our walk this morning. This post should get pushed to Micro.blog. Let's see!</p> 
+
+</div>
+
+
+
+
+      </article>
+    </main>
+	<!--  Tinderbox: ^title -->
+<footer>
+	<span>© Jack Baty 2013-2022</span> | 
+	<span>Made with ♥ using <a href="http://www.eastgate.com/Tinderbox/">Tinderbox</a></span>
+</footer>
+  </body>
+</html><!doctype html>
+<html lang="en">
+  <head>
+	<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="preconnect" href="https://fonts.googleapis.com"> 
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> 
+<link href="//fonts.googleapis.com/css?family=Ubuntu:400,500i,700" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://unpkg.com/@picocss/pico@latest/css/pico.min.css">
+<link rel="stylesheet" href="../assets/css/custom.css">
+
+<title>RSS - Jack Baty</title>
+
+<script defer data-domain="baty.blog" src="https://plausible.io/js/plausible.js"></script>
+
+
+  </head>
+  <body>
+	<div class="hero-image">
+  <div class="hero-text">
+    <h1><a href="/">Jack Baty</a></h1>
+    <h3>Director of Unspecified Services</h3>
+  </div>
+</div>
+<nav>
+<ul>
+	<li><a href="../index.html">Home</a></li>
+	<li><a href="../about.html">About</a></li>
+	<li><a href="../archives.html">Archives</a></li>
+	<li><a href="https://baty.net/">Baty.net</a></li>
+	<li><a class="icon-font" href="../index.xml"><svg class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16">
+  <path d="M819.157333 1024C819.157333 574.592 449.408 204.8 0 204.8V0c561.706667 0 1024 462.293333 1024 1024h-204.842667zM140.416 743.04a140.8 140.8 0 0 1 140.501333 140.586667A140.928 140.928 0 0 1 140.074667 1024C62.72 1024 0 961.109333 0 883.626667s62.933333-140.544 140.416-140.586667zM678.784 1024h-199.04c0-263.210667-216.533333-479.786667-479.744-479.786667V345.173333c372.352 0 678.784 306.517333 678.784 678.826667z"></path>
+</svg></a></li>
+</ul>
+</nav>
+    <main class="container">
+		<article>
+<header>
      <h2 class="dayHeader">Sunday, January 9, 2022</h2>
 <div class="post-meta">🌨  Light snow, mist +34°F</div>
 		</header>
@@ -1147,127 +1215,6 @@
 
 
 <span class="permalinkHash"><a href="posts/2022/01/01/Some-site-changes-today.html">#</a></span> <p>I made a few small changes around here this morning: <a href="changelog/Don-t-include-partial-im.html">Don't include partial image paths in templates</a>, <a href="changelog/Added-link-to-Movie-temp.html">Added link to Movie template</a>, and <a href="changelog/Replaced-header-backgrou.html">Replaced header background image with primary theme color</a>.</p> 
-
-</div>
-
-
-
-
-      </article>
-    </main>
-	<!--  Tinderbox: ^title -->
-<footer>
-	<span>© Jack Baty 2013-2022</span> | 
-	<span>Made with ♥ using <a href="http://www.eastgate.com/Tinderbox/">Tinderbox</a></span>
-</footer>
-  </body>
-</html><!doctype html>
-<html lang="en">
-  <head>
-	<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="preconnect" href="https://fonts.googleapis.com"> 
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> 
-<link href="//fonts.googleapis.com/css?family=Ubuntu:400,500i,700" rel="stylesheet">
-<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@600&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="https://unpkg.com/@picocss/pico@latest/css/pico.min.css">
-<link rel="stylesheet" href="../assets/css/custom.css">
-
-<title>RSS - Jack Baty</title>
-
-<script defer data-domain="baty.blog" src="https://plausible.io/js/plausible.js"></script>
-
-
-  </head>
-  <body>
-	<div class="hero-image">
-  <div class="hero-text">
-    <h1><a href="/">Jack Baty</a></h1>
-    <h3>Director of Unspecified Services</h3>
-  </div>
-</div>
-<nav>
-<ul>
-	<li><a href="../index.html">Home</a></li>
-	<li><a href="../about.html">About</a></li>
-	<li><a href="../archives.html">Archives</a></li>
-	<li><a href="https://baty.net/">Baty.net</a></li>
-	<li><a class="icon-font" href="../index.xml"><svg class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16">
-  <path d="M819.157333 1024C819.157333 574.592 449.408 204.8 0 204.8V0c561.706667 0 1024 462.293333 1024 1024h-204.842667zM140.416 743.04a140.8 140.8 0 0 1 140.501333 140.586667A140.928 140.928 0 0 1 140.074667 1024C62.72 1024 0 961.109333 0 883.626667s62.933333-140.544 140.416-140.586667zM678.784 1024h-199.04c0-263.210667-216.533333-479.786667-479.744-479.786667V345.173333c372.352 0 678.784 306.517333 678.784 678.826667z"></path>
-</svg></a></li>
-</ul>
-</nav>
-    <main class="container">
-		<article>
-<header>
-     <h2 class="dayHeader">Friday, December 31, 2021</h2>
-<div class="post-meta">🌫  Mist +36°F</div>
-		</header>
-	
-
-
-<div class="postNoTitle">
-
-
-<span class="permalinkHash"><a href="posts/2021/12/31/And-that-was-2021.html">#</a></span> <p>2021 was a year of personal exploration that didn't really end up going anywhere. Maybe I can take what I learned this past year and apply it to something useful in 2022.</p> 
-
-</div>
-
-
-
-
-
-
-
-	<h3><a href="posts/2021/12/31/My-Leica-Camera-Timeline.html">My Leica Camera Timeline</a></h3>
-
-<section>
-
-<figure>
-		<img src="/img/2021/20211231-LeicaTimeline.png" alt="My Leica Camera Timeline" class="postimage">
-</figure>
-
-
-	<img src="/img/small/leica.png" alt="My Leica Camera Timeline" class="sideImage">
-
-	<p>I bought my first Leica, an M6 TTL in 2004. I've bought and sold a number of them since then. I currently own an M3, M6, MP, Q2 Monochrom, and SL2-S. In the above timeline, film cameras are green and digital cameras are yellow. Can you spot which type I tend to keep longer? The dates should be mostly accurate. There are some conflicting notes on my old blog, but they occur in 2012 which is the year I really messed things up during a platform change, so I've used my Lightroom catalog and Flickr data when in doubt. I also have some notes suggesting that I've owned two Leica M7s but I don't remember that at all.</p>
-<figure><img src="/img/2022/florida-13.jpg" alt="Jess and Jack in Florida"><figcaption>First known photo of me with a Leica (Florida, 2004)</figcaption></figure>
-
-<p>The future for me probably holds a beat-up original M10 at some point after the M11 is released. Prices should get more reasonable then. I'll probably end up selling the M6 to fund it or something like it. Or maybe I'll sell the MP one day, although the thought makes me shudder. I've had friends say to me, "Never sell a Leica. You always regret selling a Leica." I should probably heed their advice.</p>
-	
-</section>
-
-
-
-
-
-
-
-	<h3><a href="posts/2021/12/31/Seeing-my-notes.html">Seeing my notes</a></h3>
-
-<section>
-
-<figure>
-		<img src="/img/2021/map2009.png" alt="Seeing my notes" class="postimage">
-</figure>
-
-
-	<p>While looking up information for creating <a href="posts/2021/12/31/My-Leica-Camera-Timeline.html">My Leica Camera Timeline</a>, I ended up in a bunch of old Tinderbox documents, dating back to 2008. </p>
-<p>The above image shows a project map from my 2009 daybook Tinderbox file. It's so easy to understand what was going on when I can see my notes visually like that. But I also have the same information in a simple outline. </p>
-<img src="/img/2021/20211231-Outline2009.png">
-<p>I know I talk a lot about how plain text is so great and future proof, and it is. But it's best for <i>searching</i> and less useful for understanding. At least for me.</p>
-	
-</section>
-
-
-
-
-
-
-<div class="postNoTitle">
-
-
-<span class="permalinkHash"><a href="posts/2021/12/31/Automattic-vs-Ghost---it.html">#</a></span> <p>I prefer creating content in Ghost to WordPress. It's faster, simpler, and generally cleaner. However, I don't love the people behind Ghost. Their goals don't align with mine. Most of the time, who cares? But sometimes I <i>do</i> care. Then I saw <a href="https://initialcharge.net/2021/12/mullenweg-protocol/">Mike Rockwell's post</a> with quotes from Matt Mullenweg and it reminded me that I much prefer Automattic's <i>attitude</i> which is one reason I've reverted <a href="http://copingmechanism.com">copingmechanism.com</a> to WordPress.</p> 
 
 </div>
 
