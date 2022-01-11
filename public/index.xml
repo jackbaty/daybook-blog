@@ -44,6 +44,69 @@
     <main class="container">
 		<article>
 <header>
+     <h2 class="dayHeader">Tuesday, January 11, 2022</h2>
+<div class="post-meta">☁️ Overcast +10°F</div>
+		</header>
+	
+
+
+<div class="postNoTitle">
+
+
+<span class="permalinkHash"><a href="posts/2022/01/11/Good-morning-January-11-.html">#</a></span> <p>Good morning. It's 4:55 am and I just walked a mile, did a short Apple Fitness "strength" workout, and meditated for 15 minutes. In other words, I did what I'm supposed to every morning but don't.</p> 
+
+</div>
+
+
+
+
+      </article>
+    </main>
+	<!--  Tinderbox: ^title -->
+<footer>
+	<span>© Jack Baty 2013-2022</span> | 
+	<span>Made with ♥ using <a href="http://www.eastgate.com/Tinderbox/">Tinderbox</a></span>
+</footer>
+  </body>
+</html><!doctype html>
+<html lang="en">
+  <head>
+	<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="preconnect" href="https://fonts.googleapis.com"> 
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> 
+<link href="//fonts.googleapis.com/css?family=Ubuntu:400,500i,700" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://unpkg.com/@picocss/pico@latest/css/pico.min.css">
+<link rel="stylesheet" href="../assets/css/custom.css">
+
+<title>RSS - Jack Baty</title>
+
+<script defer data-domain="baty.blog" src="https://plausible.io/js/plausible.js"></script>
+
+
+  </head>
+  <body>
+	<div class="hero-image">
+  <div class="hero-text">
+    <h1><a href="/">Jack Baty</a></h1>
+    <h3>Director of Unspecified Services</h3>
+  </div>
+</div>
+<nav>
+<ul>
+	<li><a href="../index.html">Home</a></li>
+	<li><a href="../about.html">About</a></li>
+	<li><a href="../archives.html">Archives</a></li>
+	<li><a href="https://baty.net/">Baty.net</a></li>
+	<li><a class="icon-font" href="../index.xml"><svg class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16">
+  <path d="M819.157333 1024C819.157333 574.592 449.408 204.8 0 204.8V0c561.706667 0 1024 462.293333 1024 1024h-204.842667zM140.416 743.04a140.8 140.8 0 0 1 140.501333 140.586667A140.928 140.928 0 0 1 140.074667 1024C62.72 1024 0 961.109333 0 883.626667s62.933333-140.544 140.416-140.586667zM678.784 1024h-199.04c0-263.210667-216.533333-479.786667-479.744-479.786667V345.173333c372.352 0 678.784 306.517333 678.784 678.826667z"></path>
+</svg></a></li>
+</ul>
+</nav>
+    <main class="container">
+		<article>
+<header>
      <h2 class="dayHeader">Monday, January 10, 2022</h2>
 <div class="post-meta">☁️ Overcast +15°F</div>
 		</header>
@@ -1147,110 +1210,6 @@
 
 	
 </section>
-
-
-
-
-      </article>
-    </main>
-	<!--  Tinderbox: ^title -->
-<footer>
-	<span>© Jack Baty 2013-2022</span> | 
-	<span>Made with ♥ using <a href="http://www.eastgate.com/Tinderbox/">Tinderbox</a></span>
-</footer>
-  </body>
-</html><!doctype html>
-<html lang="en">
-  <head>
-	<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="preconnect" href="https://fonts.googleapis.com"> 
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> 
-<link href="//fonts.googleapis.com/css?family=Ubuntu:400,500i,700" rel="stylesheet">
-<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@600&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="https://unpkg.com/@picocss/pico@latest/css/pico.min.css">
-<link rel="stylesheet" href="../assets/css/custom.css">
-
-<title>RSS - Jack Baty</title>
-
-<script defer data-domain="baty.blog" src="https://plausible.io/js/plausible.js"></script>
-
-
-  </head>
-  <body>
-	<div class="hero-image">
-  <div class="hero-text">
-    <h1><a href="/">Jack Baty</a></h1>
-    <h3>Director of Unspecified Services</h3>
-  </div>
-</div>
-<nav>
-<ul>
-	<li><a href="../index.html">Home</a></li>
-	<li><a href="../about.html">About</a></li>
-	<li><a href="../archives.html">Archives</a></li>
-	<li><a href="https://baty.net/">Baty.net</a></li>
-	<li><a class="icon-font" href="../index.xml"><svg class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16">
-  <path d="M819.157333 1024C819.157333 574.592 449.408 204.8 0 204.8V0c561.706667 0 1024 462.293333 1024 1024h-204.842667zM140.416 743.04a140.8 140.8 0 0 1 140.501333 140.586667A140.928 140.928 0 0 1 140.074667 1024C62.72 1024 0 961.109333 0 883.626667s62.933333-140.544 140.416-140.586667zM678.784 1024h-199.04c0-263.210667-216.533333-479.786667-479.744-479.786667V345.173333c372.352 0 678.784 306.517333 678.784 678.826667z"></path>
-</svg></a></li>
-</ul>
-</nav>
-    <main class="container">
-		<article>
-<header>
-     <h2 class="dayHeader">Saturday, January 1, 2022</h2>
-<div class="post-meta">🌫  Mist +34°F</div>
-		</header>
-	
-
-
-<div class="postNoTitle">
-
-
-<span class="permalinkHash"><a href="posts/2022/01/01/Good-morning-2022.html">#</a></span> <p>Good morning. It's 5:45 am on the first day of 2022. Or, as I like to call it, "New Folders Day".</p> 
-
-</div>
-
-
-
-
-
-
-<div class="postNoTitle">
-
-<figure>
-		<img src="/img/2022/20220101-RideOutTheClock.png" alt="Quote: Riding out the clock" class="postimage">
-
-</figure>
-
-
-<span class="permalinkHash"><a href="posts/2022/01/01/Quote-Riding-out-the-clo.html">#</a></span> <p>When I think about diving back into the workforce I try to remember that quote.</p> 
-
-</div>
-
-
-
-
-
-
-<div class="postNoTitle">
-
-
-<span class="permalinkHash"><a href="posts/2022/01/01/NIfty-File-Lists.html">#</a></span> <p><a href="https://www.publicspace.net/NiftyFileLists/index.html">Nifty File Lists</a> looks like it could be handy, especially in a <a href="https://forum.eastgate.com/t/moving-file-names-and-metadata-into-tinderbox/5330">Tinderbox context</a>.</p> 
-
-</div>
-
-
-
-
-
-
-<div class="postNoTitle">
-
-
-<span class="permalinkHash"><a href="posts/2022/01/01/Some-site-changes-today.html">#</a></span> <p>I made a few small changes around here this morning: <a href="changelog/Don-t-include-partial-im.html">Don't include partial image paths in templates</a>, <a href="changelog/Added-link-to-Movie-temp.html">Added link to Movie template</a>, and <a href="changelog/Replaced-header-backgrou.html">Replaced header background image with primary theme color</a>.</p> 
-
-</div>
 
 
 
