@@ -74,15 +74,18 @@
 
 
 
-<div class="postNoTitle">
+
+	<h3><a href="posts/2022/01/11/Combining-RSS-feeds-for-.html">Combining RSS feeds for everything</a></h3>
+
+<section>
 
 
-<span class="permalinkHash"><a href="posts/2022/01/11/Combining-RSS-feeds-for-.html">#</a></span> <p>There is an ongoing conflict between my love of trying new blogging/publishing tools and the idea of having One True Blog™. The first is for me and the second is for readers.</p>
+	<p>There is an ongoing conflict between my love of trying new blogging/publishing tools and the idea of having One True Blog™. The first is for me and the second is for readers.</p>
 <p>I had a thought this morning. What if I could aggregate all of my sites into a single RSS feed? There are a few approaches to this, but what I've decided to try is cross-posting everything to <a href="https://copingmechanism.com">Coping Mechanism</a>. The idea is that Coping Mechanism would grab the posts from my other sites and combine them into one giant blog whose RSS feed encapsulates everything.</p>
 <p>I'm testing this with a couple of WordPress plugins: <a href="https://www.wprssaggregator.com">WP RSS Aggregator</a> and its <a href="https://www.wprssaggregator.com/extension/feed-to-post/">Feed to Post</a> add-on.</p>
-<p>I'll let you know if it works. If it does, those of you with an interest in following my various experiments will have a handy, single RSS feed to subscribe to. Meanwhile, I can continue writing all over the place.</p> 
-
-</div>
+<p>I'll let you know if it works. If it does, those of you with an interest in following my various experiments will have a handy, single RSS feed to subscribe to. Meanwhile, I can continue writing all over the place.</p>
+	
+</section>
 
 
 
