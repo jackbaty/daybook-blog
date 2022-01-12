@@ -44,6 +44,81 @@
     <main class="container">
 		<article>
 <header>
+     <h2 class="dayHeader">Wednesday, January 12, 2022</h2>
+<div class="post-meta"></div>
+		</header>
+	
+
+
+<div class="postNoTitle">
+
+
+<span class="permalinkHash"><a href="posts/2022/01/12/Good-morning-What-should.html">#</a></span> <p>Good morning. What should we do today? I'm thinking about continuing to refine my various blogs and their integration with the Super Feed™ at <a href="https://copingmechanism.com">Coping Mechanism</a>.</p> 
+
+</div>
+
+
+
+
+
+
+<div class="postNoTitle">
+
+
+<span class="permalinkHash"><a href="posts/2022/01/12/Blood-pressure.html">#</a></span> <p>Took my blood pressure this morning. It's a good thing I took it <i>before</i> I tried to record it somewhere, because I went from catatonic about where to write it down to furious that I couldn't decide where to write it down.</p> 
+
+</div>
+
+
+
+
+      </article>
+    </main>
+	<!--  Tinderbox: ^title -->
+<footer>
+	<span>© Jack Baty 2013-2022</span> | 
+	<span>Made with ♥ using <a href="http://www.eastgate.com/Tinderbox/">Tinderbox</a></span>
+</footer>
+  </body>
+</html><!doctype html>
+<html lang="en">
+  <head>
+	<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="preconnect" href="https://fonts.googleapis.com"> 
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> 
+<link href="//fonts.googleapis.com/css?family=Ubuntu:400,500i,700" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://unpkg.com/@picocss/pico@latest/css/pico.min.css">
+<link rel="stylesheet" href="../assets/css/custom.css">
+
+<title>RSS - Jack Baty</title>
+
+<script defer data-domain="daily.baty.net" src="https://plausible.io/js/plausible.js"></script>
+
+
+  </head>
+  <body>
+	<div class="hero-image">
+  <div class="hero-text">
+    <h1><a href="/">Jack Baty</a></h1>
+    <h3>Director of Unspecified Services</h3>
+  </div>
+</div>
+<nav>
+<ul>
+	<li><a href="../index.html">Home</a></li>
+	<li><a href="../about.html">About</a></li>
+	<li><a href="../archives.html">Archives</a></li>
+	<li><a href="https://baty.net/">Baty.net</a></li>
+	<li><a class="icon-font" href="../index.xml"><svg class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16">
+  <path d="M819.157333 1024C819.157333 574.592 449.408 204.8 0 204.8V0c561.706667 0 1024 462.293333 1024 1024h-204.842667zM140.416 743.04a140.8 140.8 0 0 1 140.501333 140.586667A140.928 140.928 0 0 1 140.074667 1024C62.72 1024 0 961.109333 0 883.626667s62.933333-140.544 140.416-140.586667zM678.784 1024h-199.04c0-263.210667-216.533333-479.786667-479.744-479.786667V345.173333c372.352 0 678.784 306.517333 678.784 678.826667z"></path>
+</svg></a></li>
+</ul>
+</nav>
+    <main class="container">
+		<article>
+<header>
      <h2 class="dayHeader">Tuesday, January 11, 2022</h2>
 <div class="post-meta">☁️ Overcast +10°F</div>
 		</header>
@@ -1116,157 +1191,6 @@
 <p>The big downside here is that my LrC library only contains locally-imported photos, and my phone contains all my iPhone photos plus just the images I've exported from LrC. I have no one canonical place with <i>everything</i>. I can't decide if this matters.</p>
 <p>I could configure Lightroom on my phone to automatically sync photos back into my library, but then I have to be careful about re-importing to Photos so I don't end up with duplicates. This has happened before. </p>
 <p>I may also try PhotoSync again to see if I can find a way to have the best of both worlds.</p>
-	
-</section>
-
-
-
-
-      </article>
-    </main>
-	<!--  Tinderbox: ^title -->
-<footer>
-	<span>© Jack Baty 2013-2022</span> | 
-	<span>Made with ♥ using <a href="http://www.eastgate.com/Tinderbox/">Tinderbox</a></span>
-</footer>
-  </body>
-</html><!doctype html>
-<html lang="en">
-  <head>
-	<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="preconnect" href="https://fonts.googleapis.com"> 
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> 
-<link href="//fonts.googleapis.com/css?family=Ubuntu:400,500i,700" rel="stylesheet">
-<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@600&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="https://unpkg.com/@picocss/pico@latest/css/pico.min.css">
-<link rel="stylesheet" href="../assets/css/custom.css">
-
-<title>RSS - Jack Baty</title>
-
-<script defer data-domain="daily.baty.net" src="https://plausible.io/js/plausible.js"></script>
-
-
-  </head>
-  <body>
-	<div class="hero-image">
-  <div class="hero-text">
-    <h1><a href="/">Jack Baty</a></h1>
-    <h3>Director of Unspecified Services</h3>
-  </div>
-</div>
-<nav>
-<ul>
-	<li><a href="../index.html">Home</a></li>
-	<li><a href="../about.html">About</a></li>
-	<li><a href="../archives.html">Archives</a></li>
-	<li><a href="https://baty.net/">Baty.net</a></li>
-	<li><a class="icon-font" href="../index.xml"><svg class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16">
-  <path d="M819.157333 1024C819.157333 574.592 449.408 204.8 0 204.8V0c561.706667 0 1024 462.293333 1024 1024h-204.842667zM140.416 743.04a140.8 140.8 0 0 1 140.501333 140.586667A140.928 140.928 0 0 1 140.074667 1024C62.72 1024 0 961.109333 0 883.626667s62.933333-140.544 140.416-140.586667zM678.784 1024h-199.04c0-263.210667-216.533333-479.786667-479.744-479.786667V345.173333c372.352 0 678.784 306.517333 678.784 678.826667z"></path>
-</svg></a></li>
-</ul>
-</nav>
-    <main class="container">
-		<article>
-<header>
-     <h2 class="dayHeader">Sunday, January 2, 2022</h2>
-<div class="post-meta">🌨  Light snow, mist +18°F</div>
-		</header>
-	
-
-
-<div class="postNoTitle">
-
-
-<span class="permalinkHash"><a href="posts/2022/01/02/Good-morning-What-kind-o.html">#</a></span> <p>Good morning. It's 7:35 am because Alice slept until 6:45. I hardly know what to do with myself after nearly eight ours of sleep. Let's see what kind of day this can be.</p> 
-
-</div>
-
-
-
-
-
-
-<div class="postNoTitle">
-
-<figure>
-		<img src="/img/2022/20211227-R0001993.jpg" alt="Thomas Paine quote" class="postimage">
-<figcaption>A good regular reminder, so I keep it pinned to my bulletin board.</figcaption>
-</figure>
-
-
-<span class="permalinkHash"><a href="posts/2022/01/02/Thomas-Paine-quote.html">#</a></span>  
-
-</div>
-
-
-
-
-
-
-<div class="postNoTitle">
-
-
-<span class="permalinkHash"><a href="posts/2022/01/02/I-still-miss-the-APO-Sum.html">#</a></span> <p>I took a photo of the dog against a bright background using the Leica SL2-S with the Sigma 24-70 f/2.8. The sigma is a fine lens, but it (literally) pales in comparison with the native Leica primes. Alice was lacking in contrast and sharpness due to the slight flaring and CA that occurs with the Sigma. I've taken nearly identical photos with the APO Summicron-SL 35mm and they were bright, sharp, and contrasty. I miss that lens.</p> 
-
-</div>
-
-
-
-
-
-
-<div class="postNoTitle">
-
-
-<span class="permalinkHash"><a href="posts/2022/01/02/What-s-up-guys-.html">#</a></span> <p>Whatever I end up doing next, It's not going to be what Eric Floberg is making excellent fun of in this video:</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HHsMHHKJ8Us" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<p>yeesh.</p> 
-
-</div>
-
-
-
-
-
-
-
-	<h3><a href="posts/2022/01/02/But-is-it-too-complicate.html">But is it too complicated?</a></h3>
-
-<section>
-
-
-	<img src="/img/small/tinderboxicon.png" alt="But is it too complicated?" class="sideImage">
-
-	<p>Publishing this blog using <a href="https://eastgate.com/Tinderbox">Tinderbox</a> is certainly complex, but is it also too complicated?</p>
-<p>There are many moving parts: agents, rules, expressions, action code, attributes, and so on. But to simply publish this post, all I do is hit return, type some words, and click a button. Not complicated at all. However, if I decide to change something, or if I change something by accident, all hell might break loose. </p>
-<p>Publishing is simple here, but running the show is pretty complicated. Still, this setup is fun, lightweight, super flexible, and ultimately renders a static site. I'm thinking it's a fair balance.</p>
-<p><b>Update:</b> Dave Rogers<a href="https://nice-marmot.net/Archives/2022/January_2022.html#note_798"> posted a note</a> about complexity and Tinderbox and it's made me feel a bit better. His blog, <a href="https://nice-marmot.net">Nice Marmot</a>, is one of the things that inspired me to dive back to Tinderbox for personal blogging. I'm glad I did. Thanks, Dave!</p>
-	
-</section>
-
-
-
-
-
-
-
-	<h3><a href="posts/2022/01/02/Hobonichi-2022.html">Hobonichi 2022</a></h3>
-
-<section>
-
-<figure>
-		<img src="/img/2022/20220102-R0001995.jpg" alt="Hobonichi 2022" class="postimage">
-</figure>
-
-
-	<img src="/img/small/hobonichi.jpg" alt="Hobonichi 2022" class="sideImage">
-
-	<p>I bought my first <a href="https://www.1101.com/store/techo/en/about/">Hobonichi Techo</a> in 2013, and I've used one every year since. One of my favorite things in any new year is copying over events from last year's calendar into the new one. Birthdays, anniversaries, etc. It's a much better feeling than something like waiting for Facebook to tell me when to pay attention to someone.</p>
-<p>Another thing I do every January is plan on going all-in with the Techo. Todos, appointments, notes, lists, everything should go in that lovely book with its wonderful Tomoe River paper. But then I worry about it being too small. With big plans to use analog tools even more this year, will the little Hobonichi be too limiting?</p>
-<p>The answer to that question has always been, "No." Most of those Techos on my shelf are at least half empty. I'd wager there aren't more than a couple dozen pages where I could have used more room.</p>
-<p>What this all means is that I have not learned my lesson and will be once again diving right into the plans to use the Techo for everything. The difference this time is that I'm not going to worry about running out of room. I hope that will mean that I do run out of room, because wouldn't that be awesome.</p>
-
 	
 </section>
 
