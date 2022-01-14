@@ -1,14 +1,6 @@
-
+/* override pico defaults */
 :root {
   --typography-spacing-vertical: 1.00rem;
-  --block-spacing-vertical: calc(var(--spacing) * 2);
-  --block-spacing-horizontal: var(--spacing);
-  --grid-spacing-vertical: 0;
-  --grid-spacing-horizontal: var(--spacing);
-  --form-element-spacing-vertical: 0.75rem;
-  --form-element-spacing-horizontal: 1rem;
-  --form-label-font-weight: var(--font-weight);
-  --transition: 0.2s ease-in-out;
 }
 
 .container,
@@ -50,7 +42,7 @@
 
 
 .hero-image {
-  /* background-image: url("/img/headers/computers-1920.jpg"); */
+  background-image: url("/img/headers/computers-1920.jpg");
   background-color: var(--primary);
   height: 150px;
   background-position: center;
@@ -144,6 +136,13 @@ svg.icon {
 
 article img {
 	margin-bottom: 10px;}
+
+article h3 a {
+	color: var(--h3-color);
+
+.dayHeader a {
+	color: var(--h2-color);
+}
 
 .postNoTitle {
 	margin-bottom: var(--block-spacing-vertical);
