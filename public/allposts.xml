@@ -6,6 +6,40 @@
 <link>https://baty.blog</link>
 <description>Jack Baty's Weblog</description>
 	<item>
+<title>Checking in after a couple months of blogging with Tinderbox</title>
+<link>https://baty.blog/posts/2022/01/14/Checking-in-after-a-coup.html</link>
+<pubDate>Fri, 14 Jan 2022 04:23:13 -0500</pubDate>
+<guid>https://baty.blog/posts/2022/01/14/Checking-in-after-a-coup.html</guid>
+<description><![CDATA[
+
+
+
+	<h3><a href="https://baty.blog/posts/2022/01/14/Checking-in-after-a-coup.html">Checking in after a couple months of blogging with Tinderbox</a></h3>
+
+
+
+<p>Early last November, in <a href="posts/2021/11/04/Welcome-back-I-guess.html">Welcome back, I guess</a>, I wrote this:</p>
+	<blockquote>If I'm being honest, I'll admit that this is just an excuse to play with some old toys and experiment with new ones. </blockquote>
+	<blockquote>See also: Sometimes I change my mind</blockquote>
+
+<p>Let's look at how it's going with my Blogging With Tinderbox experiment.</p>
+<p>First, it's been a ton of fun wrangling <a href="http://www.eastgate.com/Tinderbox/">Tinderbox</a> into generating a nice-looking blog that fits my particular way of blogging. I was inspired after trying Dave Winer's <a href="http://drummer.scripting.com">Drummer</a> blogging tool. Tinderbox is ridiculously flexible and powerful and fun, and made this blog possible.</p>
+<p>I love outliners, and this site is built using Tinderbox's powerful version of outliner. All the <a href="https://logseq.com">cool</a> <a href="http://drummer.scripting.com">new</a> <a href="https://roamresearch.com">kids</a> are using outlines, too.</p>
+<p>Keeping my "Daybook" type entries in the same Tinderbox file as my blog posts is pretty great. It lets me see everything all at once. I can link, collect, arrange, and analyze <i>everything</i> I write, whether public or private. This is not a small thing, it will likely become more useful over time.</p>
+<p>So, I'll be sticking with Tinderbox for my daily notes blogging, then? Not so fast.</p>
+<p>The mechanisms for generating this blog out of Tinderbox are fragile. More than once in the past week, I've broken large portions of the site after making what I thought to be a minor change to a template or Agent. Debugging it took quite some time. It makes me nervous.</p>
+<p>Links are powerful but strange in Tinderbox. For a simple blog, I don't need powerful. I need them to be easily created and simple to edit. I don't find them to be.</p>
+<p>The elephant in the room is Emacs, and, more specifically, Org mode. You see, as much as I like managing and processing notes in Tinderbox, I don't love <i>writing</i> in it. Notes in Tinderbox are rich text. Sure, technically you can have them behave as if they're Markdown, but doing so is definitely swimming upstream. Tinderbox does a good job of converting rich notes into HTML, and even offers control over how formatting is rendered. It's all very clever. However, it's a long way from plain text, and I prefer plain text for writing. And I very much enjoy writing plain text in Emacs.</p>
+<p>I haven't decided yet which way I'll be taking this blog. For the moment, I like the results so much that I'm happy using Tinderbox. But I feel the pull of Emacs and the simplicity of Org mode and Markdown. I'm still hoping to find a way to have both.</p>
+
+
+
+
+
+    ]]></description>
+
+</item>
+<item>
 <title>Combining RSS feeds for everything</title>
 <link>https://baty.blog/posts/2022/01/11/Combining-RSS-feeds-for-.html</link>
 <pubDate>Tue, 11 Jan 2022 08:14:00 -0500</pubDate>
