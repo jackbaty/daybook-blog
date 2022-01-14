@@ -14,7 +14,7 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> 
 <link href="//fonts.googleapis.com/css?family=Ubuntu:400,500i,700" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@600&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="https://unpkg.com/@picocss/pico@latest/css/pico.min.css">
+<link rel="stylesheet" href="../assets/css/pico.min.css">
 <link rel="stylesheet" href="../assets/css/custom.css">
 
 <title>RSS - Jack Baty</title>
@@ -178,6 +178,18 @@
 
 
 
+
+
+<div class="postNoTitle">
+
+
+<span class="permalinkHash"><a href="posts/2022/01/14/Anyone.html">#</a></span> <p>You know that pretty much anyone can get a Substack, right?</p> 
+
+</div>
+
+
+
+
       </article>
     </main>
 	<!--  Tinderbox: ^title -->
@@ -195,7 +207,7 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> 
 <link href="//fonts.googleapis.com/css?family=Ubuntu:400,500i,700" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@600&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="https://unpkg.com/@picocss/pico@latest/css/pico.min.css">
+<link rel="stylesheet" href="../assets/css/pico.min.css">
 <link rel="stylesheet" href="../assets/css/custom.css">
 
 <title>RSS - Jack Baty</title>
@@ -270,7 +282,7 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> 
 <link href="//fonts.googleapis.com/css?family=Ubuntu:400,500i,700" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@600&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="https://unpkg.com/@picocss/pico@latest/css/pico.min.css">
+<link rel="stylesheet" href="../assets/css/pico.min.css">
 <link rel="stylesheet" href="../assets/css/custom.css">
 
 <title>RSS - Jack Baty</title>
@@ -400,7 +412,7 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> 
 <link href="//fonts.googleapis.com/css?family=Ubuntu:400,500i,700" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@600&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="https://unpkg.com/@picocss/pico@latest/css/pico.min.css">
+<link rel="stylesheet" href="../assets/css/pico.min.css">
 <link rel="stylesheet" href="../assets/css/custom.css">
 
 <title>RSS - Jack Baty</title>
@@ -522,7 +534,7 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> 
 <link href="//fonts.googleapis.com/css?family=Ubuntu:400,500i,700" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@600&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="https://unpkg.com/@picocss/pico@latest/css/pico.min.css">
+<link rel="stylesheet" href="../assets/css/pico.min.css">
 <link rel="stylesheet" href="../assets/css/custom.css">
 
 <title>RSS - Jack Baty</title>
@@ -624,7 +636,7 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> 
 <link href="//fonts.googleapis.com/css?family=Ubuntu:400,500i,700" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@600&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="https://unpkg.com/@picocss/pico@latest/css/pico.min.css">
+<link rel="stylesheet" href="../assets/css/pico.min.css">
 <link rel="stylesheet" href="../assets/css/custom.css">
 
 <title>RSS - Jack Baty</title>
@@ -752,7 +764,7 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> 
 <link href="//fonts.googleapis.com/css?family=Ubuntu:400,500i,700" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@600&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="https://unpkg.com/@picocss/pico@latest/css/pico.min.css">
+<link rel="stylesheet" href="../assets/css/pico.min.css">
 <link rel="stylesheet" href="../assets/css/custom.css">
 
 <title>RSS - Jack Baty</title>
@@ -890,7 +902,7 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> 
 <link href="//fonts.googleapis.com/css?family=Ubuntu:400,500i,700" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@600&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="https://unpkg.com/@picocss/pico@latest/css/pico.min.css">
+<link rel="stylesheet" href="../assets/css/pico.min.css">
 <link rel="stylesheet" href="../assets/css/custom.css">
 
 <title>RSS - Jack Baty</title>
@@ -987,7 +999,7 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> 
 <link href="//fonts.googleapis.com/css?family=Ubuntu:400,500i,700" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@600&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="https://unpkg.com/@picocss/pico@latest/css/pico.min.css">
+<link rel="stylesheet" href="../assets/css/pico.min.css">
 <link rel="stylesheet" href="../assets/css/custom.css">
 
 <title>RSS - Jack Baty</title>
@@ -1128,7 +1140,7 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> 
 <link href="//fonts.googleapis.com/css?family=Ubuntu:400,500i,700" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@600&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="https://unpkg.com/@picocss/pico@latest/css/pico.min.css">
+<link rel="stylesheet" href="../assets/css/pico.min.css">
 <link rel="stylesheet" href="../assets/css/custom.css">
 
 <title>RSS - Jack Baty</title>
