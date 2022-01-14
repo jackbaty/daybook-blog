@@ -145,6 +145,10 @@ svg.icon {
 article img {
 	margin-bottom: 10px;}
 
+.postNoTitle {
+	margin-bottom: var(--block-spacing-vertical);
+}
+
 img.icon {
 	margin: 0px;
 }
