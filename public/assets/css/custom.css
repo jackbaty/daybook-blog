@@ -1,4 +1,16 @@
 
+:root {
+  --typography-spacing-vertical: 1.00rem;
+  --block-spacing-vertical: calc(var(--spacing) * 2);
+  --block-spacing-horizontal: var(--spacing);
+  --grid-spacing-vertical: 0;
+  --grid-spacing-horizontal: var(--spacing);
+  --form-element-spacing-vertical: 0.75rem;
+  --form-element-spacing-horizontal: 1rem;
+  --form-label-font-weight: var(--font-weight);
+  --transition: 0.2s ease-in-out;
+}
+
 .container,
 .container-fluid {
   width: 100%;
@@ -87,6 +99,7 @@ article h3 {
 article>header {
 	margin-bottom: 2em;
 }
+
 
 footer {
 	text-align: center;
