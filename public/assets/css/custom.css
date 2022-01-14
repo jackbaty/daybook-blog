@@ -1,7 +1,9 @@
+
 /* override pico defaults */
 :root {
   --typography-spacing-vertical: 1.00rem;
 }
+
 
 .container,
 .container-fluid {
@@ -139,6 +141,7 @@ article img {
 
 article h3 a {
 	color: var(--h3-color);
+}
 
 .dayHeader a {
 	color: var(--h2-color);
