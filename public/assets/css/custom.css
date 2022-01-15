@@ -201,3 +201,6 @@ blockquote figcaption {
 	text-align: right;
 }
 
+blockquote figcaption::before {
+	content: "\2014 ";
+}
