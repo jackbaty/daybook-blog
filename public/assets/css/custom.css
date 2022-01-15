@@ -33,12 +33,40 @@
     max-width: 920;
 	 --font-size: 17px;
   }
+	blockquote::before {
+	font-family: Arial;
+	content: "\201C";
+	color: #999;
+	font-size: 6em;
+	line-height: 0;
+	position: relative;
+	display: block;
+	top: 20px;
+	left: -10px;
+	}
+	blockquote p {
+		margin-left: 30px;
+	}
 }
 @media (min-width: 1200px) {
   .container {
     max-width: 920px;
 	 --font-size: 18px;
   }
+	blockquote::before {
+	font-family: Arial;
+	content: "\201C";
+	color: #999;
+	font-size: 6em;
+	line-height: 0;
+	position: relative;
+	display: block;
+	top: 20px;
+	left: -10px;
+	}
+	blockquote p {
+		margin-left: 30px;
+	}
 }
 
 
@@ -155,16 +183,21 @@ img.icon {
 	margin: 0px;
 }
 
-.quote {
-  margin-bottom: 1em;
-  background: var(--blockquote-border-color);
-  padding: 1em;
-  border-radius: 0.5em;
+
+
+
+
+blockquote {
+	
+	margin-bottom: 1em;
+	background: var(--blockquote-border-color);
+	padding: 1em;
+	border-radius: 0.5em;
 }
-.quote figcaption {
+
+blockquote figcaption {
 	margin: 0.5em;
+	font-size: 0.8em;
 	text-align: right;
 }
-.quote blockquote {
-	margin: 1em;
-}
+
