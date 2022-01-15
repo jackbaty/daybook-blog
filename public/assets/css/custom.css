@@ -28,46 +28,6 @@
     --font-size: 16px;
   }
 }
-@media (min-width: 992px) {
-  .container {
-    max-width: 920;
-	 --font-size: 17px;
-  }
-	blockquote::before {
-	font-family: Arial;
-	content: "\201C";
-	color: #999;
-	font-size: 6em;
-	line-height: 0;
-	position: relative;
-	display: block;
-	top: 20px;
-	left: -10px;
-	}
-	blockquote p {
-		margin-left: 30px;
-	}
-}
-@media (min-width: 1200px) {
-  .container {
-    max-width: 920px;
-	 --font-size: 18px;
-  }
-	blockquote::before {
-	font-family: Arial;
-	content: "\201C";
-	color: #999;
-	font-size: 6em;
-	line-height: 0;
-	position: relative;
-	display: block;
-	top: 20px;
-	left: -10px;
-	}
-	blockquote p {
-		margin-left: 30px;
-	}
-}
 
 
 
@@ -175,8 +135,11 @@ article h3 a {
 	color: var(--h2-color);
 }
 
+section {
+	margin-bottom: 2em;
+}
 .postNoTitle {
-	margin-bottom: var(--block-spacing-vertical);
+	margin-bottom: 2em;
 }
 
 img.icon {
