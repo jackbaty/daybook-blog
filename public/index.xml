@@ -4,56 +4,19 @@
 <channel>
 <title>Jack Baty</title>
 <link>https://notes.baty.net</link>
-<description>Daily notes by Jack Baty</description>
-	<!doctype html>
-<html lang="en">
-  <head>
-	<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="preconnect" href="https://fonts.googleapis.com"> 
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> 
-<link href="//fonts.googleapis.com/css?family=Ubuntu:400,500i,700" rel="stylesheet">
-<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@600&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="../assets/css/pico.min.css">
-<link rel="stylesheet" href="../assets/css/custom.css">
+<description>Notes by Jack Baty</description>
+	<item>
+<title>Saturday, March 5, 2022</title>
+<link>https://notes.baty.netposts/2022/03/05.html</link>
+<pubDate>Sat, 5 Mar 2022 07:06:56 -0500</pubDate>
+<description><![CDATA[
 
-<title>RSS - Jack Baty</title>
-
-<script defer data-domain="baty.blog" src="https://plausible.io/js/plausible.js"></script>
-
-
-  </head>
-  <body>
-	<div class="hero-image">
-  <div class="hero-text">
-    <h1><a href="/">Jack Baty</a></h1>
-    <h3>Director of Unspecified Services</h3>
-  </div>
-</div>
-<nav>
-<ul>
-	<li><a href="../index.html">Home</a></li>
-	<li><a href="../about.html">About</a></li>
-	<li><a href="../archives.html">Archives</a></li>
-	<li><a href="https://baty.net/">Baty.net</a></li>
-	<li><a class="icon-font" href="../index.xml"><svg class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16">
-  <path d="M819.157333 1024C819.157333 574.592 449.408 204.8 0 204.8V0c561.706667 0 1024 462.293333 1024 1024h-204.842667zM140.416 743.04a140.8 140.8 0 0 1 140.501333 140.586667A140.928 140.928 0 0 1 140.074667 1024C62.72 1024 0 961.109333 0 883.626667s62.933333-140.544 140.416-140.586667zM678.784 1024h-199.04c0-263.210667-216.533333-479.786667-479.744-479.786667V345.173333c372.352 0 678.784 306.517333 678.784 678.826667z"></path>
-</svg></a></li>
-</ul>
-</nav>
-    <main class="container">
-		<article>
-<header>
-     <h2 class="dayHeader">Saturday, March 5, 2022</h2>
-<div class="post-meta">☀️   Clear +33°F</div>
-		</header>
-	
 
 
 <div class="postNoTitle">
 
 
-<span class="permalinkHash"><a href="posts/2022/03/05/notes-baty-net.html">#</a></span> <p>I keep telling myself I'm never again going to change the domain name on an establishes website. And yet, I moved this Tinderbox-generated site from <a href="http://notes.baty.net">notes.baty.net</a> to <a href="http://daily.baty.net">daily.baty.net</a> to <a href="http://tb.baty.net">tb.baty.net</a> and now back to <a href="http://notes.baty.net">notes.baty.net</a>. Let's leave it alone now, m'kay? (It'll be broken there until DNS catches up.)</p> 
+<span class="permalinkHash"><a href="https://notes.baty.net/posts/2022/03/05/notes-baty-net.html">#</a></span> <p>I keep telling myself I'm never again going to change the domain name on an establishes website. And yet, I moved this Tinderbox-generated site from <a href="http://notes.baty.net">notes.baty.net</a> to <a href="http://daily.baty.net">daily.baty.net</a> to <a href="http://tb.baty.net">tb.baty.net</a> and now back to <a href="http://notes.baty.net">notes.baty.net</a>. Let's leave it alone now, m'kay? (It'll be broken there until DNS catches up.)</p> 
 
 </div>
 
@@ -63,12 +26,12 @@
 
 
 
-	<h3><a href="posts/2022/03/05/What-if-I-used-Tinderbox.html">What if I used Tinderbox to generate Hugo-compatible Markdown files?</a></h3>
+	<h3><a href="https://notes.baty.net/posts/2022/03/05/What-if-I-used-Tinderbox.html">What if I used Tinderbox to generate Hugo-compatible Markdown files?</a></h3>
 
 <section>
 
 
-	<img src="/img/small/tinderboxicon.png" alt="What if I used Tinderbox to generate Hugo-compatible Markdown files?" class="sideImage">
+	<img src="https://notes.baty.net/img/small/tinderboxicon.png" alt="What if I used Tinderbox to generate Hugo-compatible Markdown files?" class="sideImage">
 
 	<p>I'm <a href="posts/2022/02/28/Good-morning.html">still thinking about this</a>.</p>
 <p>The tricky part with using Tinderbox to generate websites is that the export features are almost too powerful and configurable. I've gotten things arranged the way I want them here, but it feels fragile. I hesitate to tweak any of the templates for fear of breaking the site.</p>
@@ -81,63 +44,21 @@
 
 
 
-      </article>
-    </main>
-	<!--  Tinderbox: ^title -->
-<footer>
-	<span>© Jack Baty 2013-2022</span> | 
-	<span>Made with ♥ using <a href="http://www.eastgate.com/Tinderbox/">Tinderbox</a></span>
-</footer>
-  </body>
-</html><!doctype html>
-<html lang="en">
-  <head>
-	<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="preconnect" href="https://fonts.googleapis.com"> 
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> 
-<link href="//fonts.googleapis.com/css?family=Ubuntu:400,500i,700" rel="stylesheet">
-<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@600&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="../assets/css/pico.min.css">
-<link rel="stylesheet" href="../assets/css/custom.css">
+    ]]></description>
+<guid>https://notes.baty.net/posts/2022/03/05.html</guid>
+</item>
+<item>
+<title>Monday, February 28, 2022</title>
+<link>https://notes.baty.netposts/2022/02/28.html</link>
+<pubDate>Mon, 28 Feb 2022 04:25:46 -0500</pubDate>
+<description><![CDATA[
 
-<title>RSS - Jack Baty</title>
-
-<script defer data-domain="baty.blog" src="https://plausible.io/js/plausible.js"></script>
-
-
-  </head>
-  <body>
-	<div class="hero-image">
-  <div class="hero-text">
-    <h1><a href="/">Jack Baty</a></h1>
-    <h3>Director of Unspecified Services</h3>
-  </div>
-</div>
-<nav>
-<ul>
-	<li><a href="../index.html">Home</a></li>
-	<li><a href="../about.html">About</a></li>
-	<li><a href="../archives.html">Archives</a></li>
-	<li><a href="https://baty.net/">Baty.net</a></li>
-	<li><a class="icon-font" href="../index.xml"><svg class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16">
-  <path d="M819.157333 1024C819.157333 574.592 449.408 204.8 0 204.8V0c561.706667 0 1024 462.293333 1024 1024h-204.842667zM140.416 743.04a140.8 140.8 0 0 1 140.501333 140.586667A140.928 140.928 0 0 1 140.074667 1024C62.72 1024 0 961.109333 0 883.626667s62.933333-140.544 140.416-140.586667zM678.784 1024h-199.04c0-263.210667-216.533333-479.786667-479.744-479.786667V345.173333c372.352 0 678.784 306.517333 678.784 678.826667z"></path>
-</svg></a></li>
-</ul>
-</nav>
-    <main class="container">
-		<article>
-<header>
-     <h2 class="dayHeader">Monday, February 28, 2022</h2>
-<div class="post-meta">☀️   Clear +22°F</div>
-		</header>
-	
 
 
 <div class="postNoTitle">
 
 
-<span class="permalinkHash"><a href="posts/2022/02/28/Good-morning.html">#</a></span> <p>Good morning. It's 4:25 am and I'm here again for some reason. What if I could use Tinderbox to generate Hugo-compatible markdown files instead of the full HTML site?</p> 
+<span class="permalinkHash"><a href="https://notes.baty.net/posts/2022/02/28/Good-morning.html">#</a></span> <p>Good morning. It's 4:25 am and I'm here again for some reason. What if I could use Tinderbox to generate Hugo-compatible markdown files instead of the full HTML site?</p> 
 
 </div>
 
@@ -149,70 +70,28 @@
 <div class="postNoTitle">
 
 
-<span class="permalinkHash"><a href="posts/2022/02/28/This-could-almost-be-a-m.html">#</a></span> <p>I canceled my Micro.blog subscription today. It's only $5/month but it costs me a lot in mental overhead. I don't feel like I need a microblog. I can just use Twitter or Mastodon. Or really, this site could be a sort of microblog, no?</p> 
+<span class="permalinkHash"><a href="https://notes.baty.net/posts/2022/02/28/This-could-almost-be-a-m.html">#</a></span> <p>I canceled my Micro.blog subscription today. It's only $5/month but it costs me a lot in mental overhead. I don't feel like I need a microblog. I can just use Twitter or Mastodon. Or really, this site could be a sort of microblog, no?</p> 
 
 </div>
 
 
 
 
-      </article>
-    </main>
-	<!--  Tinderbox: ^title -->
-<footer>
-	<span>© Jack Baty 2013-2022</span> | 
-	<span>Made with ♥ using <a href="http://www.eastgate.com/Tinderbox/">Tinderbox</a></span>
-</footer>
-  </body>
-</html><!doctype html>
-<html lang="en">
-  <head>
-	<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="preconnect" href="https://fonts.googleapis.com"> 
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> 
-<link href="//fonts.googleapis.com/css?family=Ubuntu:400,500i,700" rel="stylesheet">
-<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@600&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="../assets/css/pico.min.css">
-<link rel="stylesheet" href="../assets/css/custom.css">
+    ]]></description>
+<guid>https://notes.baty.net/posts/2022/02/28.html</guid>
+</item>
+<item>
+<title>Sunday, February 27, 2022</title>
+<link>https://notes.baty.netposts/2022/02/27.html</link>
+<pubDate>Sun, 27 Feb 2022 20:25:02 -0500</pubDate>
+<description><![CDATA[
 
-<title>RSS - Jack Baty</title>
-
-<script defer data-domain="baty.blog" src="https://plausible.io/js/plausible.js"></script>
-
-
-  </head>
-  <body>
-	<div class="hero-image">
-  <div class="hero-text">
-    <h1><a href="/">Jack Baty</a></h1>
-    <h3>Director of Unspecified Services</h3>
-  </div>
-</div>
-<nav>
-<ul>
-	<li><a href="../index.html">Home</a></li>
-	<li><a href="../about.html">About</a></li>
-	<li><a href="../archives.html">Archives</a></li>
-	<li><a href="https://baty.net/">Baty.net</a></li>
-	<li><a class="icon-font" href="../index.xml"><svg class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16">
-  <path d="M819.157333 1024C819.157333 574.592 449.408 204.8 0 204.8V0c561.706667 0 1024 462.293333 1024 1024h-204.842667zM140.416 743.04a140.8 140.8 0 0 1 140.501333 140.586667A140.928 140.928 0 0 1 140.074667 1024C62.72 1024 0 961.109333 0 883.626667s62.933333-140.544 140.416-140.586667zM678.784 1024h-199.04c0-263.210667-216.533333-479.786667-479.744-479.786667V345.173333c372.352 0 678.784 306.517333 678.784 678.826667z"></path>
-</svg></a></li>
-</ul>
-</nav>
-    <main class="container">
-		<article>
-<header>
-     <h2 class="dayHeader">Sunday, February 27, 2022</h2>
-<div class="post-meta">☁️   Overcast +29°F</div>
-		</header>
-	
 
 
 <div class="postNoTitle">
 
 
-<span class="permalinkHash"><a href="posts/2022/02/27/Part-of-me-still-wants-t.html">#</a></span> <p>Part me still wants to be here. Part of me loves using Tinderbox for everything. Part of me likes the way the rendered site actually works. Is it enough?</p>
+<span class="permalinkHash"><a href="https://notes.baty.net/posts/2022/02/27/Part-of-me-still-wants-t.html">#</a></span> <p>Part me still wants to be here. Part of me loves using Tinderbox for everything. Part of me likes the way the rendered site actually works. Is it enough?</p>
 <p>And why not? It looks good enough. It's fun to make. It lets me use Tinderbox. What more do I want?</p> 
 
 </div>
@@ -220,126 +99,42 @@
 
 
 
-      </article>
-    </main>
-	<!--  Tinderbox: ^title -->
-<footer>
-	<span>© Jack Baty 2013-2022</span> | 
-	<span>Made with ♥ using <a href="http://www.eastgate.com/Tinderbox/">Tinderbox</a></span>
-</footer>
-  </body>
-</html><!doctype html>
-<html lang="en">
-  <head>
-	<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="preconnect" href="https://fonts.googleapis.com"> 
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> 
-<link href="//fonts.googleapis.com/css?family=Ubuntu:400,500i,700" rel="stylesheet">
-<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@600&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="../assets/css/pico.min.css">
-<link rel="stylesheet" href="../assets/css/custom.css">
+    ]]></description>
+<guid>https://notes.baty.net/posts/2022/02/27.html</guid>
+</item>
+<item>
+<title>Sunday, February 20, 2022</title>
+<link>https://notes.baty.netposts/2022/02/20.html</link>
+<pubDate>Sun, 20 Feb 2022 08:32:48 -0500</pubDate>
+<description><![CDATA[
 
-<title>RSS - Jack Baty</title>
-
-<script defer data-domain="baty.blog" src="https://plausible.io/js/plausible.js"></script>
-
-
-  </head>
-  <body>
-	<div class="hero-image">
-  <div class="hero-text">
-    <h1><a href="/">Jack Baty</a></h1>
-    <h3>Director of Unspecified Services</h3>
-  </div>
-</div>
-<nav>
-<ul>
-	<li><a href="../index.html">Home</a></li>
-	<li><a href="../about.html">About</a></li>
-	<li><a href="../archives.html">Archives</a></li>
-	<li><a href="https://baty.net/">Baty.net</a></li>
-	<li><a class="icon-font" href="../index.xml"><svg class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16">
-  <path d="M819.157333 1024C819.157333 574.592 449.408 204.8 0 204.8V0c561.706667 0 1024 462.293333 1024 1024h-204.842667zM140.416 743.04a140.8 140.8 0 0 1 140.501333 140.586667A140.928 140.928 0 0 1 140.074667 1024C62.72 1024 0 961.109333 0 883.626667s62.933333-140.544 140.416-140.586667zM678.784 1024h-199.04c0-263.210667-216.533333-479.786667-479.744-479.786667V345.173333c372.352 0 678.784 306.517333 678.784 678.826667z"></path>
-</svg></a></li>
-</ul>
-</nav>
-    <main class="container">
-		<article>
-<header>
-     <h2 class="dayHeader">Sunday, February 20, 2022</h2>
-<div class="post-meta">⛅️  Partly cloudy +17°F</div>
-		</header>
-	
 
 
 <div class="postNoTitle">
 
 
-<span class="permalinkHash"><a href="posts/2022/02/20/Good-morning.html">#</a></span> <p>Good morning. It's now 8:30 am and why am I typing in Tinderbox right now?</p> 
+<span class="permalinkHash"><a href="https://notes.baty.net/posts/2022/02/20/Good-morning.html">#</a></span> <p>Good morning. It's now 8:30 am and why am I typing in Tinderbox right now?</p> 
 
 </div>
 
 
 
 
-      </article>
-    </main>
-	<!--  Tinderbox: ^title -->
-<footer>
-	<span>© Jack Baty 2013-2022</span> | 
-	<span>Made with ♥ using <a href="http://www.eastgate.com/Tinderbox/">Tinderbox</a></span>
-</footer>
-  </body>
-</html><!doctype html>
-<html lang="en">
-  <head>
-	<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="preconnect" href="https://fonts.googleapis.com"> 
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> 
-<link href="//fonts.googleapis.com/css?family=Ubuntu:400,500i,700" rel="stylesheet">
-<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@600&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="../assets/css/pico.min.css">
-<link rel="stylesheet" href="../assets/css/custom.css">
+    ]]></description>
+<guid>https://notes.baty.net/posts/2022/02/20.html</guid>
+</item>
+<item>
+<title>Saturday, February 19, 2022</title>
+<link>https://notes.baty.netposts/2022/02/19.html</link>
+<pubDate>Sat, 19 Feb 2022 11:56:51 -0500</pubDate>
+<description><![CDATA[
 
-<title>RSS - Jack Baty</title>
-
-<script defer data-domain="baty.blog" src="https://plausible.io/js/plausible.js"></script>
-
-
-  </head>
-  <body>
-	<div class="hero-image">
-  <div class="hero-text">
-    <h1><a href="/">Jack Baty</a></h1>
-    <h3>Director of Unspecified Services</h3>
-  </div>
-</div>
-<nav>
-<ul>
-	<li><a href="../index.html">Home</a></li>
-	<li><a href="../about.html">About</a></li>
-	<li><a href="../archives.html">Archives</a></li>
-	<li><a href="https://baty.net/">Baty.net</a></li>
-	<li><a class="icon-font" href="../index.xml"><svg class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16">
-  <path d="M819.157333 1024C819.157333 574.592 449.408 204.8 0 204.8V0c561.706667 0 1024 462.293333 1024 1024h-204.842667zM140.416 743.04a140.8 140.8 0 0 1 140.501333 140.586667A140.928 140.928 0 0 1 140.074667 1024C62.72 1024 0 961.109333 0 883.626667s62.933333-140.544 140.416-140.586667zM678.784 1024h-199.04c0-263.210667-216.533333-479.786667-479.744-479.786667V345.173333c372.352 0 678.784 306.517333 678.784 678.826667z"></path>
-</svg></a></li>
-</ul>
-</nav>
-    <main class="container">
-		<article>
-<header>
-     <h2 class="dayHeader">Saturday, February 19, 2022</h2>
-<div class="post-meta"></div>
-		</header>
-	
 
 
 <div class="postNoTitle">
 
 
-<span class="permalinkHash"><a href="posts/2022/02/19/Hi.html">#</a></span> <p>Hi there. How've ya been? I'm still mostly at Write.as/jackbaty and Rudimentarylathe.wiki right now, but who knows when or if I'll decide that Tinderbox is once again the right way to manage and publish my notes?</p>
+<span class="permalinkHash"><a href="https://notes.baty.net/posts/2022/02/19/Hi.html">#</a></span> <p>Hi there. How've ya been? I'm still mostly at Write.as/jackbaty and Rudimentarylathe.wiki right now, but who knows when or if I'll decide that Tinderbox is once again the right way to manage and publish my notes?</p>
  
 
 </div>
@@ -347,63 +142,21 @@
 
 
 
-      </article>
-    </main>
-	<!--  Tinderbox: ^title -->
-<footer>
-	<span>© Jack Baty 2013-2022</span> | 
-	<span>Made with ♥ using <a href="http://www.eastgate.com/Tinderbox/">Tinderbox</a></span>
-</footer>
-  </body>
-</html><!doctype html>
-<html lang="en">
-  <head>
-	<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="preconnect" href="https://fonts.googleapis.com"> 
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> 
-<link href="//fonts.googleapis.com/css?family=Ubuntu:400,500i,700" rel="stylesheet">
-<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@600&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="../assets/css/pico.min.css">
-<link rel="stylesheet" href="../assets/css/custom.css">
+    ]]></description>
+<guid>https://notes.baty.net/posts/2022/02/19.html</guid>
+</item>
+<item>
+<title>Friday, February 4, 2022</title>
+<link>https://notes.baty.netposts/2022/02/04.html</link>
+<pubDate>Fri, 4 Feb 2022 05:22:19 -0500</pubDate>
+<description><![CDATA[
 
-<title>RSS - Jack Baty</title>
-
-<script defer data-domain="baty.blog" src="https://plausible.io/js/plausible.js"></script>
-
-
-  </head>
-  <body>
-	<div class="hero-image">
-  <div class="hero-text">
-    <h1><a href="/">Jack Baty</a></h1>
-    <h3>Director of Unspecified Services</h3>
-  </div>
-</div>
-<nav>
-<ul>
-	<li><a href="../index.html">Home</a></li>
-	<li><a href="../about.html">About</a></li>
-	<li><a href="../archives.html">Archives</a></li>
-	<li><a href="https://baty.net/">Baty.net</a></li>
-	<li><a class="icon-font" href="../index.xml"><svg class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16">
-  <path d="M819.157333 1024C819.157333 574.592 449.408 204.8 0 204.8V0c561.706667 0 1024 462.293333 1024 1024h-204.842667zM140.416 743.04a140.8 140.8 0 0 1 140.501333 140.586667A140.928 140.928 0 0 1 140.074667 1024C62.72 1024 0 961.109333 0 883.626667s62.933333-140.544 140.416-140.586667zM678.784 1024h-199.04c0-263.210667-216.533333-479.786667-479.744-479.786667V345.173333c372.352 0 678.784 306.517333 678.784 678.826667z"></path>
-</svg></a></li>
-</ul>
-</nav>
-    <main class="container">
-		<article>
-<header>
-     <h2 class="dayHeader">Friday, February 4, 2022</h2>
-<div class="post-meta">☀️   Clear +5°F</div>
-		</header>
-	
 
 
 <div class="postNoTitle">
 
 
-<span class="permalinkHash"><a href="posts/2022/02/04/Ping.html">#</a></span> <p>👋</p>
+<span class="permalinkHash"><a href="https://notes.baty.net/posts/2022/02/04/Ping.html">#</a></span> <p>👋</p>
 <p>Just missing Tinderbox after my recent foray into Linux. I'm still blogging primarily at <a href="https://baty.blog">baty.blog</a>, but it's nice to say "hello" here once in a while.</p> 
 
 </div>
@@ -416,133 +169,49 @@
 <div class="postNoTitle">
 
 
-<span class="permalinkHash"><a href="posts/2022/02/04/Am-I-bored-yet-.html">#</a></span> <p>My wife asked me if I was getting bored with not working. Fair question! The answer is that, no, I'm not getting bored. But I am getting restless.</p> 
+<span class="permalinkHash"><a href="https://notes.baty.net/posts/2022/02/04/Am-I-bored-yet-.html">#</a></span> <p>My wife asked me if I was getting bored with not working. Fair question! The answer is that, no, I'm not getting bored. But I am getting restless.</p> 
 
 </div>
 
 
 
 
-      </article>
-    </main>
-	<!--  Tinderbox: ^title -->
-<footer>
-	<span>© Jack Baty 2013-2022</span> | 
-	<span>Made with ♥ using <a href="http://www.eastgate.com/Tinderbox/">Tinderbox</a></span>
-</footer>
-  </body>
-</html><!doctype html>
-<html lang="en">
-  <head>
-	<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="preconnect" href="https://fonts.googleapis.com"> 
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> 
-<link href="//fonts.googleapis.com/css?family=Ubuntu:400,500i,700" rel="stylesheet">
-<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@600&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="../assets/css/pico.min.css">
-<link rel="stylesheet" href="../assets/css/custom.css">
+    ]]></description>
+<guid>https://notes.baty.net/posts/2022/02/04.html</guid>
+</item>
+<item>
+<title>Tuesday, January 18, 2022</title>
+<link>https://notes.baty.netposts/2022/01/18.html</link>
+<pubDate>Tue, 18 Jan 2022 04:26:49 -0500</pubDate>
+<description><![CDATA[
 
-<title>RSS - Jack Baty</title>
-
-<script defer data-domain="baty.blog" src="https://plausible.io/js/plausible.js"></script>
-
-
-  </head>
-  <body>
-	<div class="hero-image">
-  <div class="hero-text">
-    <h1><a href="/">Jack Baty</a></h1>
-    <h3>Director of Unspecified Services</h3>
-  </div>
-</div>
-<nav>
-<ul>
-	<li><a href="../index.html">Home</a></li>
-	<li><a href="../about.html">About</a></li>
-	<li><a href="../archives.html">Archives</a></li>
-	<li><a href="https://baty.net/">Baty.net</a></li>
-	<li><a class="icon-font" href="../index.xml"><svg class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16">
-  <path d="M819.157333 1024C819.157333 574.592 449.408 204.8 0 204.8V0c561.706667 0 1024 462.293333 1024 1024h-204.842667zM140.416 743.04a140.8 140.8 0 0 1 140.501333 140.586667A140.928 140.928 0 0 1 140.074667 1024C62.72 1024 0 961.109333 0 883.626667s62.933333-140.544 140.416-140.586667zM678.784 1024h-199.04c0-263.210667-216.533333-479.786667-479.744-479.786667V345.173333c372.352 0 678.784 306.517333 678.784 678.826667z"></path>
-</svg></a></li>
-</ul>
-</nav>
-    <main class="container">
-		<article>
-<header>
-     <h2 class="dayHeader">Tuesday, January 18, 2022</h2>
-<div class="post-meta"></div>
-		</header>
-	
 
 
 <div class="postNoTitle">
 
 
-<span class="permalinkHash"><a href="posts/2022/01/18/Good-morning.html">#</a></span> <p>I recently wondered <a href="posts/2022/01/13/How-long-before-I-am-bac.html">How long before I am back in Emacs</a>. The answer? <a href="https://baty.blog">Five days</a>.</p> 
+<span class="permalinkHash"><a href="https://notes.baty.net/posts/2022/01/18/Good-morning.html">#</a></span> <p>I recently wondered <a href="posts/2022/01/13/How-long-before-I-am-bac.html">How long before I am back in Emacs</a>. The answer? <a href="https://baty.blog">Five days</a>.</p> 
 
 </div>
 
 
 
 
-      </article>
-    </main>
-	<!--  Tinderbox: ^title -->
-<footer>
-	<span>© Jack Baty 2013-2022</span> | 
-	<span>Made with ♥ using <a href="http://www.eastgate.com/Tinderbox/">Tinderbox</a></span>
-</footer>
-  </body>
-</html><!doctype html>
-<html lang="en">
-  <head>
-	<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="preconnect" href="https://fonts.googleapis.com"> 
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> 
-<link href="//fonts.googleapis.com/css?family=Ubuntu:400,500i,700" rel="stylesheet">
-<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@600&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="../assets/css/pico.min.css">
-<link rel="stylesheet" href="../assets/css/custom.css">
+    ]]></description>
+<guid>https://notes.baty.net/posts/2022/01/18.html</guid>
+</item>
+<item>
+<title>Monday, January 17, 2022</title>
+<link>https://notes.baty.netposts/2022/01/17.html</link>
+<pubDate>Mon, 17 Jan 2022 04:17:21 -0500</pubDate>
+<description><![CDATA[
 
-<title>RSS - Jack Baty</title>
-
-<script defer data-domain="baty.blog" src="https://plausible.io/js/plausible.js"></script>
-
-
-  </head>
-  <body>
-	<div class="hero-image">
-  <div class="hero-text">
-    <h1><a href="/">Jack Baty</a></h1>
-    <h3>Director of Unspecified Services</h3>
-  </div>
-</div>
-<nav>
-<ul>
-	<li><a href="../index.html">Home</a></li>
-	<li><a href="../about.html">About</a></li>
-	<li><a href="../archives.html">Archives</a></li>
-	<li><a href="https://baty.net/">Baty.net</a></li>
-	<li><a class="icon-font" href="../index.xml"><svg class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16">
-  <path d="M819.157333 1024C819.157333 574.592 449.408 204.8 0 204.8V0c561.706667 0 1024 462.293333 1024 1024h-204.842667zM140.416 743.04a140.8 140.8 0 0 1 140.501333 140.586667A140.928 140.928 0 0 1 140.074667 1024C62.72 1024 0 961.109333 0 883.626667s62.933333-140.544 140.416-140.586667zM678.784 1024h-199.04c0-263.210667-216.533333-479.786667-479.744-479.786667V345.173333c372.352 0 678.784 306.517333 678.784 678.826667z"></path>
-</svg></a></li>
-</ul>
-</nav>
-    <main class="container">
-		<article>
-<header>
-     <h2 class="dayHeader">Monday, January 17, 2022</h2>
-<div class="post-meta">☁️   Overcast +19°F</div>
-		</header>
-	
 
 
 <div class="postNoTitle">
 
 
-<span class="permalinkHash"><a href="posts/2022/01/17/Good-morning.html">#</a></span> <p>It's 4:15 am and I'm pretty sure I'm not getting enough sleep.</p> 
+<span class="permalinkHash"><a href="https://notes.baty.net/posts/2022/01/17/Good-morning.html">#</a></span> <p>It's 4:15 am and I'm pretty sure I'm not getting enough sleep.</p> 
 
 </div>
 
@@ -554,7 +223,7 @@
 <div class="postNoTitle">
 
 
-<span class="permalinkHash"><a href="posts/2022/01/17/What-do-I-get-in-return-.html">#</a></span> <p>What do I get in return for all the time and thought I put into taking notes? I mean, I put a <i>lot</i> of thought into it. What's in it for me? I've been meticulously recording my meals since December. I can tell you how many times I ate fast food or had pancakes for breakfast. Big whoop! There is almost zero lingering value in doing it other than that it's neat. Is "neat" enough to justify the effort it took to set up the logging process and the ongoing effort of recording every meal? It's fun to set up, but if I'm honest, it's not useful. I don't need more excuses to play with my note-taking tools. I should stop doing it.</p> 
+<span class="permalinkHash"><a href="https://notes.baty.net/posts/2022/01/17/What-do-I-get-in-return-.html">#</a></span> <p>What do I get in return for all the time and thought I put into taking notes? I mean, I put a <i>lot</i> of thought into it. What's in it for me? I've been meticulously recording my meals since December. I can tell you how many times I ate fast food or had pancakes for breakfast. Big whoop! There is almost zero lingering value in doing it other than that it's neat. Is "neat" enough to justify the effort it took to set up the logging process and the ongoing effort of recording every meal? It's fun to set up, but if I'm honest, it's not useful. I don't need more excuses to play with my note-taking tools. I should stop doing it.</p> 
 
 </div>
 
@@ -566,7 +235,7 @@
 <div class="postNoTitle">
 
 
-<span class="permalinkHash"><a href="posts/2022/01/17/Wireless-things-stop-wor.html">#</a></span> <p>Wireless things always stop working eventually.</p> 
+<span class="permalinkHash"><a href="https://notes.baty.net/posts/2022/01/17/Wireless-things-stop-wor.html">#</a></span> <p>Wireless things always stop working eventually.</p> 
 
 </div>
 
@@ -578,70 +247,28 @@
 <div class="postNoTitle">
 
 
-<span class="permalinkHash"><a href="posts/2022/01/17/Engage-.html">#</a></span> <p>It's so prevalent that it mostly goes unnoticed, but the entire internet is a cacophony of people and companies yelling,  "Please engage with me!"</p> 
+<span class="permalinkHash"><a href="https://notes.baty.net/posts/2022/01/17/Engage-.html">#</a></span> <p>It's so prevalent that it mostly goes unnoticed, but the entire internet is a cacophony of people and companies yelling,  "Please engage with me!"</p> 
 
 </div>
 
 
 
 
-      </article>
-    </main>
-	<!--  Tinderbox: ^title -->
-<footer>
-	<span>© Jack Baty 2013-2022</span> | 
-	<span>Made with ♥ using <a href="http://www.eastgate.com/Tinderbox/">Tinderbox</a></span>
-</footer>
-  </body>
-</html><!doctype html>
-<html lang="en">
-  <head>
-	<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="preconnect" href="https://fonts.googleapis.com"> 
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> 
-<link href="//fonts.googleapis.com/css?family=Ubuntu:400,500i,700" rel="stylesheet">
-<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@600&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="../assets/css/pico.min.css">
-<link rel="stylesheet" href="../assets/css/custom.css">
+    ]]></description>
+<guid>https://notes.baty.net/posts/2022/01/17.html</guid>
+</item>
+<item>
+<title>Sunday, January 16, 2022</title>
+<link>https://notes.baty.netposts/2022/01/16.html</link>
+<pubDate>Sun, 16 Jan 2022 05:53:26 -0500</pubDate>
+<description><![CDATA[
 
-<title>RSS - Jack Baty</title>
-
-<script defer data-domain="baty.blog" src="https://plausible.io/js/plausible.js"></script>
-
-
-  </head>
-  <body>
-	<div class="hero-image">
-  <div class="hero-text">
-    <h1><a href="/">Jack Baty</a></h1>
-    <h3>Director of Unspecified Services</h3>
-  </div>
-</div>
-<nav>
-<ul>
-	<li><a href="../index.html">Home</a></li>
-	<li><a href="../about.html">About</a></li>
-	<li><a href="../archives.html">Archives</a></li>
-	<li><a href="https://baty.net/">Baty.net</a></li>
-	<li><a class="icon-font" href="../index.xml"><svg class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16">
-  <path d="M819.157333 1024C819.157333 574.592 449.408 204.8 0 204.8V0c561.706667 0 1024 462.293333 1024 1024h-204.842667zM140.416 743.04a140.8 140.8 0 0 1 140.501333 140.586667A140.928 140.928 0 0 1 140.074667 1024C62.72 1024 0 961.109333 0 883.626667s62.933333-140.544 140.416-140.586667zM678.784 1024h-199.04c0-263.210667-216.533333-479.786667-479.744-479.786667V345.173333c372.352 0 678.784 306.517333 678.784 678.826667z"></path>
-</svg></a></li>
-</ul>
-</nav>
-    <main class="container">
-		<article>
-<header>
-     <h2 class="dayHeader">Sunday, January 16, 2022</h2>
-<div class="post-meta">☀️ Clear +3°F</div>
-		</header>
-	
 
 
 <div class="postNoTitle">
 
 
-<span class="permalinkHash"><a href="posts/2022/01/16/Good-morning.html">#</a></span> <p>Good morning. Stand back, I'm about to make pancakes. While I'm away, here's a photo of G and A.</p>
+<span class="permalinkHash"><a href="https://notes.baty.net/posts/2022/01/16/Good-morning.html">#</a></span> <p>Good morning. Stand back, I'm about to make pancakes. While I'm away, here's a photo of G and A.</p>
 <img src="/img/2022/20220103-Q1000027-Edit.jpg"> 
 
 </div>
@@ -654,7 +281,7 @@
 <div class="postNoTitle">
 
 
-<span class="permalinkHash"><a href="posts/2022/01/16/We-cannot-know-what-moti.html">#</a></span> <p>A frequent mistake we make is to believe that we can know the intentions of others.</p> 
+<span class="permalinkHash"><a href="https://notes.baty.net/posts/2022/01/16/We-cannot-know-what-moti.html">#</a></span> <p>A frequent mistake we make is to believe that we can know the intentions of others.</p> 
 
 </div>
 
@@ -666,7 +293,7 @@
 <div class="postNoTitle">
 
 
-<span class="permalinkHash"><a href="posts/2022/01/16/Using-what-I-have.html">#</a></span> <p>After spending a week getting this Tinderbox-generated blog configured just so, I started tinkering with Emacs and ox-hugo again yesterday. Why? I think instead I should use what I have. It's pretty dialed in, so run with it, ok?</p> 
+<span class="permalinkHash"><a href="https://notes.baty.net/posts/2022/01/16/Using-what-I-have.html">#</a></span> <p>After spending a week getting this Tinderbox-generated blog configured just so, I started tinkering with Emacs and ox-hugo again yesterday. Why? I think instead I should use what I have. It's pretty dialed in, so run with it, ok?</p> 
 
 </div>
 
@@ -678,7 +305,7 @@
 <div class="postNoTitle">
 
 
-<span class="permalinkHash"><a href="posts/2022/01/16/Two-hours-a-day-.html">#</a></span> <p>What would I do with my time if I only allowed myself two hours at the computer each day? I'm afraid to find out. Or, perhaps more accurately, I'm afraid to try. </p> 
+<span class="permalinkHash"><a href="https://notes.baty.net/posts/2022/01/16/Two-hours-a-day-.html">#</a></span> <p>What would I do with my time if I only allowed myself two hours at the computer each day? I'm afraid to find out. Or, perhaps more accurately, I'm afraid to try. </p> 
 
 </div>
 
@@ -690,12 +317,11 @@
 <div class="postNoTitle">
 
 <figure>
-		<img src="/img/2022/20220104-R0002005.jpg" alt="Sensor cleaning" class="postimage">
-
+		<img src="https://notes.baty.net/img/2022/20220104-R0002005.jpg" alt="" class="postimage">
 </figure>
 
 
-<span class="permalinkHash"><a href="posts/2022/01/16/Sensor-cleaning.html">#</a></span> <p>I recently (accidentally) spit on my SL2-S's sensor while trying to blow some dust off it. (Don't do that). The first swab cleaning didn't remove the smudges. I just tried again, and really "dug in there" with the swab. It worked. Whew! That was scary.</p> 
+<span class="permalinkHash"><a href="https://notes.baty.net/posts/2022/01/16/Sensor-cleaning.html">#</a></span> <p>I recently (accidentally) spit on my SL2-S's sensor while trying to blow some dust off it. (Don't do that). The first swab cleaning didn't remove the smudges. I just tried again, and really "dug in there" with the swab. It worked. Whew! That was scary.</p> 
 
 </div>
 
@@ -707,7 +333,7 @@
 <div class="postNoTitle">
 
 
-<span class="permalinkHash"><a href="posts/2022/01/16/Vehicles-for-creativity.html">#</a></span> <p>I am surrounded by creative vehicles: Cameras, film, paint supplies, drawing tools, notebooks, pens, a darkroom, typewriters, and so on. They all spend most of the time either parked or up on blocks. To continue stretching the metaphor...I should just hop in and drive.</p> 
+<span class="permalinkHash"><a href="https://notes.baty.net/posts/2022/01/16/Vehicles-for-creativity.html">#</a></span> <p>I am surrounded by creative vehicles: Cameras, film, paint supplies, drawing tools, notebooks, pens, a darkroom, typewriters, and so on. They all spend most of the time either parked or up on blocks. To continue stretching the metaphor...I should just hop in and drive.</p> 
 
 </div>
 
@@ -719,70 +345,28 @@
 <div class="postNoTitle">
 
 
-<span class="permalinkHash"><a href="posts/2022/01/16/A-deliberate-lack-of-rig.html">#</a></span> <p>I'm learning that I avoid anything that requires a significant amount of rigor. A deliberate lack of rigor is more my style.</p> 
+<span class="permalinkHash"><a href="https://notes.baty.net/posts/2022/01/16/A-deliberate-lack-of-rig.html">#</a></span> <p>I'm learning that I avoid anything that requires a significant amount of rigor. A deliberate lack of rigor is more my style.</p> 
 
 </div>
 
 
 
 
-      </article>
-    </main>
-	<!--  Tinderbox: ^title -->
-<footer>
-	<span>© Jack Baty 2013-2022</span> | 
-	<span>Made with ♥ using <a href="http://www.eastgate.com/Tinderbox/">Tinderbox</a></span>
-</footer>
-  </body>
-</html><!doctype html>
-<html lang="en">
-  <head>
-	<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="preconnect" href="https://fonts.googleapis.com"> 
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> 
-<link href="//fonts.googleapis.com/css?family=Ubuntu:400,500i,700" rel="stylesheet">
-<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@600&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="../assets/css/pico.min.css">
-<link rel="stylesheet" href="../assets/css/custom.css">
+    ]]></description>
+<guid>https://notes.baty.net/posts/2022/01/16.html</guid>
+</item>
+<item>
+<title>Saturday, January 15, 2022</title>
+<link>https://notes.baty.netposts/2022/01/15.html</link>
+<pubDate>Sat, 15 Jan 2022 05:35:17 -0500</pubDate>
+<description><![CDATA[
 
-<title>RSS - Jack Baty</title>
-
-<script defer data-domain="baty.blog" src="https://plausible.io/js/plausible.js"></script>
-
-
-  </head>
-  <body>
-	<div class="hero-image">
-  <div class="hero-text">
-    <h1><a href="/">Jack Baty</a></h1>
-    <h3>Director of Unspecified Services</h3>
-  </div>
-</div>
-<nav>
-<ul>
-	<li><a href="../index.html">Home</a></li>
-	<li><a href="../about.html">About</a></li>
-	<li><a href="../archives.html">Archives</a></li>
-	<li><a href="https://baty.net/">Baty.net</a></li>
-	<li><a class="icon-font" href="../index.xml"><svg class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16">
-  <path d="M819.157333 1024C819.157333 574.592 449.408 204.8 0 204.8V0c561.706667 0 1024 462.293333 1024 1024h-204.842667zM140.416 743.04a140.8 140.8 0 0 1 140.501333 140.586667A140.928 140.928 0 0 1 140.074667 1024C62.72 1024 0 961.109333 0 883.626667s62.933333-140.544 140.416-140.586667zM678.784 1024h-199.04c0-263.210667-216.533333-479.786667-479.744-479.786667V345.173333c372.352 0 678.784 306.517333 678.784 678.826667z"></path>
-</svg></a></li>
-</ul>
-</nav>
-    <main class="container">
-		<article>
-<header>
-     <h2 class="dayHeader">Saturday, January 15, 2022</h2>
-<div class="post-meta">☀️ Clear +9°F</div>
-		</header>
-	
 
 
 <div class="postNoTitle">
 
 
-<span class="permalinkHash"><a href="posts/2022/01/15/Good-morning.html">#</a></span> <p>Good morning, we're halfway through January already. The Tempus, she sure Fugits doesn't she? Let's start your day with a photo of me from a few years ago. Note that this was not some sort of costume. I actually walked around Busch Gardens looking like this.<p></p>
+<span class="permalinkHash"><a href="https://notes.baty.net/posts/2022/01/15/Good-morning.html">#</a></span> <p>Good morning, we're halfway through January already. The Tempus, she sure Fugits doesn't she? Let's start your day with a photo of me from a few years ago. Note that this was not some sort of costume. I actually walked around Busch Gardens looking like this.<p></p>
 <img src="https://photos.smugmug.com/Blog-Photos/i-qTdV99W/0/e8fe128e/L/Image-1-L.jpg" alt="Jack with birds">
  
 
@@ -796,7 +380,7 @@
 <div class="postNoTitle">
 
 
-<span class="permalinkHash"><a href="posts/2022/01/15/From-Readwise-to-org-roa.html">#</a></span> <p>Yesterday, I canceled my <a href="https://readwise.io">Readwise</a> subscription because, although it's cool, I wasn't getting much tangible value from it. Today, I discovered  <code>org-roam-node-random</code>  and it's kind of good enough as a replacement.</p>
+<span class="permalinkHash"><a href="https://notes.baty.net/posts/2022/01/15/From-Readwise-to-org-roa.html">#</a></span> <p>Yesterday, I canceled my <a href="https://readwise.io">Readwise</a> subscription because, although it's cool, I wasn't getting much tangible value from it. Today, I discovered  <code>org-roam-node-random</code>  and it's kind of good enough as a replacement.</p>
  
 
 </div>
@@ -809,7 +393,7 @@
 <div class="postNoTitle">
 
 
-<span class="permalinkHash"><a href="posts/2022/01/15/Org-roam-s-future.html">#</a></span> <p>This is how I like software to be built:</p>
+<span class="permalinkHash"><a href="https://notes.baty.net/posts/2022/01/15/Org-roam-s-future.html">#</a></span> <p>This is how I like software to be built:</p>
 
 <blockquote>
 <p>This is an example of how Org-roam will evolve. It always begins with a personal experiment based on literature, and once I’ve concluded that it works, I extract it in its minimal form and make it available for all to use.</p>
@@ -821,15 +405,10 @@
 
 
 
-      </article>
-    </main>
-	<!--  Tinderbox: ^title -->
-<footer>
-	<span>© Jack Baty 2013-2022</span> | 
-	<span>Made with ♥ using <a href="http://www.eastgate.com/Tinderbox/">Tinderbox</a></span>
-</footer>
-  </body>
-</html>
+    ]]></description>
+<guid>https://notes.baty.net/posts/2022/01/15.html</guid>
+</item>
+
 </channel>
 
 </rss>
