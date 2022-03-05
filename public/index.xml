@@ -3,7 +3,7 @@
 
 <channel>
 <title>Jack Baty</title>
-<link>https://tb.baty.net</link>
+<link>https://notes.baty.net</link>
 <description>Daily notes by Jack Baty</description>
 	<!doctype html>
 <html lang="en">
@@ -50,6 +50,18 @@
 	
 
 
+<div class="postNoTitle">
+
+
+<span class="permalinkHash"><a href="posts/2022/03/05/notes-baty-net.html">#</a></span> <p>I keep telling myself I'm never again going to change the domain name on an establishes website. And yet, I moved this Tinderbox-generated site from <a href="http://notes.baty.net">notes.baty.net</a> to <a href="http://daily.baty.net">daily.baty.net</a> to <a href="http://tb.baty.net">tb.baty.net</a> and now back to <a href="http://notes.baty.net">notes.baty.net</a>. Let's leave it alone now, m'kay? (It'll be broken there until DNS catches up.)</p> 
+
+</div>
+
+
+
+
+
+
 
 	<h3><a href="posts/2022/03/05/What-if-I-used-Tinderbox.html">What if I used Tinderbox to generate Hugo-compatible Markdown files?</a></h3>
 
@@ -58,7 +70,8 @@
 
 	<img src="/img/small/tinderboxicon.png" alt="What if I used Tinderbox to generate Hugo-compatible Markdown files?" class="sideImage">
 
-	<p>The tricky part with using Tinderbox to generate websites is that the export features are almost too powerful and configurable. I've gotten things arranged the way I want them here, but it feels fragile. I hesitate to tweak any of the templates for fear of breaking the site.</p>
+	<p>I'm <a href="posts/2022/02/28/Good-morning.html">still thinking about this</a>.</p>
+<p>The tricky part with using Tinderbox to generate websites is that the export features are almost too powerful and configurable. I've gotten things arranged the way I want them here, but it feels fragile. I hesitate to tweak any of the templates for fear of breaking the site.</p>
 <p>What if, instead of exporting HTML files from Tinderbox, I export Hugo-compatible Markdown files? I could use Tinderbox as the authoring, organizing, and linking environment, and then let Hugo generate the actual website.</p>
 <p>The upside is that Hugo templates are <i>made</i> for creating websites/blogs. All the tagging, markup, RSS feeds, and other bloggy stuff is already built. And I can use any of the many nice themes instead of this cobbled thing I'm using now.</p>
 <p>On the other hand, it's a pretty big moving part. And is generating Markdown any simpler than HTML? Do I end up with the same fragile process, <i>plus</i> the need for Hugo?</p>
