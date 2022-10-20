@@ -48,7 +48,7 @@
 
 <span class="permalinkHash"><a href="29/Good-morning.html">#</a></span> <p>Year: ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░ 99%</p>
 
-<p>Good morning. It's 4:25 am and let's try and not waste an entire day. <i>Another</i> entire day.</p> 
+<p>Good morning. It's 4:25 am and let's try and not waste an entire day. Another entire day.</p> 
 
 </div>
 
@@ -81,9 +81,9 @@
 
 	<p>I have a top-level Agent in my Tinderbox daybook named "Today". All it does is collect notes using a <code>$Date=date(today);</code> query.  Given that I'm putting both blog content and personal logging into the document, the Today container is a handy way to see everything going on today. I'll probably modify it to use a date attribute so I can easily jump to any day and see what I wrote then. Neat.</p>
 <p><b>Update</b>: I did change the agent query to use my $Date attribute, like this:</p>
-<p><code>$Date=$Date(agent);</code></p>
+<h3><code>$Date=$Date(agent);</code></h3>
 <p>I also changed the agent's $DisplayExpression to reflect the day: </p>
-<p><code>"Created " + if($Date==date(today)){"Today"} else {$Date.format("l");}</code></p>
+<h3><code>"Created " + if($Date==date(today)){"Today"} else {$Date.format("l");}</code></h3>
 <p>So now I just set the $Date attribute of the "Today" agent to any date and it collects all the dated content created that day.</p>
 	
 </section>
@@ -149,7 +149,7 @@
 	<p>I'm rebuilding my Tinderbox "Dashboard" for the new year. I neglected the whole Daybook last year but I'm determined to not let that happen this year.</p>
 <p>The dashboard is a Tinderbox "Map" view littered with agents showing various summary and aggregate information from the entire document.</p>
 <p>In the "Days remaining this year" note, I used to only show the resulting integer. I'd forgotten that in map view, notes can visually plot the values of various attributes (as in the Weight Graph, shown). The note's edict (an edict is like a rule, but runs less often) sets the note's $Subtitle to the number of days remaining in the year, like so:</p>
-<p><code>$Subtitle=days(date("today"),date("12/31/2021 6:00 PM"))</code></p>
+<h3><code>$Subtitle=days(date("today"),date("12/31/2021 6:00 PM"))</code></h3>
 <p>I cheated in the screenshot using "42" because with only 2 days left this year, it doesn't make for a great demo. The inspector for that note looks like this:</p>
 <img src="/img/2021/20211229-inspector.png">
 <p>The note uses the built-in "Dashboard" prototype to make things prettier.</p>

@@ -6,9 +6,67 @@
 <link>https://notes.baty.net</link>
 <description>Notes by Jack Baty</description>
 	<item>
+<title>Thursday, October 13, 2022</title>
+<link>https://notes.baty.netposts/2022/10/13.html</link>
+<pubDate>Thu, 13 Oct 2022 05:21:35 -0400</pubDate>
+<description><![CDATA[
+
+
+
+<div class="postNoTitle">
+
+
+<span class="permalinkHash"><a href="https://notes.baty.net/posts/2022/10/13/Who-loves-Tinderbox-I-do.html">#</a></span> <p>Such a deep, rich, powerful bit of software. I sometimes stop using it for various reas...SQUIRREL!...ons. But I always come back.</p>
+ 
+
+</div>
+
+
+
+
+
+
+<div class="postNoTitle">
+
+
+<span class="permalinkHash"><a href="https://notes.baty.net/posts/2022/10/13/I-really-want-the-new-Le.html">#</a></span> <p>Wow. I didn't know I wanted a <a href="https://leica-camera.com/en-US/photography/cameras/m/m6">new Leica M6</a> until I saw it.</p>
+<p>
+<img src="posts/2022/10/13/I-really-want-the-new-Le.jpg" alt="" >
+￼</p> 
+
+</div>
+
+
+
+
+    ]]></description>
+<guid>https://notes.baty.net/posts/2022/10/13.html</guid>
+</item>
+<item>
+<title>Thursday, April 21, 2022</title>
+<link>https://notes.baty.netposts/2022/03/21.html</link>
+<pubDate>Thu, 21 Apr 2022 10:40:32 -0400</pubDate>
+<description><![CDATA[
+
+
+
+<div class="postNoTitle">
+
+
+<span class="permalinkHash"><a href="https://notes.baty.net/posts/2022/03/21/Mic-check.html">#</a></span> <p>Hello, hello?</p> 
+
+</div>
+
+
+
+
+    ]]></description>
+<guid>https://notes.baty.net/posts/2022/03/21.html</guid>
+</item>
+<item>
 <title>Sunday, March 6, 2022</title>
 <link>https://notes.baty.netposts/2022/03/06.html</link>
-<pubDate>Sun, 6 Mar 2022 04:20:34 -0500</pubDate>
+<pubDate>Sun, 6 Mar 2022 04:20:34 -0400</pubDate>
 <description><![CDATA[
 
 
@@ -41,7 +99,7 @@
 <div class="postNoTitle">
 
 
-<span class="permalinkHash"><a href="https://notes.baty.net/posts/2022/03/06/Speaking-of-where-I-like.html">#</a></span> <p>And speaking of "writing where you like to write", I like to write just about everywhere, depending on my mood. Yesterday I felt like writing in Tinderbox, so here we are. Today, I'm more inclined to Emacs, so the rest of today will probably go over on daily.baty.net. </p> 
+<span class="permalinkHash"><a href="https://notes.baty.net/posts/2022/03/06/Speaking-of-where-I-like.html">#</a></span> <p>And speaking of "writing where you like to write", I like to write just about everywhere, depending on my mood. Yesterday I felt like writing in Tinderbox, so here we are. Today, I'm more inclined to Emacs, so the rest of today will probably go over on <a href="http://daily.baty.net">daily.baty.net</a>. </p> 
 
 </div>
 
@@ -54,7 +112,7 @@
 <item>
 <title>Saturday, March 5, 2022</title>
 <link>https://notes.baty.netposts/2022/03/05.html</link>
-<pubDate>Sat, 5 Mar 2022 07:06:56 -0500</pubDate>
+<pubDate>Sat, 5 Mar 2022 07:06:56 -0400</pubDate>
 <description><![CDATA[
 
 
@@ -99,8 +157,8 @@
 	<p>I'm <a href="posts/2022/02/28/Good-morning.html">still thinking about this</a>.</p>
 <p>The tricky part with using Tinderbox to generate websites is that the export features are almost too powerful and configurable. I've gotten things arranged the way I want them here, but it feels fragile. I hesitate to tweak any of the templates for fear of breaking the site.</p>
 <p>What if, instead of exporting HTML files from Tinderbox, I export Hugo-compatible Markdown files? I could use Tinderbox as the authoring, organizing, and linking environment, and then let Hugo generate the actual website.</p>
-<p>The upside is that Hugo templates are <i>made</i> for creating websites/blogs. All the tagging, markup, RSS feeds, and other bloggy stuff is already built. And I can use any of the many nice themes instead of this cobbled thing I'm using now.</p>
-<p>On the other hand, it's a pretty big moving part. And is generating Markdown any simpler than HTML? Do I end up with the same fragile process, <i>plus</i> the need for Hugo?</p>
+<p>The upside is that Hugo templates are made for creating websites/blogs. All the tagging, markup, RSS feeds, and other bloggy stuff is already built. And I can use any of the many nice themes instead of this cobbled thing I'm using now.</p>
+<p>On the other hand, it's a pretty big moving part. And is generating Markdown any simpler than HTML? Do I end up with the same fragile process, plus the need for Hugo?</p>
 	
 </section>
 
@@ -113,7 +171,7 @@
 <item>
 <title>Monday, February 28, 2022</title>
 <link>https://notes.baty.netposts/2022/02/28.html</link>
-<pubDate>Mon, 28 Feb 2022 04:25:46 -0500</pubDate>
+<pubDate>Mon, 28 Feb 2022 04:25:46 -0400</pubDate>
 <description><![CDATA[
 
 
@@ -146,7 +204,7 @@
 <item>
 <title>Sunday, February 27, 2022</title>
 <link>https://notes.baty.netposts/2022/02/27.html</link>
-<pubDate>Sun, 27 Feb 2022 20:25:02 -0500</pubDate>
+<pubDate>Sun, 27 Feb 2022 20:25:02 -0400</pubDate>
 <description><![CDATA[
 
 
@@ -168,7 +226,7 @@
 <item>
 <title>Sunday, February 20, 2022</title>
 <link>https://notes.baty.netposts/2022/02/20.html</link>
-<pubDate>Sun, 20 Feb 2022 08:32:48 -0500</pubDate>
+<pubDate>Sun, 20 Feb 2022 08:32:48 -0400</pubDate>
 <description><![CDATA[
 
 
@@ -189,7 +247,7 @@
 <item>
 <title>Saturday, February 19, 2022</title>
 <link>https://notes.baty.netposts/2022/02/19.html</link>
-<pubDate>Sat, 19 Feb 2022 11:56:51 -0500</pubDate>
+<pubDate>Sat, 19 Feb 2022 11:56:51 -0400</pubDate>
 <description><![CDATA[
 
 
@@ -211,7 +269,7 @@
 <item>
 <title>Friday, February 4, 2022</title>
 <link>https://notes.baty.netposts/2022/02/04.html</link>
-<pubDate>Fri, 4 Feb 2022 05:22:19 -0500</pubDate>
+<pubDate>Fri, 4 Feb 2022 05:22:19 -0400</pubDate>
 <description><![CDATA[
 
 
@@ -219,7 +277,7 @@
 <div class="postNoTitle">
 
 
-<span class="permalinkHash"><a href="https://notes.baty.net/posts/2022/02/04/Ping.html">#</a></span> <p>👋</p>
+<span class="permalinkHash"><a href="https://notes.baty.net/posts/2022/02/04/Ping.html">#</a></span> <h3>👋</h3>
 <p>Just missing Tinderbox after my recent foray into Linux. I'm still blogging primarily at <a href="https://baty.blog">baty.blog</a>, but it's nice to say "hello" here once in a while.</p> 
 
 </div>
@@ -245,7 +303,7 @@
 <item>
 <title>Tuesday, January 18, 2022</title>
 <link>https://notes.baty.netposts/2022/01/18.html</link>
-<pubDate>Tue, 18 Jan 2022 04:26:49 -0500</pubDate>
+<pubDate>Tue, 18 Jan 2022 04:26:49 -0400</pubDate>
 <description><![CDATA[
 
 
@@ -262,161 +320,6 @@
 
     ]]></description>
 <guid>https://notes.baty.net/posts/2022/01/18.html</guid>
-</item>
-<item>
-<title>Monday, January 17, 2022</title>
-<link>https://notes.baty.netposts/2022/01/17.html</link>
-<pubDate>Mon, 17 Jan 2022 04:17:21 -0500</pubDate>
-<description><![CDATA[
-
-
-
-<div class="postNoTitle">
-
-
-<span class="permalinkHash"><a href="https://notes.baty.net/posts/2022/01/17/Good-morning.html">#</a></span> <p>It's 4:15 am and I'm pretty sure I'm not getting enough sleep.</p> 
-
-</div>
-
-
-
-
-
-
-<div class="postNoTitle">
-
-
-<span class="permalinkHash"><a href="https://notes.baty.net/posts/2022/01/17/What-do-I-get-in-return-.html">#</a></span> <p>What do I get in return for all the time and thought I put into taking notes? I mean, I put a <i>lot</i> of thought into it. What's in it for me? I've been meticulously recording my meals since December. I can tell you how many times I ate fast food or had pancakes for breakfast. Big whoop! There is almost zero lingering value in doing it other than that it's neat. Is "neat" enough to justify the effort it took to set up the logging process and the ongoing effort of recording every meal? It's fun to set up, but if I'm honest, it's not useful. I don't need more excuses to play with my note-taking tools. I should stop doing it.</p> 
-
-</div>
-
-
-
-
-
-
-<div class="postNoTitle">
-
-
-<span class="permalinkHash"><a href="https://notes.baty.net/posts/2022/01/17/Wireless-things-stop-wor.html">#</a></span> <p>Wireless things always stop working eventually.</p> 
-
-</div>
-
-
-
-
-
-
-<div class="postNoTitle">
-
-
-<span class="permalinkHash"><a href="https://notes.baty.net/posts/2022/01/17/Engage-.html">#</a></span> <p>It's so prevalent that it mostly goes unnoticed, but the entire internet is a cacophony of people and companies yelling,  "Please engage with me!"</p> 
-
-</div>
-
-
-
-
-    ]]></description>
-<guid>https://notes.baty.net/posts/2022/01/17.html</guid>
-</item>
-<item>
-<title>Sunday, January 16, 2022</title>
-<link>https://notes.baty.netposts/2022/01/16.html</link>
-<pubDate>Sun, 16 Jan 2022 05:53:26 -0500</pubDate>
-<description><![CDATA[
-
-
-
-<div class="postNoTitle">
-
-
-<span class="permalinkHash"><a href="https://notes.baty.net/posts/2022/01/16/Good-morning.html">#</a></span> <p>Good morning. Stand back, I'm about to make pancakes. While I'm away, here's a photo of G and A.</p>
-<img src="/img/2022/20220103-Q1000027-Edit.jpg"> 
-
-</div>
-
-
-
-
-
-
-<div class="postNoTitle">
-
-
-<span class="permalinkHash"><a href="https://notes.baty.net/posts/2022/01/16/We-cannot-know-what-moti.html">#</a></span> <p>A frequent mistake we make is to believe that we can know the intentions of others.</p> 
-
-</div>
-
-
-
-
-
-
-<div class="postNoTitle">
-
-
-<span class="permalinkHash"><a href="https://notes.baty.net/posts/2022/01/16/Using-what-I-have.html">#</a></span> <p>After spending a week getting this Tinderbox-generated blog configured just so, I started tinkering with Emacs and ox-hugo again yesterday. Why? I think instead I should use what I have. It's pretty dialed in, so run with it, ok?</p> 
-
-</div>
-
-
-
-
-
-
-<div class="postNoTitle">
-
-
-<span class="permalinkHash"><a href="https://notes.baty.net/posts/2022/01/16/Two-hours-a-day-.html">#</a></span> <p>What would I do with my time if I only allowed myself two hours at the computer each day? I'm afraid to find out. Or, perhaps more accurately, I'm afraid to try. </p> 
-
-</div>
-
-
-
-
-
-
-<div class="postNoTitle">
-
-<figure>
-		<img src="https://notes.baty.net/img/2022/20220104-R0002005.jpg" alt="" class="postimage">
-</figure>
-
-
-<span class="permalinkHash"><a href="https://notes.baty.net/posts/2022/01/16/Sensor-cleaning.html">#</a></span> <p>I recently (accidentally) spit on my SL2-S's sensor while trying to blow some dust off it. (Don't do that). The first swab cleaning didn't remove the smudges. I just tried again, and really "dug in there" with the swab. It worked. Whew! That was scary.</p> 
-
-</div>
-
-
-
-
-
-
-<div class="postNoTitle">
-
-
-<span class="permalinkHash"><a href="https://notes.baty.net/posts/2022/01/16/Vehicles-for-creativity.html">#</a></span> <p>I am surrounded by creative vehicles: Cameras, film, paint supplies, drawing tools, notebooks, pens, a darkroom, typewriters, and so on. They all spend most of the time either parked or up on blocks. To continue stretching the metaphor...I should just hop in and drive.</p> 
-
-</div>
-
-
-
-
-
-
-<div class="postNoTitle">
-
-
-<span class="permalinkHash"><a href="https://notes.baty.net/posts/2022/01/16/A-deliberate-lack-of-rig.html">#</a></span> <p>I'm learning that I avoid anything that requires a significant amount of rigor. A deliberate lack of rigor is more my style.</p> 
-
-</div>
-
-
-
-
-    ]]></description>
-<guid>https://notes.baty.net/posts/2022/01/16.html</guid>
 </item>
 
 </channel>
